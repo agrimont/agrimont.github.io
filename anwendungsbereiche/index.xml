@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anwendungsbereiches on agrimont</title>
+    <link>https://agrimont.github.io/anwendungsbereiche/</link>
+    <description>Recent content in Anwendungsbereiches on agrimont</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 13 Apr 2019 11:57:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://agrimont.github.io/anwendungsbereiche/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Garten- &amp; Landschaftsbau</title>
+      <link>https://agrimont.github.io/anwendungsbereiche/garten-landschaftsbau/liste/</link>
+      <pubDate>Sat, 13 Apr 2019 11:57:18 +0200</pubDate>
+      
+      <guid>https://agrimont.github.io/anwendungsbereiche/garten-landschaftsbau/liste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landwirtschaft</title>
+      <link>https://agrimont.github.io/anwendungsbereiche/landwirtschaft/liste/</link>
+      <pubDate>Sat, 13 Apr 2019 11:57:18 +0200</pubDate>
+      
+      <guid>https://agrimont.github.io/anwendungsbereiche/landwirtschaft/liste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmazie</title>
+      <link>https://agrimont.github.io/anwendungsbereiche/pharmazie/liste/</link>
+      <pubDate>Sat, 13 Apr 2019 11:57:18 +0200</pubDate>
+      
+      <guid>https://agrimont.github.io/anwendungsbereiche/pharmazie/liste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technische Anwendungen</title>
+      <link>https://agrimont.github.io/anwendungsbereiche/technische-anwendungen/liste/</link>
+      <pubDate>Sat, 13 Apr 2019 11:57:18 +0200</pubDate>
+      
+      <guid>https://agrimont.github.io/anwendungsbereiche/technische-anwendungen/liste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tierernährung</title>
+      <link>https://agrimont.github.io/anwendungsbereiche/tierern%C3%A4hrung/liste/</link>
+      <pubDate>Sat, 13 Apr 2019 11:57:18 +0200</pubDate>
+      
+      <guid>https://agrimont.github.io/anwendungsbereiche/tierern%C3%A4hrung/liste/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
