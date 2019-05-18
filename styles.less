@@ -4,15 +4,15 @@
 
 
 body{
-  font-family: 'Century Gothic W01',Arial, Helvetica, sans-serif,serif;
+  font-family: 'ITC Franklin Gothic LT W01 Boo',Arial, Helvetica, sans-serif,serif;
   color:@content;
   *:not(i){
-    font-family: 'Century Gothic W01',Arial, Helvetica, sans-serif important;
+    font-family: 'ITC Franklin Gothic LT W01 Boo',Arial, Helvetica, sans-serif important;
   }
   background:white;
 }
 h1,h2,h3,h4{
-  font-family: 'Century Gothic W01',Arial, Helvetica, sans-serif;
+  font-family: 'ITC Franklin Gothic LT W01 Boo',Arial, Helvetica, sans-serif;
 }
 a{
   color:@green;
@@ -45,7 +45,9 @@ blockquote{
 }
 header{
   #headermenuw{
-    background:@grey;
+    background:white;
+    border-top:1px solid @grey;
+    border-bottom:1px solid @grey;
   }
   .logo{
     @media (max-width: 720px){
@@ -57,10 +59,21 @@ header{
     display:flex;
     justify-content: space-between;
     align-items: center;
+    #langsel{
+      display:flex;
+      justify-content: flex-end;
+      align-items: flex-start;
+      >*{
+        margin-left:1rem;
+      }
+      padding-bottom:1rem;
+    }
     .adrtel{
       display:flex;
       justify-content: flex-end;
+      align-items:flex-start;
       flex:0 1 auto;
+      font-size:0.9rem;
       > div{
         display:inline-block;
         flex:1 1 auto;
@@ -75,6 +88,9 @@ header{
         display:flex;
         justify-content: space-between;
         align-items:center;
+        > div{
+          flex:1 0 auto;
+        }
         img{
           margin: 0 1rem 0 0;
         }
@@ -160,62 +176,84 @@ header{
   }
   #headermenu{
     display:flex;
-    justify-content: flex-start;
-    padding:0;
-    @media (max-width: 720px){
-      display:none;
-    }
-    .headermenuitem{
-      flex:0 1 auto;
-      color:@green;
-      text-transform:uppercase;
-      text-align:center;
-      font-size:1rem;
-      line-height:3rem;
+    justify-content: space-between;
+    > div{
       display:flex;
-      margin-left:-1px;
-      &:first-child{
-        margin-left:-1rem;
+      justify-content: flex-start;
+      padding:0;
+      @media (max-width: 720px){
+        display:none;
       }
-      &.active{
-        color:@green;
-        text-decoration: underline;
-      }
-      color:white!important;
+  }
+  .headermenuitem{
+    flex:0 1 auto;
+    color:@green;
+    text-transform:uppercase;
+    text-align:center;
+    font-size:1.2rem;
+    line-height:3rem;
+    display:flex;
+    margin-left:-1px;
+    border-right:1px solid @grey;
+    &.green{
+      line-height:1.1em;
+      padding:0 1em;
+      font-size:1.0rem;
+      background:@green;
+      color:white;
+      font-weight:bold;
+      display:flex;
+      flex-direction:column;
+      justify-content: center;
       a{
-        span{
-          padding: 0 1em;
-          border-right:1px solid @green;
-        }
+        color:white;
       }
-      
-      word-wrap: none;
-      white-space: nowrap;
-      position:relative;
-      .sub-menu{
-        width:0;
-        height:0;
-        overflow:hidden;
+    }
+    &:first-child{
+      margin-left:-1rem;
+      border-left:1px solid @grey;
+    }
+    &.active{
+      background:@grey;
+    }
+    color:white!important;
+    a{
+      span{
+        padding: 0 1em;
+      }
+    }
+    
+    word-wrap: none;
+    white-space: nowrap;
+    position:relative;
+    .sub-menu{
+      width:0;
+      height:0;
+      overflow:hidden;
+      position:fixed;
+      top:3rem;
+      left:0;
+      margin-top:-1px;
+      z-index:99;
+      .sub-sub-menu{
+        display:none;
         position:absolute;
-        top:3rem;
-        left:0;
-        margin-top:-1px;
-        z-index:99;
-        .sub-sub-menu{
-          display:none;
-          position:absolute;
-          right:0;
-        }
+        right:0;
       }
-      &:hover{
-        background:@green;
-        color:white!important;
-        a{
-          color:white!important;
-        }
+    }
+    &:hover{
+      background:@grey;
+      a{
+        color:@green;
+        text-decoration: none;
+      }
+      .sub-menu{
+        width:100vw;
+        height:auto;
       }
     }
   }
+}
 }
 footer{
   display:block;

@@ -131,172 +131,42 @@
   
   <url>
     <loc>https://agrimont.github.io/produkte/algenkalk/algosil/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/algenkalk/algenkalk-mikronisiert/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/attapulgit/attapulgit-ultra8/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agrimont.github.io/produkte/bentonit/aquasil-aktivbentonit/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/algenkalk/algenkalk-mikronisiert/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/attapulgit/attapulgit-ultra8/</loc>
   </url>
   
   <url>
     <loc>https://agrimont.github.io/produkte/bentonit/bentofeed_fg/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agrimont.github.io/produkte/bentonit/bentofeed_se/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agrimont.github.io/produkte/bentonit/bentosil_150/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agrimont.github.io/produkte/bentonit/bentosil_fg/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agrimont.github.io/produkte/bentonit/bentosil_m75/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agrimont.github.io/produkte/bentonit/bentosil_uf/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/edasil-fg/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/edasil-g/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/edaton-fg-dichtungsgranulat/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/edaton-g-dichtungsgranulat/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/edaton-pulver/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/edaton/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/equimont/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/fena-min/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/mycoex_basic/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/mycoex_plus/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/mycoex_premium/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/pharmabent/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/stabisil-fg7/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/stabisil-p10/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/stabisil-p7/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/terrana-naturaktiv/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/terrana_p61/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/bentonit/toxisorb-premium/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/sepiolith/sepiobest_100p/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/sepiolith/sepiogel-ts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/sepiolith/sepiogel-tx/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/zeolith/zeobest-1g568-futterzsatz/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/zeolith/zeobest-mikronisiert/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agrimont.github.io/produkte/zeolith/zeobest-technische-qualit%C3%A4t/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -305,12 +175,108 @@
   </url>
   
   <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/edasil-fg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/edasil-g/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/edaton/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/edaton-fg-dichtungsgranulat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/edaton-g-dichtungsgranulat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/edaton-pulver/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/equimont/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/fena-min/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrimont.github.io/impressum/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/mycoex_basic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/mycoex_plus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/mycoex_premium/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/pharmabent/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/sepiolith/sepiobest_100p/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/sepiolith/sepiogel-ts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/sepiolith/sepiogel-tx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/stabisil-fg7/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/stabisil-p10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/stabisil-p7/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/terrana-naturaktiv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/terrana_p61/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/bentonit/toxisorb-premium/</loc>
   </url>
   
   <url>
     <loc>https://agrimont.github.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/zeolith/zeobest-1g568-futterzsatz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/zeolith/zeobest-mikronisiert/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/produkte/zeolith/zeobest-technische-qualit%C3%A4t/</loc>
   </url>
   
 </urlset>
