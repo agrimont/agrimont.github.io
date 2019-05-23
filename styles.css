@@ -72,7 +72,7 @@ header #logotel .adrtel {
 header #logotel .adrtel > div {
   display: inline-block;
   flex: 1 1 auto;
-  padding: 0 1rem;
+  padding: 0 1rem 0 0;
   margin: 0;
   border-right: 1px solid #105b31;
   display: flex;
@@ -192,7 +192,6 @@ header #headermenu .headermenuitem {
   text-align: center;
   font-size: 1.2rem;
   line-height: 3rem;
-  display: flex;
   margin-left: -1px;
   border-right: 1px solid #ededed;
   color: white!important;
@@ -215,7 +214,6 @@ header #headermenu .headermenuitem.green a {
   color: white;
 }
 header #headermenu .headermenuitem:first-child {
-  margin-left: -1rem;
   border-left: 1px solid #ededed;
 }
 header #headermenu .headermenuitem.active {
@@ -225,19 +223,44 @@ header #headermenu .headermenuitem a span {
   padding: 0 1em;
 }
 header #headermenu .headermenuitem .sub-menu {
-  width: 0;
+  width: 100vw;
   height: 0;
   overflow: hidden;
   position: fixed;
-  top: 3rem;
   left: 0;
   margin-top: -1px;
+  text-align: left;
+  line-height: 1.3em;
   z-index: 99;
 }
-header #headermenu .headermenuitem .sub-menu .sub-sub-menu {
-  display: none;
-  position: absolute;
-  right: 0;
+header #headermenu .headermenuitem .sub-menu .cols {
+  columns: 4;
+  background: rgba(237, 237, 237, 0.98);
+  padding: 1rem;
+}
+header #headermenu .headermenuitem .sub-menu .cols .sub-menu-item {
+  margin: 0 0 1rem 0;
+}
+header #headermenu .headermenuitem .sub-menu .cols .sub-menu-item > a {
+  color: #1e1e1e;
+  font-weight: bold;
+  font-size: 0.95rem;
+}
+header #headermenu .headermenuitem .sub-menu .cols .sub-menu-item .sub-sub-menu-item a {
+  color: #1e1e1e;
+  text-transform: none;
+  font-size: 0.95rem;
+  line-height: 1.3em;
+}
+header #headermenu .headermenuitem .sub-menu .cols .sub-menu-item .sub-sub-menu-item a:hover {
+  color: #105b31;
+  text-decoration: underline;
+}
+header #headermenu .headermenuitem .sub-menu .cols .sub-menu-item .sub-sub-menu-item::before {
+  content: '>>';
+  color: #1e1e1e;
+  margin: 0 0.25rem 0 0;
+  font-size: 0.85rem;
 }
 header #headermenu .headermenuitem:hover {
   background: #ededed;
@@ -247,7 +270,6 @@ header #headermenu .headermenuitem:hover a {
   text-decoration: none;
 }
 header #headermenu .headermenuitem:hover .sub-menu {
-  width: 100vw;
   height: auto;
 }
 footer {
