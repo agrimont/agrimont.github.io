@@ -17,6 +17,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
+  color: #105b31;
 }
 .sy-box.topslider {
   background: #ededed;
@@ -36,6 +37,9 @@ blockquote {
   text-align: center;
   font-style: italic;
   font-size: 1.8rem;
+}
+.wgrey {
+  background: #ededed;
 }
 header #headermenuw {
   background: white;
@@ -317,4 +321,294 @@ footer .footermenu a:last-child {
   padding: 0.5rem 1rem;
   text-align: center;
   background: white;
+}
+#home #slidercontainer {
+  margin: 0 0 1rem;
+}
+#home #slider {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+#home #slider .slideritem {
+  position: relative;
+  height: 65vh!important;
+}
+#home #slider .slideritem .ptxt a {
+  text-decoration: none!important;
+}
+#home #slider .slideritem .morebutton_slider {
+  border-top: 1px solid #105b31;
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+}
+#home #slider .slideritem .morebutton_slider > div {
+  width: 100px;
+  background: #105b31;
+  color: white;
+  padding: 0.5rem 0.75rem;
+  font-weight: bold;
+  text-align: center;
+}
+#home #slider .slideritem.full {
+  background-size: cover !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+#home #slider .slideritem.full .ptxt {
+  padding: 2rem 10vw;
+  text-align: center;
+}
+#home #slider .slideritem.full .ptxt .titles {
+  display: flex;
+  flex-direction: column-reverse;
+}
+#home #slider .slideritem.full .ptxt h4 {
+  font-weight: normal;
+  margin: 0;
+  color: #1e1e1e;
+  font-size: 1.6rem;
+  text-transform: none;
+}
+#home #slider .slideritem.full .ptxt h3 {
+  color: #105b31;
+  font-size: 4rem;
+  text-transform: none;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+}
+#home #slider .slideritem.container {
+  background-size: contain!important;
+}
+#home #slider .slideritem.container .ptxt {
+  position: absolute;
+  right: 6rem;
+  top: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: right;
+}
+#home #slider .slideritem.container .ptxt h4 {
+  font-weight: normal;
+  margin: 0;
+  color: #1e1e1e;
+  font-size: 1.9rem;
+  text-transform: uppercase;
+}
+#home #slider .slideritem.container .ptxt h3 {
+  color: #105b31;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  margin: 0;
+}
+@media (max-width: 720px) {
+  #home #slider .slideritem {
+    flex-direction: column;
+  }
+  #home #slider .slideritem .pimg {
+    background-size: cover!important;
+    width: 100%;
+    height: 30vh;
+    min-height: 100px;
+  }
+  #home #slider .slideritem .ptxt {
+    padding: 1rem 3rem;
+    width: 100%;
+  }
+  #home #slider .slideritem .ptxt h4 {
+    font-weight: normal;
+    margin: 0;
+  }
+  #home #slider .slideritem .ptxt h3 {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+  }
+}
+#home #icons {
+  background: white;
+  padding: 1rem 2rem;
+  z-index: 99;
+  position: relative;
+  margin-top: -70px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #105b31;
+}
+#home #icons > div {
+  flex: 1 0 33%;
+  width: 33%;
+  display: flex;
+  justify-content: space-between;
+}
+#home #icons > div > div {
+  width: 75%;
+}
+#home #icons > div > div img {
+  max-width: 100%;
+}
+#home #icons > div > div:first-child {
+  width: 25%;
+}
+#home #icons > div > div:last-child {
+  padding: 0 2rem 0 2rem;
+}
+#home #icons > div > div h4 {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0 0 0.75rem 0;
+  font-size: 1.6rem;
+  color: #105b31;
+}
+#home #icons > div > div p {
+  font-size: 0.9rem;
+}
+#home #produkte,
+#home #anwendungsbereiche {
+  padding: 4rem 0;
+}
+#home #produkte .column img,
+#home #anwendungsbereiche .column img {
+  margin: 0 0 2rem 0;
+}
+#home #produkte h3,
+#home #anwendungsbereiche h3 {
+  color: #105b31;
+  text-transform: none;
+  text-align: center;
+  font-weight: normal;
+  font-size: 1.8rem;
+  margin: 0;
+}
+#home #produkte h2,
+#home #anwendungsbereiche h2 {
+  color: #1e1e1e;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2.1rem;
+  letter-spacing: 0.1em;
+  margin: 0 0 2rem 0;
+}
+#home #produkte a,
+#home #anwendungsbereiche a {
+  text-decoration: none!important;
+}
+#home #about {
+  padding: 4rem 0;
+}
+#home #about .column {
+  background-size: contain!important;
+}
+#home #about .column h3 {
+  color: #105b31;
+  text-transform: none;
+  text-align: left;
+  font-weight: normal;
+  font-size: 1.8rem;
+  margin: 0;
+}
+#home #about .column h2 {
+  color: #1e1e1e;
+  text-transform: none;
+  text-align: left;
+  font-weight: bold;
+  font-size: 2.1rem;
+  letter-spacing: 0.1em;
+  margin: 0 0 2rem 0;
+}
+#home #anwendungsbereiche .pelements {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 0 -1rem;
+}
+#home #anwendungsbereiche .pelements .column {
+  width: 33%;
+  padding: 1rem;
+  display: flex;
+}
+#home #anwendungsbereiche .pelements .column .abcard {
+  flex: 1 1 auto;
+  background: white;
+  height: 100%;
+}
+#home #anwendungsbereiche .pelements .column .abcard .headimg {
+  padding-top: 25vh;
+  background-size: cover!important;
+}
+#home #anwendungsbereiche .pelements .column .abcard .icon {
+  padding-top: 8vh;
+  background-size: contain!important;
+  margin-top: -4vh;
+  z-index: 2;
+}
+#home #anwendungsbereiche .pelements .column .abcard .inner {
+  text-align: center;
+  padding: 2rem 1rem 1rem 1rem;
+  font-size: 1.2rem;
+}
+#home #anwendungsbereiche .pelements .column .abcard .inner h4 {
+  font-weight: bold;
+  font-size: 1.8rem;
+  color: #105b31 !important;
+  text-transform: uppercase;
+  margin: 0 0 1rem 0;
+}
+#home #anwendungsbereiche .pelements .column .abcard .inner .content {
+  margin: 0 0 2rem 0;
+}
+.agributton {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.agributton * {
+  text-decoration: none!important;
+}
+.agributton *:hover {
+  text-decoration: none!important;
+}
+.agributton .text {
+  background: #105b31;
+  color: white;
+  height: 2.2rem;
+  margin-left: -1rem;
+  z-index: 0;
+  padding: 0 2rem 0 2rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-top-right-radius: 0.8rem;
+  border-bottom-right-radius: 0.8rem;
+}
+.agributton .text:hover {
+  color: #105b31;
+  background: white;
+  border: 1.5px solid #105b31;
+}
+.agributton .iconw {
+  border: 2px solid #105b31;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  width: 3.3rem;
+  height: 3.3rem;
+  background: white;
+  z-index: 1;
+}
+.agributton .iconw i {
+  text-decoration: none!important;
+  font-size: 1.8rem;
+  line-height: 1.8rem;
+  font-size: 100;
+  padding: 0;
+  margin: 0 0 0 0;
 }

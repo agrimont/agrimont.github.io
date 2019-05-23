@@ -19,6 +19,7 @@ a{
   color:@green;
   &:hover{
     text-decoration: underline;
+    color:@green;
   }
 }
 .sy-box.topslider{
@@ -43,6 +44,9 @@ blockquote{
   text-align:center;
   font-style: italic;
   font-size:1.8rem;
+}
+.wgrey{
+  background:@grey;
 }
 header{
   #headermenuw{
@@ -327,9 +331,298 @@ footer{
   }
 }
 #home{
-
+  #slidercontainer{
+    margin:0 0 1rem;
+  }
+  #slider{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+    .slideritem{
+      position:relative;
+      height:65vh!important;
+      .ptxt{
+        a{
+          text-decoration:none!important;
+        }
+      }
+      .morebutton_slider{
+        border-top:1px solid @green;
+        width:200px;
+        display:flex;
+        justify-content: flex-end;
+        > div{
+          width:100px;
+          background:@green;
+          color:white;
+          padding:0.5rem 0.75rem;
+          font-weight:bold;
+          text-align:center;
+        }
+      }
+      &.full{
+        background-size:cover !important;
+        display:flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: flex-start;
+        .ptxt{
+          padding:2rem 10vw;
+          text-align:center;
+          .titles{
+            display:flex;
+            flex-direction: column-reverse;
+          }
+          h4{
+            font-weight:normal;
+            margin:0;
+            color:@content;
+            font-size:1.6rem;
+            text-transform:none;
+          }
+          h3{
+            color:@green;
+            font-size:4rem;
+            text-transform:none;
+            font-weight:bold;
+            letter-spacing:0.05em;
+          }
+        }
+      }
+      &.container{
+        background-size:contain!important;
+        .ptxt{
+          position:absolute;
+          right:6rem;
+          top:1rem;
+          display:flex;
+          flex-direction: column;
+          align-items: flex-end;
+          justify-content: flex-start;
+          text-align:right;
+          h4{
+            font-weight:normal;
+            margin:0;
+            color:@content;
+            font-size:1.9rem;
+            text-transform:uppercase;
+          }
+          h3{
+            color:@green;
+            font-size:2.5rem;
+            text-transform:uppercase;
+            margin:0;
+          }
+        }
+      }
+      
+      @media (max-width: 720px){
+        flex-direction:column;
+        .pimg{
+          background-size:cover!important;
+          width:100%;
+          height:30vh;
+          min-height:100px;
+        }
+        .ptxt{
+          padding:1rem 3rem;
+          width:100%;
+          h4{
+            font-weight:normal;
+            margin:0;
+          }
+          h3{
+            margin:0 0 1rem 0;
+            font-size:1.5rem;
+          }
+        }
+      }
+    }
+  }
+  #icons{
+    background:white;
+    padding:1rem 2rem;
+    z-index:99;
+    position:relative;
+    margin-top:-70px;
+    display:flex;
+    justify-content: space-between;
+    border-bottom:1px solid @green;
+    > div{
+      flex:1 0 33%;
+      width:33%;
+      display:flex;
+      justify-content: space-between;
+      > div{
+        width:75%;
+        img{
+          max-width:100%;
+        }
+        &:first-child{
+          width:25%;
+        }
+        &:last-child{
+          padding:0 2rem 0 2rem;
+        }
+        h4{
+          font-weight:bold;
+          text-transform: uppercase;
+          margin: 0 0 0.75rem 0;
+          font-size:1.6rem;
+          color:@green;
+        }
+        p{
+          font-size:0.9rem;
+        }
+      }
+    }
+  }
+  #produkte,#anwendungsbereiche{
+    padding:4rem 0;
+    .column{
+      img{
+        margin:0 0 2rem 0;
+      }
+    }
+    h3{
+      color:@green;
+      text-transform: none;
+      text-align:center;
+      font-weight:normal;
+      font-size:1.8rem;
+      margin:0;
+    }
+    h2{
+      color:@content;
+      text-transform: uppercase;
+      text-align:center;
+      font-weight:bold;
+      font-size:2.1rem;
+      letter-spacing:0.1em;
+      margin:0 0 2rem 0;
+    }
+    a{
+      text-decoration:none!important;
+    }
+  }
+  #about{
+    padding:4rem 0;
+    .column{
+      background-size:contain!important;
+      h3{
+        color:@green;
+        text-transform: none;
+        text-align:left;
+        font-weight:normal;
+        font-size:1.8rem;
+        margin:0;
+      }
+      h2{
+        color:@content;
+        text-transform: none;
+        text-align:left;
+        font-weight:bold;
+        font-size:2.1rem;
+        letter-spacing:0.1em;
+        margin:0 0 2rem 0;
+      }
+    }
+  }
+  #anwendungsbereiche{
+    .pelements{
+      display:flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      margin:0 -1rem;
+      .column{
+        width:33%;
+        padding:1rem;
+        display:flex;
+        .abcard{
+          flex:1 1 auto;
+          background:white;
+          height:100%;
+          .headimg{
+            padding-top:25vh;
+            background-size:cover!important;
+          }
+          .icon{
+            padding-top:8vh;
+            background-size:contain!important;
+            margin-top:-4vh;
+            z-index:2;
+          }
+          .inner{
+            text-align:center;
+            padding:2rem 1rem 1rem 1rem;
+            font-size:1.2rem;
+            h4{
+              font-weight:bold;
+              font-size:1.8rem;
+              color:@green!important;
+              text-transform:uppercase;
+              margin: 0 0 1rem 0;
+            }
+            .content{
+              margin:0 0 2rem 0;
+            }
+          }
+        }
+      }
+    }
+  }
 }
 
 .subpage{
   
+}
+.agributton{
+  display:flex;
+  justify-content: flex-start;
+  align-items:center;
+  *{
+    text-decoration:none!important;
+    &:hover{
+      text-decoration:none!important;
+    }
+  }
+  .text{
+    background:@green;
+    color:white;
+    height:2.2rem;
+    margin-left:-1rem;
+    z-index:0;
+    padding:0 2rem 0 2rem;
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-weight:bold;
+    text-transform:uppercase;
+    border-top-right-radius: 0.8rem;
+    border-bottom-right-radius: 0.8rem;
+    &:hover{
+      color:@green;
+      background:white;
+      border:1.5px solid @green;
+    }
+  }
+  .iconw{
+    border:2px solid @green;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:100%;
+    width:3.3rem;
+    height:3.3rem;
+    background:white;
+    z-index:1;
+    i{
+      text-decoration:none!important;
+      font-size:1.8rem;
+      line-height:1.8rem;
+      font-size:100;
+      padding:0;
+      margin:0 0 0 0;
+    }
+  }
 }
