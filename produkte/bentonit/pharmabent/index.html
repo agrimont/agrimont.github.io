@@ -570,8 +570,65 @@
       </div>
     </div>
   </div>
-  <div class="ui container">
+  <div class="ui container content">
     <p>Konform mit dem Europäischen Arzneibuch (Pharmacopoea Europaea, Ph. Eur.) und British Pharmacopoeia (BP)</p><p>Momographie: Bentonit - Pharma-Qualität | Synonym: Bentonitum Ph.Eur., Bentonite INCI</p><p>Der Bentonit PHARMABENT® ist der geeignete pharmazeutische Hilfsstoff um:</p><ul><li><p>auch bei geringen Einsatzmengen Emulsionen zu stabilisieren. Dabei bleibt die Viskosität der durch die kolloidale Struktur von PHARMABENT® stabilisierten Systeme auch bei höheren Temperaturen erhalten.</p></li><li><p>die Suspendierung von feinen Partikeln in wässrigen Systemen zu verbessern. Mit PHARMABENT® werden optimale Suspensionen erreicht, ohne die Fließfähigkeit zu verlieren.</p></li></ul><p>Aufgrund der sorgfältigen Rohbentonitauswahl verfügt PHARMABENT® über maßgeschneiderte rheologische, chemische und kolloidale Eigenschaften für den Einsatz im pharmazeutischen Bereich.</p>
+  </div>
+  <div class="ui container sections">
+    
+      <div class="sec closed">
+        <div class="sech">
+          <i class="ui icon plus"></i><i class="ui icon minus"></i>Definition
+        </div>
+        <div class="secc">
+          <ul><li><p>Äusserlich in Pudern, Pasten und Verbänden bei Hauterkrankungen</p></li><li><p>Innerlich ähnlich wie Aktivkohle als altes Hausmittel bei Magen-Darm-Beschwerden. PHARMABENT® stabilisiert den Schleimfilm auf der Schleimhaut im Verdauungstrakt und adsorbiert krankheitsauslösende Stoffe (z.B. Schwermetalle, Mykotoxine etc.) und Keime, die dann aus dem Körper ausgeleitet werden</p></li></ul>
+        </div>
+      </div>
+    
+      <div class="sec closed">
+        <div class="sech">
+          <i class="ui icon plus"></i><i class="ui icon minus"></i>Wirkungen
+        </div>
+        <div class="secc">
+          <p>Äusserlich in Pudern, Pasten und Verbänden bei Hauterkrankungen</p><p>Innerlich ähnlich wie Aktivkohle als altes Hausmittel bei Magen-Darm-Beschwerden. PHARMABENT® stabilisiert den Schleimfilm auf der Schleimhaut im Verdauungstrakt und adsorbiert krankheitsauslösende Stoffe (z.B. Schwermetalle, Mykotoxine etc.) und Keime, die dann aus dem Körper ausgeleitet werden</p>
+        </div>
+      </div>
+    
+      <div class="sec closed">
+        <div class="sech">
+          <i class="ui icon plus"></i><i class="ui icon minus"></i>Indikationen
+        </div>
+        <div class="secc">
+          <p>Äusserlich in Pudern, Pasten und Verbänden bei Hauterkrankungen</p><p>Innerlich ähnlich wie Aktivkohle als altes Hausmittel bei Magen-Darm-Beschwerden. PHARMABENT® stabilisiert den Schleimfilm auf der Schleimhaut im Verdauungstrakt und adsorbiert krankheitsauslösende Stoffe (z.B. Schwermetalle, Mykotoxine etc.) und Keime, die dann aus dem Körper ausgeleitet werden</p><p>Als pharmazeutischer Hilfsstoff, z.B. als Presshilfsmittel zur Tablettierung, Fließhilfsmittel oder Gerinnungshilfsstoff u.a.</p>
+        </div>
+      </div>
+    
+      <div class="sec closed">
+        <div class="sech">
+          <i class="ui icon plus"></i><i class="ui icon minus"></i>Produktbeschreibung
+        </div>
+        <div class="secc">
+          <p>Äusserlich in Pudern, Pasten und Verbänden bei Hauterkrankungen</p><p>Innerlich ähnlich wie Aktivkohle als altes Hausmittel bei Magen-Darm-Beschwerden. PHARMABENT® stabilisiert den Schleimfilm auf der Schleimhaut im Verdauungstrakt und adsorbiert krankheitsauslösende Stoffe (z.B. Schwermetalle, Mykotoxine etc.) und Keime, die dann aus dem Körper ausgeleitet werden</p>
+        </div>
+      </div>
+    
+      <div class="sec closed">
+        <div class="sech">
+          <i class="ui icon plus"></i><i class="ui icon minus"></i>Prüfung auf Identität, Reinheit und funktionalitätsbezogene Eigenschaften
+        </div>
+        <div class="secc">
+          <p>Äusserlich in Pudern, Pasten und Verbänden bei Hauterkrankungen</p><p>Innerlich ähnlich wie Aktivkohle als altes Hausmittel bei Magen-Darm-Beschwerden. PHARMABENT® stabilisiert den Schleimfilm auf der Schleimhaut im Verdauungstrakt und adsorbiert krankheitsauslösende Stoffe (z.B. Schwermetalle, Mykotoxine etc.) und Keime, die dann aus dem Körper ausgeleitet werden</p>
+        </div>
+      </div>
+    
+      <div class="sec closed">
+        <div class="sech">
+          <i class="ui icon plus"></i><i class="ui icon minus"></i>Konformität mit der Europäischen Pharmakopöe (Arzneibuch), Monographie Bentonit
+        </div>
+        <div class="secc">
+          <p>Äusserlich in Pudern, Pasten und Verbänden bei Hauterkrankungen</p><p>Innerlich ähnlich wie Aktivkohle als altes Hausmittel bei Magen-Darm-Beschwerden. PHARMABENT® stabilisiert den Schleimfilm auf der Schleimhaut im Verdauungstrakt und adsorbiert krankheitsauslösende Stoffe (z.B. Schwermetalle, Mykotoxine etc.) und Keime, die dann aus dem Körper ausgeleitet werden</p>
+        </div>
+      </div>
+    
   </div>
 </div>
 
@@ -647,7 +704,16 @@
         } else {
           $('#headermenu').addClass('mobvis');
         }
-
+      });
+      $('.sech').click(function () {
+        if ($(this).parent().hasClass('open')){
+          $(this).parent().removeClass('open');
+          $(this).parent().addClass('closed');
+        }else{
+          $(this).parent().removeClass('closed');
+          $(this).parent().addClass('open');
+        }
+        
       });
     });
   </script>

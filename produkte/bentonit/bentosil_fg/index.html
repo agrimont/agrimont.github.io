@@ -539,7 +539,10 @@
       </div>
     </div>
   </div>
-  <div class="ui container">
+  <div class="ui container content">
+    
+  </div>
+  <div class="ui container sections">
     
   </div>
 </div>
@@ -616,7 +619,16 @@
         } else {
           $('#headermenu').addClass('mobvis');
         }
-
+      });
+      $('.sech').click(function () {
+        if ($(this).parent().hasClass('open')){
+          $(this).parent().removeClass('open');
+          $(this).parent().addClass('closed');
+        }else{
+          $(this).parent().removeClass('closed');
+          $(this).parent().addClass('open');
+        }
+        
       });
     });
   </script>

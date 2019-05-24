@@ -613,7 +613,16 @@ Umsatzsteuer-ID: DE813459486</p>
         } else {
           $('#headermenu').addClass('mobvis');
         }
-
+      });
+      $('.sech').click(function () {
+        if ($(this).parent().hasClass('open')){
+          $(this).parent().removeClass('open');
+          $(this).parent().addClass('closed');
+        }else{
+          $(this).parent().removeClass('closed');
+          $(this).parent().addClass('open');
+        }
+        
       });
     });
   </script>

@@ -794,7 +794,16 @@ Sofern eine der oben genannten Voraussetzungen gegeben ist und eine betroffene P
         } else {
           $('#headermenu').addClass('mobvis');
         }
-
+      });
+      $('.sech').click(function () {
+        if ($(this).parent().hasClass('open')){
+          $(this).parent().removeClass('open');
+          $(this).parent().addClass('closed');
+        }else{
+          $(this).parent().removeClass('closed');
+          $(this).parent().addClass('open');
+        }
+        
       });
     });
   </script>
