@@ -562,6 +562,84 @@ footer .footermenu a:last-child {
 #home #anwendungsbereiche .pelements .column .abcard .inner .content {
   margin: 0 0 2rem 0;
 }
+.subpage.product .phc {
+  background-size: cover!important;
+}
+.subpage.product .phc .content {
+  min-height: 25vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.subpage.product .phc .content h2,
+.subpage.product .phc .content h3 {
+  margin: 0!important;
+  text-transform: uppercase;
+}
+.subpage.product .phc .content h3 {
+  font-weight: bold;
+  color: #105b31;
+}
+.subpage.product .phc .content h2 {
+  color: #1e1e1e;
+  font-size: 1.0rem;
+}
+.subpage.product #imggal {
+  height: 32vh;
+  margin: 2rem 0 4rem 0;
+  display: flex;
+  justify-content: space-between;
+}
+.subpage.product #imggal > div {
+  width: 34%;
+}
+.subpage.product #imggal > div:first-child {
+  width: 64%;
+  border: 1px solid #ededed;
+}
+.subpage.product #imggal > div.sm {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.subpage.product #imggal > div.sm > div {
+  border: 1px solid #ededed;
+  flex: 0 1 auto;
+  height: calc(46%);
+}
+.subpage.product #titlesec {
+  margin: 0 0 2rem 0;
+  display: flex;
+  justify-content: space-between;
+}
+.subpage.product #titlesec a {
+  text-decoration: none!important;
+}
+.subpage.product #titlesec h1,
+.subpage.product #titlesec h2 {
+  margin: 0;
+}
+.subpage.product #titlesec h2 {
+  color: #105b31;
+  font-weight: normal;
+  font-size: 1.4rem;
+}
+.subpage.product #titlesec h1 {
+  color: #1e1e1e;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 2rem;
+  letter-spacing: 0.1em;
+}
+.subpage.product #titlesec > div:last-child {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.subpage.product #titlesec > div:last-child > * {
+  margin: 0 0 0 1rem;
+}
 .agributton {
   display: flex;
   justify-content: flex-start;

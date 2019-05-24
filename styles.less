@@ -574,7 +574,86 @@ footer{
 }
 
 .subpage{
-  
+  &.product{
+    .phc{
+      background-size: cover!important;
+      .content{
+        min-height:25vh;
+        display:flex;
+        flex-direction:column;
+        justify-content: center;
+        align-items: flex-start;
+        h2,h3{
+          margin:0!important;
+          text-transform:uppercase;
+        }
+        h3{
+          font-weight:bold;
+          color:@green;
+        }
+        h2{
+          color:@content;
+          font-size:1.0rem;
+        }
+      }
+    }
+    #imggal{
+      height:32vh;
+      margin:2rem 0 4rem 0;
+      display:flex;
+      justify-content: space-between;
+      > div{
+        width:34%;
+        &:first-child{
+          width:64%;
+          border:1px solid @grey;
+        }
+        &.sm{
+          display:flex;
+          flex-direction:column;
+          justify-content: space-between;
+          > div{
+            border:1px solid @grey;
+            flex:0 1 auto;
+            height:calc(50% - 4rem);
+          }
+        }
+      }
+    }
+    #titlesec{
+      margin: 0 0 2rem 0;
+      a{
+        text-decoration:none!important;
+      }
+      h1,h2{
+        margin:0;
+      }
+      h2{
+        color:@green;
+        font-weight:normal;
+        font-size:1.4rem;
+      }
+      h1{
+        color:@content;
+        text-transform:uppercase;
+        font-weight:bold;
+        font-size:2rem;
+        letter-spacing: 0.1em;
+      }
+      display:flex;
+      justify-content: space-between;
+      > div{
+        &:last-child{
+          display:flex;
+          justify-content: flex-end;
+          align-items:center;
+          > *{
+            margin: 0 0 0 1rem;
+          }
+        }
+      }
+    }
+  }
 }
 .agributton{
   display:flex;
