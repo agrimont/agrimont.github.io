@@ -562,6 +562,75 @@ footer .footermenu a:last-child {
 #home #anwendungsbereiche .pelements .column .abcard .inner .content {
   margin: 0 0 2rem 0;
 }
+.subpage.awb .phc {
+  background-color: #ededed !important;
+}
+.subpage.awb .phc .content {
+  background-size: contain!important;
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.subpage.awb h1 {
+  margin: 2rem 0!important;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #105b31;
+  font-size: 1.8rem;
+}
+.subpage.awb #anwendungsbereiche .pelements {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0 0 2rem 0;
+}
+.subpage.awb #anwendungsbereiche .pelements .abcard {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  background: #fafafa;
+  width: 100%;
+  margin: 0 0 2rem 0;
+  height: 100%;
+}
+.subpage.awb #anwendungsbereiche .pelements .abcard:nth-child(even) {
+  background: #ededed;
+}
+.subpage.awb #anwendungsbereiche .pelements .abcard .headimg {
+  padding: 13.5vw 24vw 0 0;
+  background-size: cover!important;
+}
+.subpage.awb #anwendungsbereiche .pelements .abcard .imgicon {
+  position: relative;
+}
+.subpage.awb #anwendungsbereiche .pelements .abcard .icon {
+  padding: 6vw 6vw 0 0;
+  background-size: contain!important;
+  margin-top: -4vh;
+  z-index: 2;
+  right: -3vw;
+  top: 50%;
+  position: absolute;
+}
+.subpage.awb #anwendungsbereiche .pelements .abcard .inner {
+  flex: 1 1 auto;
+  text-align: left;
+  padding: 1rem 1rem 1rem 6vw;
+  font-size: 1.2rem;
+}
+.subpage.awb #anwendungsbereiche .pelements .abcard .inner h4 {
+  font-weight: bold;
+  font-size: 1.8rem;
+  color: #105b31 !important;
+  text-transform: uppercase;
+  margin: 0 0 1rem 0;
+}
+.subpage.awb #anwendungsbereiche .pelements .abcard .inner .content {
+  margin: 0 0 2rem 0;
+}
 .subpage.products .phc {
   background-color: #ededed !important;
   background-size: cover!important;
