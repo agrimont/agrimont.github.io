@@ -574,6 +574,76 @@ footer{
 }
 
 .subpage{
+  &.products{
+    .phc{
+      background-color:@grey!important;
+      background-size: cover!important;
+      .content{
+        min-height:25vh;
+        display:flex;
+        flex-direction:column;
+        justify-content: center;
+        align-items: flex-start;
+        h1{
+          margin:0!important;
+          text-transform:uppercase;
+          font-weight:bold;
+          color:@green;
+          font-size:1.8rem;
+        }
+      }
+    }
+    .sections{
+      padding-left:4rem;
+      .sec{
+        margin:0 0 1rem 0;
+      }
+      .secc{
+        ul{
+          columns: 3;
+          background:@grey;
+          padding:1rem;
+          margin:-1rem -2rem;
+          li{
+            background:none!important;
+            list-style-type: circle;
+            padding:0;
+            margin-left:1em;
+            font-size:1.2rem;
+            line-height:1.8rem!important;
+          }
+        }
+        .awsec{
+          display:flex;
+          justify-content: space-between;
+          align-items: flex-start;
+          .icon{
+            padding:8vh 8vh 0 0;
+            background-size:contain!important;
+          }
+          > div.content{
+            flex: 1 0 auto;
+            padding: 0 0 2rem 4rem;
+            h3{
+              color:@green;
+              text-transform: uppercase;
+              font-weight:bold;
+              font-size:1.6rem;
+            }
+          }
+        }
+      }
+    }
+    .pgroup{
+      h2{
+        text-transform:uppercase;
+        font-weight:bold;
+        color:@green;
+        font-size:1.8rem;
+        margin: 4rem 0 2rem 0;
+      }
+    }
+  }
   &.product{
     .phc{
       background-size: cover!important;
@@ -663,74 +733,74 @@ footer{
       }
     }
     .sections{
-      .sec{
-        margin: 2rem 0 0 0;
-        .sech{
-          display:flex;
-          justify-content: flex-start;
-          align-items: center;
-          padding:2rem;
-          background:@green;
-          color:white;
-          font-weight:bold;
-          font-size:1.8rem;
-          text-transform:uppercase;
-          letter-spacing:0.1em;
-          line-height:2rem;
-          cursor:pointer;
-          i{
-            overflow:hidden;
-            font-weight:100;
-            font-size:1.5rem;
-            margin:0 2rem 0 0;
-          }
-          .minus{
-            width:auto;
-          }
-          .plus{
-            width:0;
-            margin:0;
-          }
-        }
-        .secc{
-          padding:2rem;
-          ul{
-            padding:0;
-            margin: 0 0 1rem 0;
-          }
-          li{
-            background:url(/images/check-solid.svg) left center no-repeat;
-            background-size: 1.6rem;
-            list-style-type: none;
-            padding: 0 0 0 3rem;
-          }
-        }
-        &.closed{
-          .sech{
-            background:@grey;
-            color:@content;
-            font-weight:normal;
-            .minus{
-              width:0;
-              margin:0;
-            }
-            .plus{
-              width:auto;
-              margin: 0 2rem 0 0;
-            }
-          }
-          .secc{
-            height:0;
-            overflow:hidden;
-            padding:0;
-          }
-        }
-        &.open{
-          .secc{
-            height:auto;
-          }
-        }
+    }
+  }
+}
+.sec{
+  margin: 2rem 0 0 0;
+  .sech{
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding:2rem;
+    background:@green;
+    color:white;
+    font-weight:bold;
+    font-size:1.8rem;
+    text-transform:uppercase;
+    letter-spacing:0.1em;
+    line-height:2rem;
+    cursor:pointer;
+    i{
+      overflow:hidden;
+      font-weight:100;
+      font-size:1.5rem;
+      margin:0 2rem 0 0;
+    }
+    .minus{
+      width:auto;
+    }
+    .plus{
+      width:0;
+      margin:0;
+    }
+  }
+  .secc{
+    padding:2rem;
+    ul{
+      padding:0;
+      margin: 0 0 1rem 0;
+    }
+    li{
+      background:url(/images/check-solid.svg) left center no-repeat;
+      background-size: 1.6rem;
+      list-style-type: none;
+      padding: 0 0 0 3rem;
+    }
+  }
+  &.closed{
+    .sech{
+      background:@grey;
+      color:@content;
+      font-weight:normal;
+      .minus{
+        width:0;
+        margin:0;
       }
+      .plus{
+        width:auto;
+        margin: 0 2rem 0 0;
+      }
+    }
+    .secc{
+      height:0;
+      overflow:hidden;
+      padding:0;
+    }
+  }
+  &.open{
+    .secc{
+      height:auto;
     }
   }
 }

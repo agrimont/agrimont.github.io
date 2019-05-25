@@ -562,6 +562,70 @@ footer .footermenu a:last-child {
 #home #anwendungsbereiche .pelements .column .abcard .inner .content {
   margin: 0 0 2rem 0;
 }
+.subpage.products .phc {
+  background-color: #ededed !important;
+  background-size: cover!important;
+}
+.subpage.products .phc .content {
+  min-height: 25vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.subpage.products .phc .content h1 {
+  margin: 0!important;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #105b31;
+  font-size: 1.8rem;
+}
+.subpage.products .sections {
+  padding-left: 4rem;
+}
+.subpage.products .sections .sec {
+  margin: 0 0 1rem 0;
+}
+.subpage.products .sections .secc ul {
+  columns: 3;
+  background: #ededed;
+  padding: 1rem;
+  margin: -1rem -2rem;
+}
+.subpage.products .sections .secc ul li {
+  background: none!important;
+  list-style-type: circle;
+  padding: 0;
+  margin-left: 1em;
+  font-size: 1.2rem;
+  line-height: 1.8rem!important;
+}
+.subpage.products .sections .secc .awsec {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.subpage.products .sections .secc .awsec .icon {
+  padding: 8vh 8vh 0 0;
+  background-size: contain!important;
+}
+.subpage.products .sections .secc .awsec > div.content {
+  flex: 1 0 auto;
+  padding: 0 0 2rem 4rem;
+}
+.subpage.products .sections .secc .awsec > div.content h3 {
+  color: #105b31;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.6rem;
+}
+.subpage.products .pgroup h2 {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #105b31;
+  font-size: 1.8rem;
+  margin: 4rem 0 2rem 0;
+}
 .subpage.product .phc {
   background-size: cover!important;
 }
@@ -647,10 +711,10 @@ footer .footermenu a:last-child {
 .subpage.product .content ul li {
   margin-left: 1em;
 }
-.subpage.product .sections .sec {
+.sec {
   margin: 2rem 0 0 0;
 }
-.subpage.product .sections .sec .sech {
+.sec .sech {
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -664,51 +728,51 @@ footer .footermenu a:last-child {
   line-height: 2rem;
   cursor: pointer;
 }
-.subpage.product .sections .sec .sech i {
+.sec .sech i {
   overflow: hidden;
   font-weight: 100;
   font-size: 1.5rem;
   margin: 0 2rem 0 0;
 }
-.subpage.product .sections .sec .sech .minus {
+.sec .sech .minus {
   width: auto;
 }
-.subpage.product .sections .sec .sech .plus {
+.sec .sech .plus {
   width: 0;
   margin: 0;
 }
-.subpage.product .sections .sec .secc {
+.sec .secc {
   padding: 2rem;
 }
-.subpage.product .sections .sec .secc ul {
+.sec .secc ul {
   padding: 0;
   margin: 0 0 1rem 0;
 }
-.subpage.product .sections .sec .secc li {
+.sec .secc li {
   background: url(/images/check-solid.svg) left center no-repeat;
   background-size: 1.6rem;
   list-style-type: none;
   padding: 0 0 0 3rem;
 }
-.subpage.product .sections .sec.closed .sech {
+.sec.closed .sech {
   background: #ededed;
   color: #1e1e1e;
   font-weight: normal;
 }
-.subpage.product .sections .sec.closed .sech .minus {
+.sec.closed .sech .minus {
   width: 0;
   margin: 0;
 }
-.subpage.product .sections .sec.closed .sech .plus {
+.sec.closed .sech .plus {
   width: auto;
   margin: 0 2rem 0 0;
 }
-.subpage.product .sections .sec.closed .secc {
+.sec.closed .secc {
   height: 0;
   overflow: hidden;
   padding: 0;
 }
-.subpage.product .sections .sec.open .secc {
+.sec.open .secc {
   height: auto;
 }
 .agributton {
