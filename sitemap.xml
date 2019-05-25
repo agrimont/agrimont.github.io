@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://agrimont.github.io/anwendungsbereiche/liste/</loc>
-    <lastmod>2019-04-13T11:57:18+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://agrimont.github.io/anwendungsbereiche/</loc>
     <lastmod>2019-04-13T11:57:18+02:00</lastmod>
     <priority>0</priority>
@@ -134,6 +129,10 @@
   
   <url>
     <loc>https://agrimont.github.io/produkte/algenkalk/algenkalk-mikronisiert/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrimont.github.io/anwendungsbereiche/</loc>
   </url>
   
   <url>
