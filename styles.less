@@ -575,6 +575,82 @@ footer{
 }
 
 .subpage{
+  &.ab{
+    #titlesec{
+      margin: 0 0 2rem 0;
+      a{
+        text-decoration:none!important;
+      }
+      h1,h2{
+        margin:0;
+      }
+      h2{
+        color:@green;
+        font-weight:normal;
+        font-size:1.4rem;
+      }
+      h1{
+        color:@content;
+        text-transform:uppercase;
+        font-weight:bold;
+        font-size:2rem;
+        letter-spacing: 0.1em;
+      }
+      display:flex;
+      justify-content: space-between;
+      > div{
+        &:last-child{
+          display:flex;
+          justify-content: flex-end;
+          align-items:center;
+          > *{
+            margin: 0 0 0 1rem;
+          }
+        }
+      }
+    }
+    > .content{
+      img{
+        max-width:100%;
+      }
+    }
+    .secc{
+      display:flex;
+      justify-content: space-between;
+      a{
+        text-decoration:none!important;
+      }
+      i{
+        color:@green;
+      }
+    }
+    .phc{
+      background-color:@grey!important;
+      background-size: cover!important;
+      margin-bottom:4rem;
+      .content{
+        min-height:40vh;
+        display:flex;
+        flex-direction:column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding:4rem;
+        h2{
+          margin:0!important;
+          text-transform:uppercase;
+          font-weight:bold;
+          color:@green;
+          font-size:1.8rem;
+        }
+        h1{
+          margin:0;
+          color:@content;
+          font-size:1.3rem;
+          text-transform:uppercase;
+        }
+      }
+    }
+  }
   &.awb{
     .phc{
       background-color:@grey!important;

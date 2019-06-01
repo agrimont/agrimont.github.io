@@ -562,6 +562,77 @@ footer .footermenu a:last-child {
 #home #anwendungsbereiche .pelements .column .abcard .inner .content {
   margin: 0 0 2rem 0;
 }
+.subpage.ab #titlesec {
+  margin: 0 0 2rem 0;
+  display: flex;
+  justify-content: space-between;
+}
+.subpage.ab #titlesec a {
+  text-decoration: none!important;
+}
+.subpage.ab #titlesec h1,
+.subpage.ab #titlesec h2 {
+  margin: 0;
+}
+.subpage.ab #titlesec h2 {
+  color: #105b31;
+  font-weight: normal;
+  font-size: 1.4rem;
+}
+.subpage.ab #titlesec h1 {
+  color: #1e1e1e;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 2rem;
+  letter-spacing: 0.1em;
+}
+.subpage.ab #titlesec > div:last-child {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.subpage.ab #titlesec > div:last-child > * {
+  margin: 0 0 0 1rem;
+}
+.subpage.ab > .content img {
+  max-width: 100%;
+}
+.subpage.ab .secc {
+  display: flex;
+  justify-content: space-between;
+}
+.subpage.ab .secc a {
+  text-decoration: none!important;
+}
+.subpage.ab .secc i {
+  color: #105b31;
+}
+.subpage.ab .phc {
+  background-color: #ededed !important;
+  background-size: cover!important;
+  margin-bottom: 4rem;
+}
+.subpage.ab .phc .content {
+  min-height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 4rem;
+}
+.subpage.ab .phc .content h2 {
+  margin: 0!important;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #105b31;
+  font-size: 1.8rem;
+}
+.subpage.ab .phc .content h1 {
+  margin: 0;
+  color: #1e1e1e;
+  font-size: 1.3rem;
+  text-transform: uppercase;
+}
 .subpage.awb .phc {
   background-color: #ededed !important;
 }
