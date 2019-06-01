@@ -562,9 +562,75 @@ footer .footermenu a:last-child {
 #home #anwendungsbereiche .pelements .column .abcard .inner .content {
   margin: 0 0 2rem 0;
 }
+.nopadding {
+  padding: 0!important;
+}
 .subpage .grey {
   background: #ededed;
   padding: 2rem 0;
+}
+.subpage.downloads h1 {
+  color: #105b31;
+  font-weight: normal;
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 0;
+}
+.subpage.downloads h2 {
+  color: #1e1e1e;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+  margin: 0 0 2rem 0;
+}
+.subpage.downloads .downloadlist {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.subpage.downloads .downloadlist > * {
+  width: 47%;
+}
+.subpage.downloads .downloadlist .secc a {
+  display: block;
+  text-align: left;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+.subpage.downloads .content {
+  padding: 4rem  0;
+  text-align: center;
+}
+.subpage.downloads .phc {
+  height: 40vh!important;
+  display: flex;
+  padding: 4rem 0 0 4rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.subpage.downloads .phc h3,
+.subpage.downloads .phc h4 {
+  text-transform: uppercase;
+  margin: 0;
+}
+.subpage.downloads .phc h3 {
+  color: #105b31;
+  font-size: 2rem!important;
+}
+.subpage.downloads .phc h4 {
+  color: #1e1e1e;
+}
+.subpage.downloads .content ul {
+  padding: 0;
+  margin: 0 0 1rem 0;
+}
+.subpage.downloads .content li {
+  background: url(/images/check-solid.svg) left center no-repeat;
+  background-size: 1.6rem;
+  list-style-type: none;
+  padding: 0 0 0 3rem;
 }
 .subpage.about #zerts {
   padding: 2rem 0;
