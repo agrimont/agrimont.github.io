@@ -575,6 +575,68 @@ footer{
 }
 
 .subpage{
+  .grey{
+    background:@grey;
+    padding: 2rem 0;
+  }
+  &.about{
+    #zerts{
+      padding: 2rem 0;
+    }
+    h1,h4{
+      color:@green;
+      font-weight:normal;
+      font-size:1.5rem;
+      text-align:center;
+      margin:0;
+    }
+    h2,h3{
+      color:@content;
+      font-weight:bold;
+      font-size:2rem;
+      text-align:center;
+      margin:0 0 2rem 0;
+    }
+    h3{
+      text-transform:uppercase;
+    }
+    .phc{
+      padding-top:25vh;
+    }
+    .logolist{
+      display:flex;
+      justify-content: center;
+      align-items:center;
+      > *{
+        margin: 1rem 3vw;
+      }
+    }
+    .content{
+      ul{
+        padding:0;
+        margin: 0 0 1rem 0;
+      }
+      li{
+        background:url(/images/check-solid.svg) left center no-repeat;
+        background-size: 1.6rem;
+        list-style-type: none;
+        padding: 0 0 0 3rem;
+      }
+    }
+    .greenbutton{
+      display:block;
+      padding:2rem 2rem;
+      color:white;
+      background:@green;
+      margin: 0 0 2rem 0;
+      font-size:1.5rem;
+      font-weight:bold;
+      line-height:2rem;
+      i{
+        font-size:2rem;
+      }
+    }
+  }
   &.ab{
     #titlesec{
       margin: 0 0 2rem 0;

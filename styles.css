@@ -562,6 +562,66 @@ footer .footermenu a:last-child {
 #home #anwendungsbereiche .pelements .column .abcard .inner .content {
   margin: 0 0 2rem 0;
 }
+.subpage .grey {
+  background: #ededed;
+  padding: 2rem 0;
+}
+.subpage.about #zerts {
+  padding: 2rem 0;
+}
+.subpage.about h1,
+.subpage.about h4 {
+  color: #105b31;
+  font-weight: normal;
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 0;
+}
+.subpage.about h2,
+.subpage.about h3 {
+  color: #1e1e1e;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+  margin: 0 0 2rem 0;
+}
+.subpage.about h3 {
+  text-transform: uppercase;
+}
+.subpage.about .phc {
+  padding-top: 25vh;
+}
+.subpage.about .logolist {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.subpage.about .logolist > * {
+  margin: 1rem 3vw;
+}
+.subpage.about .content ul {
+  padding: 0;
+  margin: 0 0 1rem 0;
+}
+.subpage.about .content li {
+  background: url(/images/check-solid.svg) left center no-repeat;
+  background-size: 1.6rem;
+  list-style-type: none;
+  padding: 0 0 0 3rem;
+}
+.subpage.about .greenbutton {
+  display: block;
+  padding: 2rem 2rem;
+  color: white;
+  background: #105b31;
+  margin: 0 0 2rem 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 2rem;
+}
+.subpage.about .greenbutton i {
+  font-size: 2rem;
+}
 .subpage.ab #titlesec {
   margin: 0 0 2rem 0;
   display: flex;
