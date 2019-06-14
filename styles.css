@@ -569,6 +569,66 @@ footer .footermenu a:last-child {
   background: #ededed;
   padding: 2rem 0;
 }
+.subpage.kontakt .phc {
+  height: 40vh!important;
+  padding: 0;
+}
+.subpage.kontakt footer {
+  margin: 0!important;
+}
+.subpage.kontakt #mapaddr {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.subpage.kontakt #mapaddr > * {
+  width: 50%;
+}
+.subpage.kontakt #mapaddr > *:first-child {
+  flex: 0 0 auto;
+  padding: 0 0 40% 0;
+}
+.subpage.kontakt #mapaddr > *:first-child iframe {
+  padding: 0;
+  margin: 0;
+}
+.subpage.kontakt #mapaddr #klist {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.subpage.kontakt #mapaddr #klist > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 2rem;
+}
+.subpage.kontakt #mapaddr #klist > div img {
+  margin-right: 2rem;
+}
+.subpage.kontakt h1 {
+  color: #105b31;
+  font-weight: normal;
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 0;
+}
+.subpage.kontakt h2 {
+  color: #1e1e1e;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+  margin: 0 0 2rem 0;
+}
+.subpage.kontakt .content {
+  padding: 4rem  0;
+  text-align: center;
+}
 .subpage.downloads h1 {
   color: #105b31;
   font-weight: normal;
