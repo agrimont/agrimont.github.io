@@ -51,6 +51,25 @@ header #headermenuw {
     height: 60px;
   }
 }
+header .logow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+@media (max-width: 720px) {
+  header .logow {
+    width: 70vw;
+  }
+}
+@media (min-width: 720px) {
+  header #langselmobile {
+    display: none;
+  }
+}
+header #langselmobile img {
+  width: 30px;
+  height: 30px!important;
+}
 header #logotel {
   padding: 1rem 0;
   display: flex;
@@ -66,12 +85,36 @@ header #logotel #langsel {
 header #logotel #langsel > * {
   margin-left: 1rem;
 }
+@media (max-width: 720px) {
+  header #logotel #langsel {
+    display: none;
+  }
+}
 header #logotel .adrtel {
   display: flex;
   justify-content: flex-end;
   align-items: flex-start;
   flex: 0 1 auto;
   font-size: 0.9rem;
+}
+header #logotel .adrtel .headermenuitem {
+  display: none;
+}
+@media (max-width: 720px) {
+  header #logotel .adrtel {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start !important;
+  }
+  header #logotel .adrtel > div {
+    width: auto!important;
+    justify-content: flex-end !important;
+    margin-right: 1rem!important;
+  }
+  header #logotel .adrtel .headermenuitem {
+    display: block;
+    margin: 0 auto!important;
+  }
 }
 header #logotel .adrtel > div {
   display: inline-block;
@@ -167,9 +210,11 @@ header #headermenumobil {
   header #headermenumobil .headermenuitem {
     width: 50%;
     color: #105b31;
+    border: none;
     text-transform: uppercase;
     font-size: 1rem;
-    line-height: 2.5rem;
+    line-height: 2rem;
+    text-align: left;
   }
   header #headermenumobil .headermenuitem:nth-child(even) {
     text-align: right;
@@ -186,10 +231,10 @@ header #headermenu > div {
 }
 @media (max-width: 720px) {
   header #headermenu > div {
-    display: none;
+    display: none!important;
   }
 }
-header #headermenu .headermenuitem {
+.headermenuitem {
   flex: 0 1 auto;
   color: #105b31;
   text-transform: uppercase;
@@ -203,9 +248,9 @@ header #headermenu .headermenuitem {
   white-space: nowrap;
   position: relative;
 }
-header #headermenu .headermenuitem.green {
+.headermenuitem.green {
   line-height: 1.1em;
-  padding: 0 1em;
+  padding: 0 1em!important;
   font-size: 1.0rem;
   background: #105b31;
   color: white;
@@ -214,19 +259,19 @@ header #headermenu .headermenuitem.green {
   flex-direction: column;
   justify-content: center;
 }
-header #headermenu .headermenuitem.green a {
+.headermenuitem.green a {
   color: white;
 }
-header #headermenu .headermenuitem:first-child {
+.headermenuitem:first-child {
   border-left: 1px solid #ededed;
 }
-header #headermenu .headermenuitem.active {
+.headermenuitem.active {
   background: #ededed;
 }
-header #headermenu .headermenuitem a span {
+.headermenuitem a span {
   padding: 0 1em;
 }
-header #headermenu .headermenuitem .sub-menu {
+.headermenuitem .sub-menu {
   width: 100vw;
   height: 0;
   overflow: hidden;
@@ -237,43 +282,43 @@ header #headermenu .headermenuitem .sub-menu {
   line-height: 1.3em;
   z-index: 99;
 }
-header #headermenu .headermenuitem .sub-menu .cols {
+.headermenuitem .sub-menu .cols {
   columns: 4;
   background: rgba(237, 237, 237, 0.98);
   padding: 1rem;
 }
-header #headermenu .headermenuitem .sub-menu .cols .sub-menu-item {
+.headermenuitem .sub-menu .cols .sub-menu-item {
   margin: 0 0 1rem 0;
 }
-header #headermenu .headermenuitem .sub-menu .cols .sub-menu-item > a {
+.headermenuitem .sub-menu .cols .sub-menu-item > a {
   color: #1e1e1e;
   font-weight: bold;
   font-size: 0.95rem;
 }
-header #headermenu .headermenuitem .sub-menu .cols .sub-menu-item .sub-sub-menu-item a {
+.headermenuitem .sub-menu .cols .sub-menu-item .sub-sub-menu-item a {
   color: #1e1e1e;
   text-transform: none;
   font-size: 0.95rem;
   line-height: 1.3em;
 }
-header #headermenu .headermenuitem .sub-menu .cols .sub-menu-item .sub-sub-menu-item a:hover {
+.headermenuitem .sub-menu .cols .sub-menu-item .sub-sub-menu-item a:hover {
   color: #105b31;
   text-decoration: underline;
 }
-header #headermenu .headermenuitem .sub-menu .cols .sub-menu-item .sub-sub-menu-item::before {
+.headermenuitem .sub-menu .cols .sub-menu-item .sub-sub-menu-item::before {
   content: '>>';
   color: #1e1e1e;
   margin: 0 0.25rem 0 0;
   font-size: 0.85rem;
 }
-header #headermenu .headermenuitem:hover {
+.headermenuitem:hover {
   background: #ededed;
 }
-header #headermenu .headermenuitem:hover a {
+.headermenuitem:hover a {
   color: #105b31;
   text-decoration: none;
 }
-header #headermenu .headermenuitem:hover .sub-menu {
+.headermenuitem:hover .sub-menu {
   height: auto;
 }
 footer {
@@ -380,6 +425,15 @@ footer .footermenu a:last-child {
   font-weight: bold;
   letter-spacing: 0.05em;
 }
+@media (max-width: 720px) {
+  #home #slider .slideritem.full .ptxt h4 {
+    font-size: 1.3rem;
+    text-transform: none;
+  }
+  #home #slider .slideritem.full .ptxt h3 {
+    font-size: 3rem;
+  }
+}
 #home #slider .slideritem.container {
   background-size: contain!important;
 }
@@ -405,6 +459,17 @@ footer .footermenu a:last-child {
   font-size: 2.5rem;
   text-transform: uppercase;
   margin: 0;
+}
+@media (max-width: 720px) {
+  #home #slider .slideritem.container .ptxt {
+    right: 0;
+  }
+  #home #slider .slideritem.container .ptxt h4 {
+    font-size: 1.3rem;
+  }
+  #home #slider .slideritem.container .ptxt h3 {
+    font-size: 1.8rem;
+  }
 }
 @media (max-width: 720px) {
   #home #slider .slideritem {
@@ -467,13 +532,50 @@ footer .footermenu a:last-child {
 #home #icons > div > div p {
   font-size: 0.9rem;
 }
+@media (max-width: 720px) {
+  #home #icons {
+    flex-direction: column;
+  }
+  #home #icons > div {
+    flex: 1 1 auto;
+    width: 100%!important;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  #home #icons > div > div {
+    width: 85%;
+  }
+  #home #icons > div > div img {
+    max-width: 100%;
+  }
+  #home #icons > div > div:first-child {
+    width: 15%;
+  }
+  #home #icons > div > div:last-child {
+    padding: 0 2rem 0 2rem;
+  }
+  #home #icons > div > div h4 {
+    font-size: 1.3rem;
+  }
+  #home #icons > div > div p {
+    font-size: 0.9rem;
+  }
+}
 #home #produkte,
 #home #anwendungsbereiche {
   padding: 4rem 0;
 }
+@media (max-width: 720px) {
+  #home #produkte,
+  #home #anwendungsbereiche {
+    padding: 2rem 0;
+  }
+}
 #home #produkte .column img,
 #home #anwendungsbereiche .column img {
-  margin: 0 0 2rem 0;
+  margin: 0 auto 2rem auto;
+  max-width: 80%;
 }
 #home #produkte h3,
 #home #anwendungsbereiche h3 {
@@ -493,6 +595,17 @@ footer .footermenu a:last-child {
   font-size: 2.1rem;
   letter-spacing: 0.1em;
   margin: 0 0 2rem 0;
+}
+@media (max-width: 720px) {
+  #home #produkte h3,
+  #home #anwendungsbereiche h3 {
+    font-size: 1.3rem!important;
+  }
+  #home #produkte h2,
+  #home #anwendungsbereiche h2 {
+    font-size: 1.8rem!important;
+    margin: 0 0 1rem 0;
+  }
 }
 #home #produkte a,
 #home #anwendungsbereiche a {
@@ -532,6 +645,12 @@ footer .footermenu a:last-child {
   padding: 1rem;
   display: flex;
 }
+@media (max-width: 720px) {
+  #home #anwendungsbereiche .pelements .column {
+    width: 50%;
+    padding: 0;
+  }
+}
 #home #anwendungsbereiche .pelements .column .abcard {
   flex: 1 1 auto;
   background: white;
@@ -558,6 +677,11 @@ footer .footermenu a:last-child {
   color: #105b31 !important;
   text-transform: uppercase;
   margin: 0 0 1rem 0;
+}
+@media (max-width: 720px) {
+  #home #anwendungsbereiche .pelements .column .abcard .inner h4 {
+    font-size: 1.2rem;
+  }
 }
 #home #anwendungsbereiche .pelements .column .abcard .inner .content {
   margin: 0 0 2rem 0;
@@ -629,6 +753,43 @@ footer .footermenu a:last-child {
   padding: 4rem  0;
   text-align: center;
 }
+@media (max-width: 720px) {
+  .subpage.kontakt #mapaddr {
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+  .subpage.kontakt #mapaddr > * {
+    width: 100%;
+  }
+  .subpage.kontakt #mapaddr > *:first-child {
+    flex: 0 0 auto;
+    padding: 0 0 50vh 0;
+  }
+  .subpage.kontakt #mapaddr > *:first-child iframe {
+    padding: 0;
+    margin: 0;
+  }
+  .subpage.kontakt #mapaddr #klist {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .subpage.kontakt #mapaddr #klist > div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 2rem;
+  }
+  .subpage.kontakt #mapaddr #klist > div img {
+    margin-right: 2rem;
+  }
+}
 .subpage.downloads h1 {
   color: #105b31;
   font-weight: normal;
@@ -657,6 +818,23 @@ footer .footermenu a:last-child {
   text-align: left;
   font-size: 1.5rem;
   line-height: 2rem;
+}
+@media (max-width: 720px) {
+  .subpage.downloads .downloadlist {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .subpage.downloads .downloadlist > * {
+    width: 100%;
+  }
+  .subpage.downloads .downloadlist .secc a {
+    display: block;
+    text-align: left;
+    font-size: 1.3rem;
+    line-height: 2rem;
+  }
 }
 .subpage.downloads .content {
   padding: 4rem  0;
@@ -748,6 +926,20 @@ footer .footermenu a:last-child {
 .subpage.about .greenbutton i {
   font-size: 2rem;
 }
+@media (max-width: 720px) {
+  .subpage.about .logolist {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .subpage.about .logolist img {
+    max-width: 20vw;
+  }
+  .subpage.about .logolist > * {
+    margin: 1rem 3vw;
+  }
+}
 .subpage.ab #titlesec {
   margin: 0 0 2rem 0;
   display: flex;
@@ -819,6 +1011,50 @@ footer .footermenu a:last-child {
   font-size: 1.3rem;
   text-transform: uppercase;
 }
+@media (max-width: 720px) {
+  .subpage.ab .container.standard {
+    margin: 0!important;
+  }
+  .subpage.ab .phc {
+    background-color: #ededed !important;
+    background-size: cover!important;
+    margin-bottom: 1rem;
+    height: 30vh;
+  }
+  .subpage.ab .phc .content {
+    display: none!important;
+  }
+  .subpage.ab #titlesec {
+    margin: 0 0 2rem 0;
+  }
+  .subpage.ab #titlesec a {
+    text-decoration: none!important;
+  }
+  .subpage.ab #titlesec h1,
+  .subpage.ab #titlesec h2 {
+    margin: 0;
+  }
+  .subpage.ab #titlesec h2 {
+    font-size: 1.2rem;
+  }
+  .subpage.ab #titlesec h1 {
+    font-size: 1.6rem;
+  }
+  .subpage.ab #titlesec img {
+    max-width: 60px;
+  }
+  .subpage.ab .secc {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .subpage.ab .secc a {
+    text-decoration: none!important;
+  }
+  .subpage.ab .secc i {
+    color: #105b31;
+  }
+}
 .subpage.awb .phc {
   background-color: #ededed !important;
 }
@@ -889,6 +1125,62 @@ footer .footermenu a:last-child {
 .subpage.awb #anwendungsbereiche .pelements .abcard .inner .content {
   margin: 0 0 2rem 0;
 }
+@media (max-width: 720px) {
+  .subpage.awb #anwendungsbereiche .pelements {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0 0 2rem 0;
+  }
+  .subpage.awb #anwendungsbereiche .pelements .abcard {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: #fafafa;
+    border: 1px solid rgba(237, 237, 237, 0.98);
+    width: 100%;
+    margin: 0 0 2rem 0;
+    height: 100%;
+  }
+  .subpage.awb #anwendungsbereiche .pelements .abcard:nth-child(even) {
+    background: #ededed;
+  }
+  .subpage.awb #anwendungsbereiche .pelements .abcard .headimg {
+    width: 100%;
+    padding-top: 30vh;
+    background-size: cover!important;
+  }
+  .subpage.awb #anwendungsbereiche .pelements .abcard .imgicon {
+    position: relative;
+  }
+  .subpage.awb #anwendungsbereiche .pelements .abcard .icon {
+    background-size: contain!important;
+    margin: -30px 0 0 -30px;
+    z-index: 2;
+    left: 50%;
+    width: 60px!important;
+    height: 60px!important;
+    top: 30vh;
+    position: absolute;
+  }
+  .subpage.awb #anwendungsbereiche .pelements .abcard .inner {
+    flex: 1 1 auto;
+    text-align: left;
+    padding: 1rem!important;
+    text-align: center;
+    font-size: 1.2rem;
+  }
+  .subpage.awb #anwendungsbereiche .pelements .abcard .inner h4 {
+    font-size: 1.4rem;
+    color: #105b31 !important;
+    text-transform: uppercase;
+    margin: 2rem 0 1rem 0;
+  }
+  .subpage.awb #anwendungsbereiche .pelements .abcard .inner .content {
+    margin: 0 0 0 0;
+  }
+}
 .subpage.products .phc {
   background-color: #ededed !important;
   background-size: cover!important;
@@ -952,6 +1244,39 @@ footer .footermenu a:last-child {
   color: #105b31;
   font-size: 1.8rem;
   margin: 4rem 0 2rem 0;
+}
+@media (max-width: 720px) {
+  .subpage.products .pgroup h2 {
+    font-size: 1.4rem;
+    margin: 2rem 0 1rem 0;
+  }
+  .subpage.products .sections {
+    padding-left: 2rem;
+  }
+  .subpage.products .sections .sec {
+    margin: 0 0 1rem 0;
+  }
+  .subpage.products .sections .secc {
+    padding: 1rem;
+  }
+  .subpage.products .sections .secc ul {
+    columns: 1;
+    margin: 0 -1rem;
+  }
+  .subpage.products .sections .secc .awsec .icon {
+    padding: 4vh 4vh 0 0;
+    background-size: contain!important;
+  }
+  .subpage.products .sections .secc .awsec > div.content {
+    flex: 1 1 auto;
+    padding: 0 0 2rem 1rem;
+  }
+  .subpage.products .sections .secc .awsec > div.content h3 {
+    color: #105b31;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.3rem;
+  }
 }
 .subpage.product .phc {
   background-size: cover!important;
@@ -1097,10 +1422,49 @@ footer .footermenu a:last-child {
 .sec.closed .secc {
   height: 0;
   overflow: hidden;
-  padding: 0;
+  padding: 0!important;
 }
 .sec.open .secc {
   height: auto;
+}
+@media (max-width: 720px) {
+  .sec {
+    margin: 1rem 0 0 0;
+  }
+  .sec .sech {
+    padding: 1rem!important;
+    font-size: 1.4rem!important;
+    letter-spacing: 0.05em;
+    line-height: 2rem;
+    cursor: pointer;
+  }
+  .sec .sech i {
+    overflow: hidden;
+    font-weight: 100;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    margin: 0 1rem 0 0;
+  }
+  .sec .sech .minus {
+    width: auto;
+  }
+  .sec .sech .plus {
+    width: 0;
+    margin: 0;
+  }
+  .sec .secc {
+    padding: 2rem;
+  }
+  .sec .secc ul {
+    padding: 0;
+    margin: 0 0 2rem 0;
+  }
+  .sec .secc li {
+    background: url(/images/check-solid.svg) left center no-repeat;
+    background-size: 1.4rem;
+    list-style-type: none;
+    padding: 0 0 0 1rem;
+  }
 }
 .agributton {
   display: flex;
