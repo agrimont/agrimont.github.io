@@ -71,8 +71,8 @@ fields:
     labelField: 
   label: Produkte
 pages:
-- content/tierernährung.md
-- content/technische-anwendungen.md
-- content/landwirtschaft.md
-- content/pharmazie.md
 - content/garten-und-landschaftsbau.md
+- content/pharmazie.md
+- content/landwirtschaft.md
+- content/technische-anwendungen.md
+- content/tierernährung.md
