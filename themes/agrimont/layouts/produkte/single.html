@@ -1,0 +1,72 @@
+{{ define "main" }} {{ $currentPage := . }}
+<div class="subpage product">
+  <div class="phc" style="background:url({{partial "imgUrl" (dict "img" .Params.bilder.header "params" "c_scale,w_2500,q_90,f_auto" )}}) center center no-repeat;">
+    <div class="ui container standard">
+      <div class="content" >
+        <h3>
+            Produkte
+        </h3>
+        <h2>
+            {{replaceRE "\\[.+\\]" "" .Params.menu.produkte.parent}} >> {{replaceRE "\\[.+\\]" "" .Params.title}}
+        </h2>
+      </div>
+    </div>
+  </div>
+  <div class="ui container">
+    <div id="imggal">
+      {{range $idx,$img := $currentPage.Params.bilder.gallerie}}
+        {{if eq $idx 0}}
+        <div style="background:url({{partial "imgUrl" (dict "img" $img "params" "c_scale,w_800,q_90,f_auto" )}}) center center no-repeat;"></div>
+        {{end}}
+      {{end}}
+      <div class="sm">
+          {{range $idx,$img := $currentPage.Params.bilder.gallerie}}
+          {{if gt $idx 0}}
+          <div style="background:url({{partial "imgUrl" (dict "img" $img "params" "c_scale,w_400,q_90,f_auto" )}}) center center no-repeat;"></div>
+          {{end}}
+        {{end}}
+      </div>
+    </div>
+  </div>
+  <div class="ui container">
+    <div id="titlesec">
+      <div>
+        <h2>{{replaceRE "\\[.+\\]" "" .Params.menu.produkte.parent}}</h2>
+        <h1>{{replaceRE "\\[.+\\]" "" .Params.title}}</h1>
+      </div>
+      <div>
+        {{range .Params.dateien}}
+          <a class="agributton" href="{{.datei}}" target="_blank">
+            <div class="iconw">
+                <i class="icon file pdf"></i>
+            </div>
+            <div class="text">
+              {{.titel}}
+            </div>
+          </a>
+        {{end}}
+        {{range .Params.links_mit_icons_oben}}
+          <a href="{{ref $currentPage .link}}">
+            <img src="{{partial "imgUrl" (dict "img" .icon "params" "c_scale,h_50,q_100,f_auto" )}}">
+          </a>
+        {{end}}
+      </div>
+    </div>
+  </div>
+  <div class="ui container content">
+    {{.Params.content_oben|safeHTML}}
+  </div>
+  <div class="ui container sections">
+    {{range .Params.sections}}
+      <div class="sec closed">
+        <div class="sech">
+          <i class="ui icon plus"></i><i class="ui icon minus"></i>{{.titel}}
+        </div>
+        <div class="secc">
+          {{.content|safeHTML}}
+        </div>
+      </div>
+    {{end}}
+  </div>
+</div>
+{{ end }}

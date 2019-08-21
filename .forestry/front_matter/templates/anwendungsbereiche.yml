@@ -1,0 +1,21 @@
+---
+label: Anwendungsbereiche
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titel
+- name: bild_header
+  type: file
+  config:
+    maxSize: 250
+  label: Header Bild
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+pages:
+- content/anwendungsbereiche.md

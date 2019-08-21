@@ -1,0 +1,125 @@
+---
+label: Products
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titel
+- name: bild_header
+  type: file
+  config:
+    maxSize: 250
+  label: Bild Header
+- name: produktgruppen
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Produktgruppen
+  fields:
+  - name: produktgruppe
+    type: text
+    config:
+      required: false
+    label: Produktgruppe
+  - name: beschreibung
+    type: field_group
+    config: {}
+    fields:
+    - name: beschriftung
+      type: text
+      config:
+        required: false
+      label: Beschriftung
+    - name: content
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: html-blocks
+      label: Content
+    label: Beschreibung
+  - name: produktliste
+    type: field_group
+    config: {}
+    fields:
+    - name: beschriftung
+      type: text
+      config:
+        required: false
+      label: Beschriftung
+    - name: produktlink
+      type: field_group_list
+      fields:
+      - name: produktname
+        type: text
+        config:
+          required: false
+        label: Produktname
+      - name: link
+        type: select
+        default: []
+        config:
+          required: false
+          options: []
+          source:
+            type: pages
+            section: produkte
+            file: 
+            path: 
+        label: Link
+      config:
+        min: 
+        max: 
+        labelField: 
+      label: Produktlink
+    label: Produktliste
+  - name: anwendungsbereiche
+    type: field_group
+    config: {}
+    fields:
+    - name: beschriftung
+      type: text
+      config:
+        required: false
+      label: Beschriftung
+    - name: bereiche
+      type: field_group_list
+      fields:
+      - name: titel
+        type: text
+        config:
+          required: false
+        label: Titel
+      - name: icon
+        type: file
+        config:
+          maxSize: 250
+        label: Icon
+      - name: content
+        type: textarea
+        default: ''
+        config:
+          required: false
+          wysiwyg: true
+          schema:
+            format: html-blocks
+        label: Content
+      config:
+        min: 
+        max: 
+        labelField: 
+      label: Bereiche
+    label: Anwendungsbereiche
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+pages:
+- content/produkte.md

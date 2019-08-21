@@ -1,0 +1,43 @@
+{{ define "main" }} {{ $currentPage := . }}
+<div class="subpage about">
+    <div class="phc" style="background:url({{partial "imgUrl" (dict "img" .Params.bild_header "params" "c_scale,w_2500,q_100,f_auto" )}}) center center no-repeat;"></div>
+  <div class="grey">
+    <div class="ui container content">
+        <h1>{{.Params.title}}</h1>
+        <h2>{{.Params.untertitel}}</h2>
+      <div class="ui two column stackable grid">
+        <div class="column">
+            {{.Params.content_oben_links|safeHTML}}
+        </div>
+        <div class="column">
+            {{.Params.content_oben_rechts|safeHTML}}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ui container" id="zerts">
+    <h4>{{.Params.zertifikate.untertitel}}</h4>
+    <h3>{{.Params.zertifikate.titel}}</h3>
+    <div class="ui two column stackable grid">
+      <div class="column">
+          {{range .Params.zertifikate.links}}
+            <a class="greenbutton" href="{{.datei}}" target="_blank">
+              <i class="icon file pdf outline"></i>
+              {{.titel}}
+            </a>
+          {{end}}
+      </div>
+      <div class="column">
+          <img src="{{partial "imgUrl" (dict "img" .Params.zertifikate.bild_rechts "params" "c_scale,h_400,q_100,f_auto" )}}"/>
+      </div>
+    </div>
+    <div class="logolist">
+      {{range .Params.zertifikate.logo_links}}
+        <a href="{{.link}}" target="_blank">
+            <img src="{{partial "imgUrl" (dict "img" .logo "params" "c_scale,h_100,q_100,f_auto" )}}"/>
+        </a>
+      {{end}}
+    </div>
+  </div>
+</div>
+{{ end }}

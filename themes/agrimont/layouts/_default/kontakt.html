@@ -1,0 +1,25 @@
+{{ define "main" }} {{ $currentPage := . }}
+<div class="subpage kontakt">
+  <div class="phc" style="background:url({{partial "imgUrl" (dict "img" .Params.bild_header "params" "c_scale,w_2500,q_100,f_auto" )}}) center bottom no-repeat; background-size:cover"></div>
+  <div class="ui container content">
+    <h1>{{.Params.title}}</h1>
+    <h2>{{.Params.untertitel}}</h2>
+    {{.Params.content|safeHTML}}
+  </div>
+  <div class="ui container fluid">
+    <div class="grey" id="mapaddr">
+      <div class="ui 16:9 embed autoplay" data-url="https://www.openstreetmap.org/export/embed.html?bbox=10.9368896484375%2C48.38270604320723%2C12.760620117187502%2C49.24629332459796&amp;layer=mapnik&amp;marker=48.81635927146624%2C11.8487548828125"></div>
+      <div id="klist">
+        {{range .Params.kontaktdaten}}
+          <div>
+            <img src="{{.icon}}"/>
+            <div>
+              {{.content|safeHTML}}
+            </div>
+          </div>
+        {{end}}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

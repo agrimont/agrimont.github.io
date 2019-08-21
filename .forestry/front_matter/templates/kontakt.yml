@@ -1,0 +1,57 @@
+---
+label: Kontakt
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titel
+- name: untertitel
+  type: text
+  config:
+    required: false
+  label: Untertitel
+- name: bild_header
+  type: file
+  config:
+    maxSize: 250
+  label: Bild Header
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Content
+- name: kontaktdaten
+  type: field_group_list
+  fields:
+  - name: icon
+    type: file
+    config:
+      maxSize: 250
+    label: Icon
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Content
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Kontaktdaten
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+pages:
+- content/kontakt.md

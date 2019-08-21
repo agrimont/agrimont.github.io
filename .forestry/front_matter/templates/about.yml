@@ -1,0 +1,100 @@
+---
+label: About
+hide_body: true
+fields:
+- name: bild_header
+  type: file
+  config:
+    maxSize: 250
+  label: Bild Header
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titel
+- name: untertitel
+  type: text
+  config:
+    required: false
+  label: Untertitel
+- name: content_oben_links
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Content oben links
+- name: content_oben_rechts
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Content oben rechts
+- name: zertifikate
+  type: field_group
+  config: {}
+  fields:
+  - name: titel
+    type: text
+    config:
+      required: false
+    label: Titel
+  - name: untertitel
+    type: text
+    config:
+      required: false
+    label: Untertitel
+  - name: links
+    type: field_group_list
+    fields:
+    - name: titel
+      type: text
+      config:
+        required: false
+      label: Titel
+    - name: datei
+      type: file
+      config:
+        maxSize: 250
+      label: Datei
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Links
+  - name: bild_rechts
+    type: file
+    config:
+      maxSize: 250
+    label: Bild rechts
+  - name: logo_links
+    type: field_group_list
+    fields:
+    - name: logo
+      type: file
+      config:
+        maxSize: 250
+      label: Logo
+    - name: link
+      type: text
+      config:
+        required: false
+      label: Link
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Logo Links
+  label: Zertifikate
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+pages:
+- content/über-uns.md

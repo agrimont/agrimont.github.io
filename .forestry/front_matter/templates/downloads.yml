@@ -1,0 +1,81 @@
+---
+label: Downloads
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titel
+- name: untertitel
+  type: text
+  config:
+    required: false
+  label: Untertitel
+- name: header
+  type: field_group
+  config: {}
+  fields:
+  - name: bild
+    type: file
+    config:
+      maxSize: 250
+    label: Bild
+  - name: titel
+    type: text
+    config:
+      required: false
+    label: Titel
+  - name: untertitel
+    type: text
+    config:
+      required: false
+    label: Untertitel
+  label: Header
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Content
+- name: bereiche
+  type: field_group_list
+  fields:
+  - name: titel
+    type: text
+    config:
+      required: false
+    label: Titel
+  - name: dateien
+    type: field_group_list
+    fields:
+    - name: name
+      type: text
+      config:
+        required: false
+      label: Name
+    - name: datei
+      type: file
+      config:
+        maxSize: 250
+      label: Datei
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Dateien
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Bereiche
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+pages:
+- content/downloads.md

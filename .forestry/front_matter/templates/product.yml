@@ -1,0 +1,102 @@
+---
+label: Product
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Produktname
+  config:
+    required: true
+- name: links_mit_icons_oben
+  type: field_group_list
+  fields:
+  - name: icon
+    type: file
+    config:
+      maxSize: 250
+    label: Icon
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: 
+        file: 
+        path: 
+    label: Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Links mit Icons oben
+- name: bilder
+  type: field_group
+  config: {}
+  fields:
+  - name: header
+    type: file
+    config:
+      maxSize: 250
+    label: Header
+  - name: gallerie
+    type: image_gallery
+    config: {}
+    label: Gallerie
+  label: Bilder
+- name: content_oben
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Content oben
+- name: sections
+  type: field_group_list
+  fields:
+  - name: titel
+    type: text
+    config:
+      required: false
+    label: Titel
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Content
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Abschnitte
+- name: dateien
+  type: field_group_list
+  fields:
+  - name: titel
+    type: text
+    config:
+      required: false
+    label: Titel
+  - name: datei
+    type: file
+    config:
+      maxSize: 250
+    label: Datei
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Dateien
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO

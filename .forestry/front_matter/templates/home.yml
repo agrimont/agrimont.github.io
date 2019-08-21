@@ -1,0 +1,246 @@
+---
+label: Home
+hide_body: true
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+- name: slider
+  type: field_group_list
+  fields:
+  - name: interne_bezeichnung
+    type: text
+    config:
+      required: false
+    label: Interne Bezeichnung
+    description: Wird nicht angezeigt
+  - name: bild
+    type: file
+    config:
+      maxSize: '5'
+    label: Bild
+  - name: titel_und_link
+    type: field_group
+    config: {}
+    fields:
+    - name: titel
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: html-blocks
+      label: Titel
+    - name: untertitel
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: html-blocks
+      label: Untertitel
+    - name: link
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: pages
+          section: 
+          file: 
+          path: 
+      label: Link
+    - name: linkbeschriftung
+      type: text
+      config:
+        required: false
+      label: Linkbeschriftung
+    label: Titel und Link
+    description: optional
+  - name: image_slide
+    type: boolean
+    label: Bild-Slide
+    description: 'Slide zeigt auf voller Bildschirmbreite das Bild. Achtung: Bild
+      wird automatisch beschnitten.'
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Slider
+- name: icon_info
+  type: field_group_list
+  fields:
+  - name: titel
+    type: text
+    config:
+      required: false
+    label: Titel
+  - name: icon
+    type: file
+    config:
+      maxSize: 250
+    label: Icon
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Content
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Icon Info
+- name: produkte
+  type: field_group
+  config: {}
+  fields:
+  - name: titel
+    type: text
+    config:
+      required: false
+    label: Titel
+  - name: untertitel
+    type: text
+    config:
+      required: false
+    label: Untertitel
+  - name: links
+    type: field_group_list
+    fields:
+    - name: titel
+      type: text
+      config:
+        required: false
+      label: Titel
+    - name: icon
+      type: file
+      config:
+        maxSize: 250
+      label: Icon
+    - name: link
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: pages
+          section: produkte
+          file: 
+          path: 
+      label: Link
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Links
+  label: Produkte
+- name: anwendungsbereiche
+  type: field_group
+  config: {}
+  fields:
+  - name: titel
+    type: text
+    config:
+      required: false
+    label: Titel
+  - name: untertitel
+    type: text
+    config:
+      required: false
+    label: Untertitel
+  - name: bereiche
+    type: field_group_list
+    fields:
+    - name: titel
+      type: text
+      config:
+        required: false
+      label: Titel
+    - name: bild
+      type: file
+      config:
+        maxSize: 250
+      label: Bild
+    - name: icon
+      type: file
+      config:
+        maxSize: 250
+      label: Icon
+    - name: content
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: html-blocks
+      label: Content
+    - name: link
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: pages
+          section: ''
+          file: 
+          path: 
+      label: Link
+    - name: linkbeschriftung
+      type: text
+      config:
+        required: false
+      label: Linkbeschriftung
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Bereiche
+  label: Anwendungsbereiche
+- name: ueber_uns
+  type: field_group
+  config: {}
+  fields:
+  - name: titel
+    type: text
+    config:
+      required: false
+    label: Titel
+  - name: untertitel
+    type: text
+    config:
+      required: false
+    label: Untertitel
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Content
+  - name: bild
+    type: file
+    config:
+      maxSize: 250
+    label: Bild
+  label: Über uns
+pages:
+- content/_index.md

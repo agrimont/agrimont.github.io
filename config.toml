@@ -1,0 +1,4 @@
+baseURL = "https://agrimont.github.io"
+languageCode = "de-de"
+theme = "agrimont"
+title = "agrimont"

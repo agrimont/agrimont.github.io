@@ -1,0 +1,39 @@
+{{ define "main" }} {{ $p := . }}{{ $home := .Site.GetPage "_index.md" }} 
+<div class="subpage awb">
+  <div class="phc" >
+    <div class="ui container standard" >
+      <div class="content" style="background:url({{partial "imgUrl" (dict "img" .Params.bild_header "params" "c_scale,w_1200,q_90,f_auto" )}}) center center no-repeat;">
+        
+      </div>
+    </div>
+  </div>
+  <div class="ui container">
+    <h1>
+        {{.Params.title}}
+    </h1>
+    {{with $home.Params.anwendungsbereiche}}
+        <div id="anwendungsbereiche">
+          <div class="pelements">
+            {{range .bereiche}}
+              <div class="abcard">
+                <div class="imgicon">
+                  <a href="{{relref $p .link }}">
+                <div class="headimg" style="background:url({{partial "imgUrl" (dict "img" .bild "params" "q_100" )}}) center center no-repeat;"></div>
+                <div class="icon" style="background:url({{partial "imgUrl" (dict "img" .icon "params" "q_100" )}}) center center no-repeat;"/></div>
+                  </a>
+                </div>
+                <div class="inner">
+                    <a href="{{relref $p .link }}">
+                    <h4>{{.titel}}</h4>
+                    </a>
+                    <div class="content">{{.content|safeHTML}}</div>
+                    <a href="{{relref $p .link }}">{{.linkbeschriftung}}</a>
+                </div>
+              </div>
+            {{end}}
+          </div>
+        </div>
+      {{end}}
+  </div>
+</div>
+{{ end }}
