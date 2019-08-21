@@ -18,6 +18,9 @@ jobs:
                 name: Generate site
                 working_directory: ~/agrimont.github.io
                 command: HUGO_ENV=production hugo -d ~/public
+            - run:
+                name: Delete All SSH keys and Add the installed one
+                command: ssh-add -D && ssh-add ~/.ssh/id_rsa_7622404e60921b67061b168aa372c8c2
             - deploy:
                 name: Deploy to Github Pages
                 working_directory: ~/public
