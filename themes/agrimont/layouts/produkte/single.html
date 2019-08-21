@@ -46,9 +46,13 @@
           </a>
         {{end}}
         {{range .Params.links_mit_icons_oben}}
+          {{if .link}}
           <a href="{{ref $currentPage .link}}">
             <img src="{{partial "imgUrl" (dict "img" .icon "params" "c_scale,h_50,q_100,f_auto" )}}">
           </a>
+          {{else}}
+          <img src="{{partial "imgUrl" (dict "img" .icon "params" "c_scale,h_50,q_100,f_auto" )}}">
+          {{end}}
         {{end}}
       </div>
     </div>
