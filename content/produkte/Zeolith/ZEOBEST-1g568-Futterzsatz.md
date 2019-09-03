@@ -1,5 +1,6 @@
 +++
 content_oben = "<p><strong>ZEOBEST_85</strong> ist ein natürliches Aluminium-Silikat sedimentären Ursprungs mit sehr hoher Porosität und großer Kationenaustauschkapazität.</p>"
+seo_description = "ZEOBEST 1g568 Futterzsatz- ZEOBEST_85 ist ein natürliches Aluminium-Silikat sedimentären Ursprungs mit sehr hoher Porosität und großer Kationenaustauschkapazität."
 title = "ZEOBEST 1g568 Futterzsatz"
 [bilder]
 header = "/uploads/2019/06/01/tiere.jpg"
