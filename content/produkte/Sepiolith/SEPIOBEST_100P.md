@@ -6,6 +6,9 @@ weight = 2
 [menu.produkte]
 parent = "Sepiolith"
 weight = 3
+[[links_mit_icons_oben]]
+icon = "/uploads/icon_tiere.png"
+link = "tierernährung.md"
 [[sections]]
 content = "<p>Technisches Datenblatt SEPIOBEST_100P:</p><p><img src=\"/uploads/2019/08/18/sepiobest.JPG\"></p>"
 titel = "Datenblatt"
