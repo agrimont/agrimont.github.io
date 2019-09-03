@@ -7,7 +7,8 @@ weight = 1
 parent = "Attapulgit"
 weight = 1
 [[links_mit_icons_oben]]
-link = []
+icon = "/uploads/icon_tiere.png"
+link = "tierernährung.md"
 [[sections]]
 content = "<p>Technisches Datenblatt</p><p><img src=\"/uploads/2019/08/17/attapulgit1.JPG\"><img src=\"/uploads/2019/08/17/attapulgit2.JPG\"></p>"
 titel = "Datenblatt"
