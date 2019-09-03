@@ -12,6 +12,9 @@ weight = 7
 [[dateien]]
 datei = "/uploads/2019/05/24/demo.pdf"
 titel = "Download-Datei"
+[[links_mit_icons_oben]]
+icon = "/uploads/icon_tiere.png"
+link = "tierernährung.md"
 [[sections]]
 content = "<p><strong>BENTOFEED®</strong> ist ein inertes Dreischichttonmineral mit einer Oberfläche von bis zu 700 m²/g, das die Darmwände mit einer feinen Schicht überzieht und verhindert, dass durch die im sauren Milieu geschädigten Darmwände Toxine (insbesondere Endotoxine aus dem Abbau rohfaserverdauender Bakterien) und Milchsäure in die Blutbahn gelangen.</p><p>Bei <strong>BENTOFEED® </strong>handelt es sich um einen klassischen Pansenpuffer, der in der Lage ist Imbalancen von Kohlenhydraten und Rohfasern in der Futterration auszugleichen.</p><p>Durch den Einsatz von<strong> BENTOFEED® </strong>können sowohl verschiedene Prozesse im Pansen der Wiederkäuer als auch in den hinteren Darmabschnitten günstig beeinflusst werden, so dass vor allem bei Konzentrat reicher, strukturarmer Wiederkäuerfütterung folgende Effekte zu erwarten sind:</p><ul><li><p><strong>Höhere Milchleistung</strong></p></li><li><p><strong>Höherer Milchfettgehalt durch Erweiterung des Azetat: Propionat-Verhältnisses</strong></p></li><li><p><strong>Prophylaxe gegen Leistungsdepressionen und Stoffwechselstörungen verursacht durch azidotische Stoffwechsellagen</strong></p></li><li><p><strong>Höhere Tageszunahmen, verbesserte Futterverwertung</strong></p></li><li><p><strong>Positive Beeinflussung des Durchfallgeschehens bei Kälbern</strong></p></li></ul>"
 titel = "Einsatz bei Wiederkäuern"
