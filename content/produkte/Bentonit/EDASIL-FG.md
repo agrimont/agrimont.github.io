@@ -15,7 +15,7 @@ titel = "Anwendungsempfehlung"
 content = "<ul><li><p>Zuschlagsstoff für gärtnerische Substrate </p></li><li><p>Verbesserung für leichte und sandige Böden</p></li><li><p class=\"MsoNormal\">Ideale Kompostierungshilfe </p></li><li><p class=\"MsoNormal\">Bindemittel bei der Suspensionssaat </p></li><li><p class=\"MsoNormal\">Pillierhilfsmittel zur Saatgutbehandlung</p></li><li><p class=\"MsoNormal\">Sicherung schadstoffbelasteter Böden</p></li></ul>"
 titel = "Einsatzbereiche"
 [[sections]]
-content = "<p>Technisches Datenblatt FG:</p><p></p><p>Technisches Datenblatt G:</p><p></p>"
+content = "<p>Technisches Datenblatt EDASIL<strong>® </strong>FG:</p><p><img src=\"/uploads/2019/09/03/edasil_fg.JPG\"></p><p>Technisches Datenblatt EDASIL<strong>® </strong>G:</p><p><img src=\"/uploads/2019/09/03/edasil_g.JPG\"></p>"
 titel = "Datenblätter"
 [[sections]]
 content = ""
