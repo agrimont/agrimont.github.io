@@ -11,6 +11,9 @@ weight = 20
 icon = "/uploads/icon_garten.png"
 link = "garten-und-landschaftsbau.md"
 [[sections]]
+content = "<p><strong>AQUA-SIL</strong> wird gleichmäßig auf der Fläche verteilt und 15-25 cm tief eingearbeitet.</p><p>Nach sorgfältiger Verdichtung des <strong>AQUA-SIL</strong>-vergüteten Bodenhorizonts, wird dieser mit einer zweiten, 20-25 cm mächtigen Dichtungsschicht ohne Bentonit-Vergütung abgedeckt. Danach wird bei Bedarf die Vegetationschicht aufgebracht.</p><hr><p><strong>Dosierung: 10-15kg/m² (bzw. 50-75 kg/m³, 3-5 Gew.%), je nach örtlichen Bodenverhältnissen</strong></p>"
+titel = "Anwendungsempfehlung"
+[[sections]]
 content = ""
 titel = "AQUA-SIL bei der Bodenabdichtung"
 [[sections]]
