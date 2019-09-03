@@ -7,6 +7,27 @@ weight = 8
 [menu.produkte]
 parent = "Bentonit"
 weight = 9
+[[dateien]]
+datei = "/uploads/2019/09/03/Weidekrankheit_Reiter_Revue.pdf"
+titel = "Weidekrankheit Reiter Revue"
+[[dateien]]
+datei = "/uploads/2019/09/03/Mauke_beim_Kaltblut.pdf"
+titel = "Mauke beim Kaltblut"
+[[dateien]]
+datei = "/uploads/2019/09/03/Heuqualität_VFD_Vereinigung_Freizeitreiter.pdf"
+titel = "Heuqualität Vereinigung Freizeitreiter"
+[[dateien]]
+datei = "/uploads/2019/09/03/Giftgehalte_in_Futtergräsern_2014.pdf"
+titel = "Giftgehalte in Futtergräsern"
+[[dateien]]
+datei = "/uploads/2019/09/03/EQUIMONT_Natürlicher Schutzschild.pdf"
+titel = "Equimont als natürlicher Schutzschild"
+[[dateien]]
+datei = "/uploads/2019/09/03/EQUIMONT_Datenblatt_2019.pdf"
+titel = "Datenblatt"
+[[dateien]]
+datei = "/uploads/2019/09/03/Equimont_AID_Adsorptionsvermögen_Bentonit.pdf"
+titel = "Equimont Adsorptionsvermögen "
 [[links_mit_icons_oben]]
 icon = "/uploads/icon_tiere.png"
 link = "tierernährung.md"
