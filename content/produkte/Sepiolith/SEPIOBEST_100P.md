@@ -7,6 +7,9 @@ weight = 2
 [menu.produkte]
 parent = "Sepiolith"
 weight = 3
+[[dateien]]
+datei = "/uploads/2019/09/03/SEPIOBEST_100P_E562_Binder_Datenblatt.pdf"
+titel = "Datenblatt"
 [[links_mit_icons_oben]]
 icon = "/uploads/icon_tiere.png"
 link = "tierernährung.md"
