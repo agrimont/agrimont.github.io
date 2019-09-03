@@ -8,9 +8,6 @@ weight = 2
 parent = "Sepiolith"
 weight = 3
 [[dateien]]
-datei = "/uploads/2019/09/03/Flyer_Algenkalk_deutsch_2017.pdf"
-titel = "Test"
-[[dateien]]
 datei = "/uploads/2019/09/03/SEPIOBEST_100P_E562_Binder_Datenblatt.pdf"
 titel = "Datenblatt"
 [[links_mit_icons_oben]]
@@ -19,8 +16,5 @@ link = "tierernährung.md"
 [[sections]]
 content = "<p>Technisches Datenblatt SEPIOBEST_100P:</p><p><img src=\"/uploads/2019/08/18/sepiobest.JPG\"></p>"
 titel = "Datenblatt"
-[[sections]]
-content = "<p><a href=\"\" title=\"Download File\">Download File</a></p>"
-titel = "Downloads"
 
 +++
