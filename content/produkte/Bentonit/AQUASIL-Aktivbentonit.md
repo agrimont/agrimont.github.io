@@ -23,7 +23,7 @@ titel = "Einfluss von AQUA-SIL auf die Wasserdurchlässigkeit von Böden"
 content = ""
 titel = "AQUA-SIL Einbauhinweise"
 [[sections]]
-content = ""
+content = "<p><br><img src=\"/uploads/2019/09/03/Uferrandausbildung_AQUA-SIL_Bild_2019.png\"></p>"
 titel = "AQUA-SIL Einbauskizze"
 [[sections]]
 content = ""
