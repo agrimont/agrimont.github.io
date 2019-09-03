@@ -6,6 +6,9 @@ weight = 6
 [menu.produkte]
 parent = "Bentonit"
 weight = 6
+[[links_mit_icons_oben]]
+icon = "/uploads/icon_tiere.png"
+link = "tierernährung.md"
 [[sections]]
 content = "<p>Technisches Datenblatt FENA®-MIN:</p><p><img src=\"/uploads/2019/08/18/FENA_MIN.JPG\"></p>"
 titel = "Datenblatt"
