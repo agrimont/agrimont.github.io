@@ -1,5 +1,6 @@
 +++
 content_oben = "<p>Attapulgit ist ein hydratisiertes Magnesiumaluminiumsilikat, das in der Natur als fibrilläres Silikat-Tonmineral mit reaktiven OH-Gruppen auf der Oberfläche vorkommt.</p><p>Aufgrund seiner bindungsaktiven Oberflächeneigenschaften ist <strong>Attapulgit-Ultra8</strong> in der Tierernährung besonders wirkungsvoll zur Deaktivierung von Mykotoxinen im Futter geeignet.</p>"
+seo_description = "Attapulgit Ultra8 - ein hydratisiertes Magnesiumaluminiumsilikat: besonders wirkungsvoll zur Deaktivierung von Mykotoxinen im Futter in der Tierernährung."
 title = "Attapulgit Ultra8"
 [menu.ab_tierernaehrung]
 weight = 1
