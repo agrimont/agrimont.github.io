@@ -15,6 +15,6 @@ icon = "/uploads/icon_garten.png"
 link = "garten-und-landschaftsbau.md"
 [[sections]]
 content = "<p><strong>Acker- und Gemüsebau erstmalig</strong>                                   <strong>  400 –600 kg/ha </strong></p><p>Zur Erhaltungskalkung am besten zur Vorsaateinarbeitung <strong>150– 300 kg/ha</strong></p><hr><p><strong>Grünland erstmalig</strong>                                                              <strong>400 –600 kg/ha </strong></p><p>Zur Erhaltungskalkung                                                           <strong>150 –300kg/ha</strong></p><hr><p><strong>Obstanbau-und Rebkulturen</strong>                                               <strong>300 –500 kg/ha</strong></p><hr><p><strong>ALGOSIL®</strong> für die <strong>Stalleinstreu</strong> </p><p>Einsatz auf dem Spaltenboden, im Stallgang, auf dem Mist oder auf Tiefstreu. <strong>ALGOSIL®</strong> fördert den Rotteprozess und verbessert die Stallluft durch Verminderung der Ammoniakfreisetzung. <strong>ALGOSIL®</strong> reduziert durch das alkalische Milieu die Eiablage von Fliegen im Stall.</p><hr><p><strong>Tiefstreu und Mist:                                                              1-5 kg/m2</strong></p><p><strong>Spaltenboden, Stallgang:                                                   </strong>Stäuben nach Bedarf</p>"
-titel = "Aufwendungsempfehlungen"
+titel = "Anwendungsempfehlung"
 
 +++
