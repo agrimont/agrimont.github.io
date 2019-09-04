@@ -19,11 +19,11 @@ titel = "TERRANA®"
 datei = "/uploads/2019/09/04/TI_Terrana_agrimont.pdf"
 name = "TERRANA®: Datenblatt"
 [[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Terrana_Versuch_agrimont.pdf"
-name = "TERRANA®: Einsatz zur Schlammbeschwerung auf einer Kläranlage"
-[[bereiche.dateien]]
 datei = "/uploads/2019/09/04/TERRANA_Bentonit_macht_Wasser_klar_agrimont.pdf"
 name = "TERRANA®: Bentonit macht Wasser klar"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Terrana_Versuch_agrimont.pdf"
+name = "TERRANA®: Einsatz zur Schlammbeschwerung auf einer Kläranlage"
 [[bereiche]]
 titel = "Wissenswertes"
 [[bereiche.dateien]]
