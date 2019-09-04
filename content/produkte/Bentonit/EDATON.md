@@ -14,7 +14,7 @@ weight = 15
 icon = "/uploads/icon_garten.png"
 link = "garten-und-landschaftsbau.md"
 [[sections]]
-content = "<p><a href=\"/uploads/2019/09/04/EDATON_M75_Datenblatt_2019-1.pdf\" title=\"EDATON_M75_Datenblatt_2019-1.pdf\">EDATON_M75_Datenblatt_2019-1.pdf</a></p>"
+content = "<p><img src=\"/uploads/2019/09/04/edaton.JPG\"></p>"
 titel = "Datenblatt"
 
 +++
