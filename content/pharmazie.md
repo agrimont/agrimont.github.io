@@ -16,7 +16,7 @@ link = "produkte/Bentonit/PHARMABENT.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>Ohne Zulassung nach Ph.Eur. bieten wir an ZEOBEST mikronisiert: Hochwertiger technischer Zeolith, mikronisiert, mit mittlerer Teilchengröße 2 μm und 6 μm verfügbar.</p>"
-bezeichnung = "ZEOBEST"
+bezeichnung = "ZEOBEST_4A mikronisiert"
 link = "produkte/Zeolith/ZEOBEST-mikronisiert.md"
 linkbeschriftung = "ZUM PRODUKT"
 
