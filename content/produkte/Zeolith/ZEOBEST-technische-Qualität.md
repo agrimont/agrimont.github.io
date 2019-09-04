@@ -15,7 +15,7 @@ titel = "Vorteile und Wirkung"
 content = "<p>Bodenverbesserung, Bodenaufbau</p><ul><li><p>Pflanzflächen, Hochbeete, etc.                       <strong> 0,7-1 kg/ m²</strong></p></li></ul><hr><p>Rasenanlage und Pflege</p><ul><li><p>Aerifizieren                                  <strong>               1,5 bis 2 kg/ m²</strong></p></li></ul><ul><li><p>Topdressing und Vertikutieren                              <strong>  0,5 kg/ m²</strong></p></li></ul><ul><li><p>Neuanlagen                                                  <strong> 1 bis 1,5 kg /m²</strong></p></li></ul>"
 titel = "Aufwandsempfehlungen"
 [[sections]]
-content = "<p>Technisches Datenblatt:</p><p><img src=\"/uploads/2019/09/04/Zeobest_technisch.JPG\"></p>"
+content = "<p>Technisches Datenblatt</p><p><img src=\"/uploads/2019/09/04/Zeobest_technisch.JPG\"></p>"
 titel = "Datenblatt"
 
 +++
