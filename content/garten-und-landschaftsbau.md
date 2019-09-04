@@ -16,7 +16,7 @@ link = "produkte/Algenkalk/ALGOSIL.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>Erhöht das Nährstoffspeichervermögen des Bodens, verbessert das Luftporenvolumen bei schweren Böden, wirkt pflanzenstärkend durch hohen Silizium-Gehalt, in mikronisierter Form zur Blattdüngung geeignet</p>"
-bezeichnung = "ZEOLITH"
+bezeichnung = "ZEOBEST Bodenhilfsstoff"
 link = "produkte/Zeolith/ZEOBEST-technische-Qualität.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
