@@ -42,9 +42,9 @@ linkbeschriftung = "zu den Produkten"
 titel = "Pharmazie"
 [[anwendungsbereiche.bereiche]]
 bild = "/uploads/wissenswertes.jpg"
-content = "<p>hier finden Sie aktuelle Neuigkeiten und Informationen rund um unsere Produkte</p>"
-icon = "/uploads/icon_technik.png"
-link = ""
+content = "<p>Hier finden Sie aktuelle Neuigkeiten und Informationen rund um unsere Produkte.</p>"
+icon = ""
+link = "news.md"
 linkbeschriftung = "mehr lesen"
 titel = "Wissenswertes"
 [menu.main]
