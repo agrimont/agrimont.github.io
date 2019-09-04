@@ -22,7 +22,7 @@ linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>natürliches Calcium-Bentonit</p><p>Bodenhilfsstoff zur Verbesserung der Substrat- und Bodeneigenschaften, sowie des Ertrags, Erhöht die Wasserhaltekapazität und die Nährstoffspeicherung leichter Böden.</p><p>In Granulatform staubarme Ausbringung mit dem Düngerstreuer</p>"
 bezeichnung = "EDASIL®"
-link = "produkte/Bentonit/EDASIL-G.md"
+link = "produkte/Bentonit/EDASIL-FG.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>natürliches Calcium-Bentonit</p><p>Bodenhilfsstoff zur Verbesserung der Substrat- und Bodeneigenschaften, sowie des Ertrags, Erhöht die Wasserhaltekapazität und die Nährstoffspeicherung leichter Böden.</p><p>In Granulatform staubarme Ausbringung mit dem Düngerstreuer</p>"
