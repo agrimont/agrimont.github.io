@@ -1,5 +1,5 @@
 +++
-content_oben = "<p>EDATON® ist ein natürlicher Calcium-Bentonit, der als Bodenhilfsstoff zur Verbesserung der Substrat- und Bodeneigenschaften, sowie des Ertrags beiträgt. Zudem erhöht er die Wasserhaltekapazität und die Nährstoffspeicherung leichter Böden.</p>"
+content_oben = "<p><strong>EDATON®</strong> ist ein natürlicher Calcium-Bentonit, der als Bodenhilfsstoff zur Verbesserung der Substrat- und Bodeneigenschaften, sowie des Ertrags beiträgt. Zudem erhöht er die Wasserhaltekapazität und die Nährstoffspeicherung leichter Böden.</p>"
 title = "EDATON®"
 [menu.ab_gala]
 weight = 4
