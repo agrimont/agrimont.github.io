@@ -14,6 +14,28 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "EDASIL®"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/EDASIL_FG_Datenblatt_2019 (2).pdf"
+name = "EDASIL®_FG: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/EDASIL_G_Datenblatt_2019 (1).pdf"
+name = "EDASIL®_G: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/EDASIL_Bodenverbesserung.pdf"
+name = "EDASIL®: Bodenverbesserung"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/EDASIL_Tonminerale_und Bodenfruchtbarkeit.pdf"
+name = "EDASIL®: Tonminerale und Bodenfruchtbarkeit"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Wirkung_von_Tonmineralen_in_sandigen_Böden.pdf"
+name = "EDASIL®: Wirkung von Tonmineralen in sandigen Böden"
+[[bereiche]]
+titel = "TOXISORB® PREMIUM"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/TOXISORB_Premium_Datenblatt_2019.pdf"
+name = "TOXISORB® PREMIUM: Datenblatt"
+[[bereiche]]
 titel = "MycoEX®"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/Übersicht der Mykotoxin-Bindungseffizienz der MycoEX_Produktreihe_08.2019.pdf"
