@@ -7,7 +7,13 @@ weight = 2
 name = "Zeobest"
 weight = 1
 [menu.produkte]
-parent = "Zeolith"
+parent = "ZEOBEST technisch"
 weight = 1
+[[links_mit_icons_oben]]
+icon = "/uploads/icon_garten.png"
+link = "garten-und-landschaftsbau.md"
+[[links_mit_icons_oben]]
+icon = "/uploads/Icon_landwirtschaft.png"
+link = "landwirtschaft.md"
 
 +++
