@@ -14,6 +14,17 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "TERRANA®"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/TI_Terrana_agrimont.pdf"
+name = "TERRANA®: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Terrana_Versuch_agrimont.pdf"
+name = "TERRANA®: Versuch agrimont GmbH"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/TERRANA_Bentonit_macht_Wasser_klar_agrimont.pdf"
+name = "TERRANA®: Bentonit macht Wasser klar"
+[[bereiche]]
 titel = "Wissenswertes"
 [[bereiche.dateien]]
 datei = "/uploads/2019/06/07/Prüfung_der_Wirksamkeit_ von_ ALGOSIL_ Algenkalkpulver_ gegen_den_Buchsbaumzünsler.pdf"
