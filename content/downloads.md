@@ -14,6 +14,17 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "StabiSil"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/StabiSil_FG7_2019.pdf"
+name = "StabiSil_FG7: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/StabiSil_P10_2019.pdf"
+name = "StabiSil_P10: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/BENTONIT BEI ANAEROBEN PROZESSEN.pdf"
+name = "StabiSil: Bentonit bei anaeroben Prozessen"
+[[bereiche]]
 titel = "ZEOBEST"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/ZEOBEST_4A_Zeolith_Bodenhilfsstoff_2019.pdf"
