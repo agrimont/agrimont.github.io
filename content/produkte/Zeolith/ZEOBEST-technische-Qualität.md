@@ -17,5 +17,8 @@ titel = "Aufwandsempfehlungen"
 [[sections]]
 content = "<p>Technisches Datenblatt</p><p><img src=\"/uploads/2019/09/04/Zeobest_technisch.JPG\"></p>"
 titel = "Datenblatt"
+[[sections]]
+content = ""
+titel = "Downloads"
 
 +++
