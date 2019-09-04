@@ -14,6 +14,16 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "ZEOBEST"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/ZEOBEST_4A_Zeolith_Bodenhilfsstoff_2019.pdf"
+name = "ZEOBEST_85: Datenblatt"
+[[bereiche]]
+titel = " EDATON®"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/EDATON_M75_Datenblatt_2019.pdf"
+name = " EDATON®: Datenblatt"
+[[bereiche]]
 titel = "EDASIL®"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/EDASIL_FG_Datenblatt_2019 (2).pdf"
