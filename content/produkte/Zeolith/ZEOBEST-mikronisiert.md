@@ -16,6 +16,9 @@ icon = "/uploads/icon_pharmazie.png"
 link = "pharmazie.md"
 [[sections]]
 content = ""
-titel = "Datenblatt: ZEOBEST mikronisiert 2µm"
+titel = "Datenblatt: ZEOBEST_4A mikronisiert 2µm"
+[[sections]]
+content = ""
+titel = "Datenblatt: ZEOBEST_4A mikronisiert 6µm"
 
 +++
