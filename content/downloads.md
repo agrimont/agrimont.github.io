@@ -14,6 +14,14 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "FENA®-MIN"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/FENA-MIN_Datenblatt_Futterzusatz_1m558i_2019.pdf"
+name = "FENA®-MIN: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/FENAMIN_Flyer_2017.pdf"
+name = "FENA®-MIN: Flyer"
+[[bereiche]]
 titel = "Attapulgit"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/Produktdatenblatt_Attapulgit_Ultra8_04.2019.pdf"
