@@ -44,6 +44,9 @@ name = "ZEOBEST_20 mikronisiert: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/ZEOBEST_50_Mikronisiertes Pulver_2019.pdf"
 name = "ZEOBEST_50 mikronisiert: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Einsatz von ZEOBEST im Pflanzenschutz.pdf"
+name = "ZEOBEST_20/ ZEOBEST_50, mikronisiert: Einsatz im Pflanzenschutz"
 [[bereiche]]
 titel = " EDATON®"
 [[bereiche.dateien]]
