@@ -12,7 +12,7 @@ link = "garten-und-landschaftsbau.md"
 content = "<p>Substrate, Pflanzerden: je nach Substrateigenschaften           10-25 kg/m3</p><hr><p>Bodenaufbau: schwere - leichte Böden                                     50-150 g/m2</p><hr><p>Kompostierung: gleichmäßig einmischen                                 15-20 kg/m3</p><hr><p>Mulchen: auf Mulchschicht aufstreuen                                      200 g/m2</p><hr><p>Sportplatzbau, Greens: ca. 5 cm tief einarbeiten                      100-300 g/m2</p>"
 titel = "Anwendungsempfehlung"
 [[sections]]
-content = "<ul><li><p>Zuschlagsstoff für gärtnerische Substrate </p></li><li><p>Verbesserung für leichte und sandige Böden</p></li><li><p class=\"MsoNormal\">Ideale Kompostierungshilfe </p></li><li><p class=\"MsoNormal\">Bindemittel bei der Suspensionssaat </p></li><li><p class=\"MsoNormal\">Pillierhilfsmittel zur Saatgutbehandlung</p></li><li><p class=\"MsoNormal\">Sicherung schadstoffbelasteter Böden</p></li></ul>"
+content = "<ul><li><p>Zuschlagsstoff für gärtnerische Substrate</p></li><li><p>Verbesserung für leichte und sandige Böden</p></li><li><p class=\"MsoNormal\">Ideale Kompostierungshilfe</p></li><li><p class=\"MsoNormal\">Bindemittel bei der Suspensionssaat</p></li><li><p class=\"MsoNormal\">Pillierhilfsmittel zur Saatgutbehandlung</p></li><li><p class=\"MsoNormal\">Sicherung schadstoffbelasteter Böden</p></li></ul>"
 titel = "Einsatzbereiche"
 [[sections]]
 content = "<p>Technisches Datenblatt EDASIL<strong>® </strong>FG:</p><p><img src=\"/uploads/2019/09/03/edasil_fg.JPG\"></p><p>Technisches Datenblatt EDASIL<strong>® </strong>G:</p><p><img src=\"/uploads/2019/09/03/edasil_g.JPG\"></p>"
