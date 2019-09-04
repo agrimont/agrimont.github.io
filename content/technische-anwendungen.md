@@ -12,7 +12,7 @@ weight = 4
 [[produkte]]
 beschreibung = "<p>Selektiver Adsorber für Filterschüttungen im feuchten und gasförmigen Milieu</p>"
 bezeichnung = "ZEOBEST GRANULATE"
-link = "produkte/Zeolith/ZEOBEST-technische-Qualität.md"
+link = "produkte/Zeolith/zeobest-technische-qualität.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>Speziell selektierte Dichtungstone mit verzögert einsetzendem Quellprozess und hohem Schüttgewicht gewährleisten ein gutes Schütt- und Sinkverhalten des Granulats.</p>"
