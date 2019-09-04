@@ -4,7 +4,7 @@ date = "2019-04-13T08:06:07+02:00"
 layout = "downloads"
 seo_description = "Datenblätter und Zertifikate rund um unsere Produkte"
 title = "Downloads"
-untertitel = "Agrimont"
+untertitel = "agrimont GmbH"
 [header]
 bild = "/uploads/2019/06/01/header_downloads.png"
 titel = "Downloads"
