@@ -31,7 +31,7 @@ name = "StabiSil: Bentonit bei anaeroben Prozessen"
 titel = "ZEOBEST"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/ZEOBEST_4A_Zeolith_Bodenhilfsstoff_2019.pdf"
-name = "ZEOBEST_85: Datenblatt"
+name = "ZEOBEST_Bodenhilfsstoff: Datenblatt"
 [[bereiche]]
 titel = " EDATON®"
 [[bereiche.dateien]]
