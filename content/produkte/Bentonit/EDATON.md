@@ -10,5 +10,8 @@ weight = 2
 [menu.produkte]
 parent = "Bentonit"
 weight = 15
+[[links_mit_icons_oben]]
+icon = "/uploads/icon_garten.png"
+link = "garten-und-landschaftsbau.md"
 
 +++
