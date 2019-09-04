@@ -14,6 +14,16 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "AQUA-SIL"
+[[bereiche.dateien]]
+datei = ""
+name = ""
+[[bereiche]]
+titel = "SEPIOBEST"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/SEPIOBEST_100P_E562_Binder_Datenblatt.pdf"
+name = "SEPIOBEST_100P_E562: Datenblatt"
+[[bereiche]]
 titel = "EQUIMONT®"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/Weidekrankheit_Reiter_Revue.pdf"
