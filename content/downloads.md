@@ -14,6 +14,14 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "Wissenswertes"
+[[bereiche.dateien]]
+datei = "/uploads/2019/06/07/Prüfung_der_Wirksamkeit_ von_ ALGOSIL_ Algenkalkpulver_ gegen_den_Buchsbaumzünsler.pdf"
+name = "Artikel: Die Wirksamkeit von ALGOSIL® gegen den Buchsbaumzünsler"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Bentonit zur Bindung von Cäsium nach radioaktivem Fallout_Langfassung-1.pdf"
+name = "Artikel: Bentonit zur Bindung von Cäsium nach radioaktivem Fallout"
+[[bereiche]]
 titel = "StabiSil"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/StabiSil_FG7_2019.pdf"
