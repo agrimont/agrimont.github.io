@@ -32,6 +32,12 @@ titel = "ZEOBEST"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/ZEOBEST_4A_Zeolith_Bodenhilfsstoff_2019.pdf"
 name = "ZEOBEST_Bodenhilfsstoff: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/ZEOBEST_4A_Zeolith_2µm_technische_Qualität_2019.pdf"
+name = "ZEOBEST_4A mikronisiert 2µm: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/ZEOBEST_4A_Zeolith_6µm_technische_Qualität_2019.pdf"
+name = "ZEOBEST_4A mikronisiert 6µm: Datenblatt"
 [[bereiche]]
 titel = " EDATON®"
 [[bereiche.dateien]]
