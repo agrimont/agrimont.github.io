@@ -11,7 +11,7 @@ parent = "Zeolith"
 weight = 3
 [[links_mit_icons_oben]]
 icon = "/uploads/icon_tiere.png"
-link = ""
+link = "tierernährung.md"
 [[sections]]
 content = "<h3>Empfohlene Aufwandmengen pro Tier/Tag:</h3><p>Milchkuh: 80-120 g</p><p>Mastrind: 40-60 g</p><p>Jungrind: 30-50 g</p><p>Mastschwein: 30-50 g</p><p>Ferkel: 10-20 g</p><p>Geflügel: 1,5-2 g</p><p><strong>Höchstgehalt: 10 kg / t Alleinfuttermittel</strong></p><p>Homogen in das Futtermittel einmischen</p><p><strong>Für alle Futtermittel, alle Tierarten und Tierkategorien</strong></p>"
 titel = "Anwendungsempfehlung"
