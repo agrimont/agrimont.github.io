@@ -14,6 +14,29 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "EQUIMONT®"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Weidekrankheit_Reiter_Revue.pdf"
+name = "EQUIMONT®: Weidekrankheit (Reiter Revue)"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Mauke_beim_Kaltblut.pdf"
+name = "EQUIMONT®: Mauke bei Kaltblütern"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Heuqualität_VFD_Vereinigung_Freizeitreiter.pdf"
+name = "EQUIMONT®: Heuqualität (Vereinigung Freizeitreiter)"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Giftgehalte_in_Futtergräsern_2014.pdf"
+name = "EQUIMONT®: Giftgehalte in Futtergräsern"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Equimont_AID_Adsorptionsvermögen_Bentonit.pdf"
+name = "EQUIMONT®: Adsorptionsvermögen"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/EQUIMONT_Datenblatt_2019.pdf"
+name = "EQUIMONT®: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/EQUIMONT_Natürlicher Schutzschild.pdf"
+name = "EQUIMONT®: Natürlicher Schutzschild"
+[[bereiche]]
 titel = "ALGOFEED"
 [[bereiche.dateien]]
 datei = "/uploads/2019/06/07/ALGOFEED_315_Pulver_Einzelfuttermittel_Datenblatt_2019.pdf"
