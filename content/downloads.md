@@ -14,8 +14,10 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
-dateien = []
-titel = ""
+titel = "Attapulgit"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Produktdatenblatt_Attapulgit_Ultra8_04.2019.pdf"
+name = "Attapulgit Ultra 8: Datenblatt"
 [[bereiche]]
 titel = "AQUA-SIL"
 [[bereiche.dateien]]
@@ -41,26 +43,26 @@ name = "SEPIOBEST_100P_E562: Datenblatt"
 [[bereiche]]
 titel = "EQUIMONT®"
 [[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Weidekrankheit_Reiter_Revue.pdf"
-name = "EQUIMONT®: Weidekrankheit (Reiter Revue)"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Mauke_beim_Kaltblut.pdf"
-name = "EQUIMONT®: Mauke bei Kaltblütern"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Heuqualität_VFD_Vereinigung_Freizeitreiter.pdf"
-name = "EQUIMONT®: Heuqualität (Vereinigung Freizeitreiter)"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Giftgehalte_in_Futtergräsern_2014.pdf"
-name = "EQUIMONT®: Giftgehalte in Futtergräsern"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Equimont_AID_Adsorptionsvermögen_Bentonit.pdf"
-name = "EQUIMONT®: Adsorptionsvermögen"
-[[bereiche.dateien]]
 datei = "/uploads/2019/09/04/EQUIMONT_Datenblatt_2019.pdf"
 name = "EQUIMONT®: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/EQUIMONT_Natürlicher Schutzschild.pdf"
 name = "EQUIMONT®: Natürlicher Schutzschild"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Equimont_AID_Adsorptionsvermögen_Bentonit.pdf"
+name = "EQUIMONT®: Adsorptionsvermögen"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Mauke_beim_Kaltblut.pdf"
+name = "EQUIMONT®: Mauke bei Kaltblütern"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Giftgehalte_in_Futtergräsern_2014.pdf"
+name = "EQUIMONT®: Giftgehalte in Futtergräsern"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Weidekrankheit_Reiter_Revue.pdf"
+name = "EQUIMONT®: Weidekrankheit (Reiter Revue)"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Heuqualität_VFD_Vereinigung_Freizeitreiter.pdf"
+name = "EQUIMONT®: Heuqualität (Vereinigung Freizeitreiter)"
 [[bereiche]]
 titel = "ALGOFEED"
 [[bereiche.dateien]]
@@ -75,16 +77,19 @@ titel = "ALGOSIL"
 datei = "/uploads/2019/06/07/ALGOSIL_Pulver_160_Datenbaltt_02.2019.pdf"
 name = "ALOGIL PULVER 160 Datenbaltt"
 [[bereiche]]
-titel = "BENTOFEED"
+titel = "BENTOFEED®"
 [[bereiche.dateien]]
-datei = "/uploads/2019/06/07/Bentofeed_Flyer_Einzelblätter.pdf"
-name = "Produktinformation"
+datei = "/uploads/2019/09/04/BENTOFEED_SE_Pulver_Datenblatt_2019.pdf"
+name = "BENTOFEED®_SE: Datenblatt"
 [[bereiche.dateien]]
-datei = "/uploads/2019/06/07/BENTOFEED_Keine_Bindung _von_Vitaminen.pdf"
-name = "Keine bindung von Vitaminen"
+datei = "/uploads/2019/09/04/Datenblatt_Bentofeed_FG_2019.pdf"
+name = "BENTOFEED®_FG: Datenblatt"
 [[bereiche.dateien]]
-datei = "/uploads/2019/06/07/BENTOFEED_SE_Pulver_Datenblatt_2019.pdf"
-name = "PULVER SE Datenblatt"
+datei = "/uploads/2019/09/04/BENTOFEED_Keine_Bindung _von_Vitaminen.pdf"
+name = "BENTOFEED®: Keine Bindung von Vitaminen im Futter"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Bentofeed_Flyer_Einzelblätter.pdf"
+name = "BENTOFEED®: Flyer"
 [[bereiche]]
 titel = "ALGENKALK"
 [[bereiche.dateien]]
