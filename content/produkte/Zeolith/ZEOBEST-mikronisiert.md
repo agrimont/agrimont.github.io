@@ -15,10 +15,10 @@ weight = 1
 icon = "/uploads/icon_pharmazie.png"
 link = "pharmazie.md"
 [[sections]]
-content = ""
+content = "<p><img src=\"/uploads/2019/09/04/zeobest_4A_mikronisiert_2.JPG\"></p>"
 titel = "Datenblatt: ZEOBEST_4A mikronisiert 2µm"
 [[sections]]
-content = ""
+content = "<p><img src=\"/uploads/2019/09/04/zeobest_4A_mikronisiert_6.JPG\"></p>"
 titel = "Datenblatt: ZEOBEST_4A mikronisiert 6µm"
 
 +++
