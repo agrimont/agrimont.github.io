@@ -106,6 +106,12 @@ name = "AQUA-SIL: Einbau"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/Uferrandausbildung_Aqua-Sil_Bild_2019.pdf"
 name = "AQUA-SIL: Uferrandausbildung"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Mistlager.pdf"
+name = "AQUA-SIL - Erfahrungsbericht: Unterflursicherung von Stallmistzwischenlagern mit Bentonit (T. Dewes, A. Petersen, L. Schmitt, 1996)"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Artikel Ruck.pdf"
+name = "AQUA-SIL - Erfahrungsbericht: Erfahrungen bei Abdichtungen von Klärteichen in Lockergesteinen in Norddeutschland (K.-W. Ruck, 1985)"
 [[bereiche]]
 titel = "SEPIOBEST"
 [[bereiche.dateien]]
