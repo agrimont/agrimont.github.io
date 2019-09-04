@@ -14,6 +14,11 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "MycoEX®"
+[[bereiche.dateien]]
+datei = ""
+name = ""
+[[bereiche]]
 titel = "FENA®-MIN"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/FENA-MIN_Datenblatt_Futterzusatz_1m558i_2019.pdf"
