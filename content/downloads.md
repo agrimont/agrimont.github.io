@@ -19,6 +19,9 @@ titel = "StabiSil"
 datei = "/uploads/2019/09/04/StabiSil_FG7_2019.pdf"
 name = "StabiSil_FG7: Datenblatt"
 [[bereiche.dateien]]
+datei = "/uploads/2019/09/04/StabiSil_P7_Pulver_2019.pdf"
+name = "StabiSil_P7: Datenblatt"
+[[bereiche.dateien]]
 datei = "/uploads/2019/09/04/StabiSil_P10_2019.pdf"
 name = "StabiSil_P10: Datenblatt"
 [[bereiche.dateien]]
