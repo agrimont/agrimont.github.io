@@ -14,10 +14,25 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+dateien = []
+titel = ""
+[[bereiche]]
 titel = "AQUA-SIL"
 [[bereiche.dateien]]
-datei = ""
-name = ""
+datei = "/uploads/2019/09/04/Aquasil_Datenblatt_2019.pdf"
+name = "AQUA-SIL: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/AQUASIL_Durchlässigkeit_2019.pdf"
+name = "AQUA-SIL: Durchlässigkeit"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/AQUASIL_Funktionsweise_2019.pdf"
+name = "AQUA-SIL: Funktionsweise"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/AQUASIL_Einbau_2019.pdf"
+name = "AQUA-SIL: Einbau"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Uferrandausbildung_Aqua-Sil_Bild_2019.pdf"
+name = "AQUA-SIL: Uferrandausbildung"
 [[bereiche]]
 titel = "SEPIOBEST"
 [[bereiche.dateien]]
