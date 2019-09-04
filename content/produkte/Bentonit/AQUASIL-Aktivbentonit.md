@@ -26,7 +26,7 @@ titel = "AQUA-SIL Einbauhinweise"
 content = "<p><br><img src=\"/uploads/2019/09/03/Uferrandausbildung_AQUA-SIL_Bild_2019.png\"></p>"
 titel = "AQUA-SIL Einbauskizze"
 [[sections]]
-content = ""
+content = "<p><img src=\"/uploads/2019/09/04/Aqua_Sil_Datenblatt.JPG\"></p>"
 titel = "Datenblatt"
 [[sections]]
 content = ""
