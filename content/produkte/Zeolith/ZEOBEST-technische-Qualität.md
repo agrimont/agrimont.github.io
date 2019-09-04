@@ -7,5 +7,8 @@ weight = 2
 [[links_mit_icons_oben]]
 icon = "/uploads/icon_garten.png"
 link = "garten-und-landschaftsbau.md"
+[[sections]]
+content = "<ul><li><p>Senkung des Bewässerungsbedarfs</p></li><li><p>Förderung des Bodenlebens</p></li><li><p>Pufferung des pH-Wertes</p></li><li><p>Bindung von Schadstoffen im Boden</p></li><li><p>Wasserspeicher- und Wasserpufferfunktion</p></li><li><p>Gesündere und weniger stressanfällige Pflanzen</p></li><li><p>Förderung des Humusaufbaus</p></li><li><p>100 % reines Naturprodukt</p></li></ul>"
+titel = "Vorteile und Wirkung"
 
 +++
