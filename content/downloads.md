@@ -16,8 +16,23 @@ weight = 5
 [[bereiche]]
 titel = "MycoEX®"
 [[bereiche.dateien]]
-datei = ""
-name = ""
+datei = "/uploads/2019/09/04/Übersicht der Mykotoxin-Bindungseffizienz der MycoEX_Produktreihe_08.2019.pdf"
+name = "MycoEX®: Übersicht der Produktreihe"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/MycoEx_Basic_deutsch.pdf"
+name = "MycoEX®_Basic: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Flyer_MycoEx_Basic_deutsch (2).pdf"
+name = "MycoEX®_Basic: Flyer"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/MycoEx_Classic_deutsch_2019.pdf"
+name = "MycoEX®_Classic: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/MycoEx_Plus_deutsch_2019.pdf"
+name = "MycoEX®_Plus: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/MycoEx_Premium_Datenblatt_deutsch_2019.pdf"
+name = "MycoEX®_Premium: Datenblatt"
 [[bereiche]]
 titel = "FENA®-MIN"
 [[bereiche.dateien]]
