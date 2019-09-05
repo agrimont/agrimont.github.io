@@ -19,7 +19,7 @@ titel = "TERRANA® naturaktiv: Bentonit macht Wasser klar"
 content = "<p><img src=\"/uploads/2019/09/05/terrana_naturaktiv1.JPG\"><img src=\"/uploads/2019/09/05/terrana_naturaktiv2.JPG\"></p>"
 titel = "TERRANA® naturaktiv: Datenblatt"
 [[sections]]
-content = ""
+content = "<p><img src=\"/uploads/2019/09/05/terrana_p61.JPG\"></p>"
 titel = "TERRANA®_P61: Datenblatt"
 
 +++
