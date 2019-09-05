@@ -41,8 +41,8 @@ link = "produkte/Bentonit/StabiSil-FG7.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>wirkt pflanzenstärkend durch hohen Silizium-Gehalt, in mikronisierter Form zur Blattdüngung geeignet</p>"
-bezeichnung = "SEPIOLITH TX"
-link = "produkte/Sepiolith/Sepiogel-TX.md"
+bezeichnung = "SEPIOGEL"
+link = "produkte/Sepiolith/Sepiogel-TS.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>wirkt pflanzenstärkend durch hohen Silizium-Gehalt, in mikronisierter Form zur Blattdüngung geeignet</p>"
