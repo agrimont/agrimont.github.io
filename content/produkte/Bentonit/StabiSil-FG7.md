@@ -8,5 +8,8 @@ weight = 3
 [menu.produkte]
 parent = "Bentonit"
 weight = 24
+[[links_mit_icons_oben]]
+icon = "/uploads/icon_technik.png"
+link = "technische-anwendungen.md"
 
 +++
