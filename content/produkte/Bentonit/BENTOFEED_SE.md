@@ -4,7 +4,7 @@ seo_description = "BENTOFEED®-Futterzusatz zur Regulierung der Futterverwertung
 title = "BENTOFEED®"
 [bilder]
 gallerie = ["/uploads/2019/05/23/slide1_1200x600.jpg"]
-header = "/uploads/garten.jpg"
+header = "/uploads/2019/06/01/tiere.jpg"
 [menu.ab_tierernaehrung]
 weight = 7
 [menu.produkte]
