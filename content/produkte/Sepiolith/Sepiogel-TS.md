@@ -11,7 +11,7 @@ weight = 1
 icon = "/uploads/icon_technik.png"
 link = "technische-anwendungen.md"
 [[sections]]
-content = ""
+content = "<p><img src=\"/uploads/2019/09/05/sepiogel_tx.JPG\"></p>"
 titel = "Sepiogel TX: Datenblatt"
 [[sections]]
 content = ""
