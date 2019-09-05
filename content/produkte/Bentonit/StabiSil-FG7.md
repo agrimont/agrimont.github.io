@@ -1,6 +1,6 @@
 +++
 content_oben = "<h2>Zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit</h2><p>StabiSil fördert die Mikroorganismentätigkeit und stabilisiert die Prozessabläufe</p>"
-seo_description = "StabiSil FG7: für Biogasanlagen"
+seo_description = "StabiSil FG7: Bentonit-Montmorillonit zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit"
 title = "StabiSil FG7"
 [menu.ab_landwirtschaft]
 weight = 3
