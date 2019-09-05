@@ -3,7 +3,7 @@ content_oben = "<p><strong>BENTOFEED®</strong> ist ein bewährter Futterzusatzs
 seo_description = "BENTOFEED®-Futterzusatz zur Regulierung der Futterverwertung und zur Erhöhung der Vitalität"
 title = "BENTOFEED®"
 [bilder]
-gallerie = ["/uploads/2019/09/05/Fotolia_44227510_L.jpg", "/uploads/2019/09/05/Fotolia_55410893_XL.jpg"]
+gallerie = ["/uploads/2019/09/05/Fotolia_36748391_XL.jpg", "/uploads/2019/09/05/Fotolia_44227510_L.jpg", "/uploads/2019/09/05/Fotolia_55410893_XL.jpg"]
 header = "/uploads/2019/06/01/tiere.jpg"
 [menu.ab_tierernaehrung]
 weight = 7
