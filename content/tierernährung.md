@@ -28,11 +28,6 @@ bezeichnung = "Attapulgit Ultra8"
 link = "produkte/Attapulgit/Attapulgit-Ultra8.md"
 linkbeschriftung = "zum Produkt"
 [[produkte]]
-beschreibung = "<p>Produktreihe: Multifunktionale Futterzusatzstoffe mit physikalischen Wirkungen auf die Gülle und physiologischen Effekten beim Tier</p>"
-bezeichnung = "BENTOFEED®_FG"
-link = "produkte/Bentonit/BENTOFEED_FG.md"
-linkbeschriftung = "zum Produkt"
-[[produkte]]
 beschreibung = "<p>Futterzusatzstoff für Pferde</p>"
 bezeichnung = "EQUIMONT®"
 link = "produkte/Bentonit/EQUIMONT.md"
@@ -44,7 +39,7 @@ link = "produkte/Bentonit/FENA-MIN.md"
 linkbeschriftung = "zum Produkt"
 [[produkte]]
 beschreibung = "<p>Spezielle Mykotoxinbinder gegen Pilzgifte im Futter als Futterzusatzstoffe und Vormischungen</p>"
-bezeichnung = "MYCOEX®_BASIC"
+bezeichnung = "MYCOEX®"
 link = "produkte/Bentonit/MycoEX_Basic.md"
 linkbeschriftung = "zum Produkt"
 [[produkte]]
