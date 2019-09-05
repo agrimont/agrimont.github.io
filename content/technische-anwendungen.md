@@ -16,43 +16,23 @@ link = "produkte/Zeolith/zeobest-technische-qualität.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>Speziell selektierte Dichtungstone mit verzögert einsetzendem Quellprozess und hohem Schüttgewicht gewährleisten ein gutes Schütt- und Sinkverhalten des Granulats.</p>"
-bezeichnung = "EDATON® GRANULAT"
+bezeichnung = "EDATON® DICHTUNGSGRANULATE"
 link = "produkte/Bentonit/EDATON-G-Dichtungsgranulat.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>Zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit,fördert die Mikroorganismentätigkeit und stabilisiert die Prozessabläufe</p>"
-bezeichnung = "STABISIL FG 7"
+bezeichnung = "STABISIL"
 link = "produkte/Bentonit/StabiSil-FG7.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>Hochquellfähiger Aktiv-Bentonit für alle Anwendungen, die gute Quell-, Sorptions-, Haft- und Dichtwirkungen erfordern, insbesondere für mineralische Bodenabdichtungen. Als Pulver , ultrafeines Pulver und in unterschiedliche Granulat Körnungen verfügbar.</p>"
-bezeichnung = "BENTOSIL_M75"
-link = "produkte/Bentonit/BENTOSIL_M75.md"
-linkbeschriftung = "ZUM PRODUKT"
-[[produkte]]
-beschreibung = "<p>Hochquellfähiger Aktiv-Bentonit für alle Anwendungen, die gute Quell-, Sorptions-, Haft- und Dichtwirkungen erfordern, insbesondere für mineralische Bodenabdichtungen. Als Pulver , ultrafeines Pulver und in unterschiedliche Granulat Körnungen verfügbar.</p>"
-bezeichnung = "BENTOSIL_150"
+bezeichnung = "BENTOSIL"
 link = "produkte/Bentonit/BENTOSIL_150.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
-beschreibung = "<p>Hochquellfähiger Aktiv-Bentonit für alle Anwendungen, die gute Quell-, Sorptions-, Haft- und Dichtwirkungen erfordern, insbesondere für mineralische Bodenabdichtungen. Als Pulver , ultrafeines Pulver und in unterschiedliche Granulat Körnungen verfügbar.</p>"
-bezeichnung = "BENTOSIL_FG"
-link = "produkte/Bentonit/BENTOFEED_FG.md"
-linkbeschriftung = "ZUM PRODUKT"
-[[produkte]]
-beschreibung = "<p>Hochquellfähiger Aktiv-Bentonit für alle Anwendungen, die gute Quell-, Sorptions-, Haft- und Dichtwirkungen erfordern, insbesondere für mineralische Bodenabdichtungen. Als Pulver, ultrafeines Pulver und in unterschiedliche Granulat Körnungen verfügbar.</p>"
-bezeichnung = "BENTOSIL_UF"
-link = "produkte/Bentonit/BENTOSIL_UF.md"
-linkbeschriftung = "ZUM PRODUKT"
-[[produkte]]
 beschreibung = "<p>Als naturaktives Tonmineral und als saueraktivierte Bleicherde zur Abwasserbehandlung verfügbar.</p><p>*Terrana: eine Marke der Clariant International Ltd.</p>"
-bezeichnung = "TERRANA®_P61"
+bezeichnung = "TERRANA®"
 link = "produkte/Bentonit/TERRANA_P61.md"
-linkbeschriftung = "o\tTERRANA®_P61"
-[[produkte]]
-beschreibung = "<p>Als naturaktives Tonmineral und als saueraktivierte Bleicherde zur Abwasserbehandlung verfügbar.</p><p>*Terrana: eine Marke der Clariant International Ltd.</p>"
-bezeichnung = "TERRANA® naturaktiv"
-link = "produkte/Bentonit/TERRANA-naturaktiv.md"
-linkbeschriftung = "ZUM PRODUKT"
+linkbeschriftung = "o\tTERRANA®"
 
 +++
