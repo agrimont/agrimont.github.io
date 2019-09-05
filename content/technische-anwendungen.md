@@ -10,7 +10,7 @@ title = "Technische Anwendungen"
 [menu.anwendungsbereiche]
 weight = 4
 [[produkte]]
-beschreibung = ""
+beschreibung = "<p>SEPIOGEL-Produktreihe: Rheologische Additive für wässrige Systeme auf Sepiolith-Basis.</p>"
 bezeichnung = "Sepiogel"
 link = "produkte/Sepiolith/Sepiogel-TS.md"
 linkbeschriftung = "ZUM PRODUKT"
