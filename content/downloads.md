@@ -14,6 +14,20 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "BENTOSIL"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/BENTOSIL_M75_Aktivbentonit_2019.pdf"
+name = "BENTOSIL_M75: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/Bentosil_Feingranulat_2019.pdf"
+name = "BENTOSIL_FG: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/Bentosil_Granulat_2019.pdf"
+name = "BENTOSIL_G: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/BENTOSIL_UF_2019.pdf"
+name = "BENTOSIL_UF: Datenblatt"
+[[bereiche]]
 titel = "TERRANA®"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/05/TERRANA_P61_Datenblatt.pdf"
