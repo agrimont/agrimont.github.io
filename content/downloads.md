@@ -190,6 +190,12 @@ titel = "ALGOSIL®"
 [[bereiche.dateien]]
 datei = "/uploads/2019/06/07/ALGOSIL_Pulver_160_Datenbaltt_02.2019.pdf"
 name = "ALGOSIL® : Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/03/Flyer_Algenkalk_deutsch_2017.pdf"
+name = "ALGOSIL®: Flyer"
+[[bereiche.dateien]]
+datei = "/uploads/2019/06/07/Prüfung_der_Wirksamkeit_ von_ ALGOSIL_ Algenkalkpulver_ gegen_den_Buchsbaumzünsler.pdf"
+name = "ALGOSIL®: Algenkalk gegen Buchsbaumzünsler"
 [[bereiche]]
 titel = "BENTOFEED®"
 [[bereiche.dateien]]
