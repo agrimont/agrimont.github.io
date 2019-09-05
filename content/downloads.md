@@ -237,14 +237,6 @@ name = "BENTOFEED®: Keine Bindung von Vitaminen im Futter"
 datei = "/uploads/2019/09/04/Bentofeed_Flyer_Einzelblätter.pdf"
 name = "BENTOFEED®: Flyer"
 [[bereiche]]
-titel = "ALGENKALK"
-[[bereiche.dateien]]
-datei = "/uploads/2019/06/07/Flyer_Algenkalk_deutsch_2017.pdf"
-name = "Produktinformation"
-[[bereiche.dateien]]
-datei = "/uploads/2019/06/07/Prüfung_der_Wirksamkeit_ von_ ALGOSIL_ Algenkalkpulver_ gegen_den_Buchsbaumzünsler.pdf"
-name = "Prüfung Wirksamkeit gegen Buchsbaumzünsler"
-[[bereiche]]
 titel = "Zertifikate"
 [[bereiche.dateien]]
 datei = "/uploads/2019/06/01/ÖkoP_de.pdf"
