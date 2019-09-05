@@ -14,6 +14,14 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "EDATON® Dichtungsgranulate"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/EDATON_G_Dichtungs_Granulat_2019.pdf"
+name = "EDATON® G: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/EDATON_FG_Dichtungs_Granulat_2019.pdf"
+name = "EDATON® FG: Datenblatt"
+[[bereiche]]
 titel = "BENTOSIL"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/05/BENTOSIL_M75_Aktivbentonit_2019.pdf"
