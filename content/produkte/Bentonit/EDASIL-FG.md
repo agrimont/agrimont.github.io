@@ -3,7 +3,7 @@ content_oben = "<h2>EDASIL® – Bodenhilfsstoff für Gartenbau und Landwirtscha
 seo_description = "EDASIL® – der Bodenhilfsstoff für eine optimale Ausnutzung von Dünger und Wasser. Das bedeutet: Geld gespart –Erfolg gesichert!"
 title = "EDASIL®"
 [bilder]
-gallerie = ["/uploads/2019/09/05/Fotolia_49661317_XXL.jpg"]
+gallerie = ["/uploads/2019/09/05/Fotolia_30354817_XXL.jpg", "/uploads/2019/09/05/Fotolia_49661317_XXL.jpg"]
 header = "/uploads/garten.jpg"
 [menu.produkte]
 parent = "Bentonit"
