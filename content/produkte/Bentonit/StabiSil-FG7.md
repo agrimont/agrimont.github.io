@@ -2,6 +2,8 @@
 content_oben = "<h2>Zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit</h2><p>StabiSil aus Bentonit-Montmorillonit fördert die Mikroorganismentätigkeit und stabilisiert die Prozessabläufe.</p>"
 seo_description = "StabiSil FG7: Bentonit-Montmorillonit zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit"
 title = "StabiSil-FG7"
+[bilder]
+gallerie = ["/uploads/2019/09/05/stabisil.JPG", "/uploads/2019/09/05/stabisil2.JPG"]
 [menu.ab_landwirtschaft]
 weight = 3
 [menu.ab_technische_anwendungen]
