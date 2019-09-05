@@ -234,7 +234,10 @@ name = "ALGOFEED®: Einsatz beim Schwein"
 titel = "ALGOSIL®"
 [[bereiche.dateien]]
 datei = "/uploads/2019/06/07/ALGOSIL_Pulver_160_Datenbaltt_02.2019.pdf"
-name = "ALGOSIL® : Datenblatt"
+name = "ALGOSIL® Pulver: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/ALGOSIL_UF_Datenblatt_deutsch_2019_20kg.pdf"
+name = "ALGOSIL®_UF mikronisiert: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/03/Flyer_Algenkalk_deutsch_2017.pdf"
 name = "ALGOSIL®: Flyer"
