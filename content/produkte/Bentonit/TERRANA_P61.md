@@ -2,6 +2,8 @@
 content_oben = "<h2>TERRANA®_P61</h2><h3>Pulverförmige, mit Säure aktivierte Bleicherde</h3><p>Einsatzgebiet</p><p>Auf Grund der Tatsache, dass säureaktivierte Bentonite ein gutes Bindevermögen für oberflächenaktive Stoffe besitzen, ist <strong>TERRANA®P61 </strong>sehr gut zur adsorptiven Reinigung von Abwasser geeignet. Mit einer inneren Oberfläche von 280 m2/g steht <strong>TERRANA®_P61 </strong>diesbezüglich der Aktivkohle nahe.</p><p>Neben der adsorptiven Verringerung des CSB-Wertes wird insbesondere die Entfernung von Farbstoffen aus Abwasser der Textil-, der Papier- und der Nahrungsmittelindustrie durch <strong>TERRANA®_P61 </strong>ermöglicht. Auch Mineralöle, -fette, -wachse sowie pflanzliche und tierische Öle können entfärbt, gereinigt und letztlich stabilisiert werden.</p><p>Die in <strong>TERRANA®_P61 </strong>eingelagerten Protonen sind gegen Metallkationen austauschbar, so dass auf diese Weise die Konzentration an Schwermetallen im Abwasser reduziert wird.</p><hr><h2>TERRANA® naturaktiv</h2><p><strong>TERRANA® naturaktiv</strong> ist ein naturaktives Tonmineral mit einem hohen Montmorillonitanteil. Es besteht aus feinen plättchenförmigen Partikeln (Schichtsilikate) und weist daher eine große spezifische Oberfläche auf. </p><p><strong>TERRANA® naturaktiv</strong> besitzt eine hohe Adsorptions- sowie Kationenaustauschfähigkeit und ist ein ideales Trägermaterial für Mikroorganismen in Belebtschlamm-Systemen.</p>"
 seo_description = "TERRANA®- Produktreihe: Spezialbentonite zur Abwasserbehandlung."
 title = "TERRANA®"
+[bilder]
+gallerie = ["/uploads/2019/09/05/terrana.jpg"]
 [menu.ab_technische_anwendungen]
 weight = 10
 [menu.produkte]
