@@ -14,6 +14,14 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "Sepiogel"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/Sepiogel_TX_data_sheet_engl._2019.pdf"
+name = "Sepiogel TX: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/Sepiogel_TS_data_sheet_engl._2019.pdf"
+name = "Sepiogel TS: Datenblatt"
+[[bereiche]]
 titel = "EDATON® Dichtungsgranulate"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/05/EDATON_G_Dichtungs_Granulat_2019.pdf"
