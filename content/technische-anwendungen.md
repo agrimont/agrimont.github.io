@@ -10,6 +10,11 @@ title = "Technische Anwendungen"
 [menu.anwendungsbereiche]
 weight = 4
 [[produkte]]
+beschreibung = ""
+bezeichnung = "Sepiogel"
+link = "produkte/Sepiolith/Sepiogel-TS.md"
+linkbeschriftung = "ZUM PRODUKT"
+[[produkte]]
 beschreibung = "<p>Selektiver Adsorber für Filterschüttungen im feuchten und gasförmigen Milieu</p>"
 bezeichnung = "ZEOBEST GRANULATE"
 link = "produkte/Zeolith/zeobest-technische-qualität.md"
