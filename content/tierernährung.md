@@ -18,16 +18,6 @@ bezeichnung = "ALGOFEED®"
 link = "produkte/Algenkalk/ALGOFEED.md"
 linkbeschriftung = "zum Produkt"
 [[produkte]]
-beschreibung = "<p>Futterzusatz Zeolith 1g568, hohes selektives Bindevermögen für Ammoniak- und Ammoniumverbindungen</p>"
-bezeichnung = "ZEOBEST"
-link = "produkte/Zeolith/ZEOBEST-1g568-Futterzsatz.md"
-linkbeschriftung = "zum Produkt"
-[[produkte]]
-beschreibung = "<p>Mineralfuttermittel mit sehr guten Mykotoxinadsorptionseigenschaften</p>"
-bezeichnung = "Attapulgit Ultra8"
-link = "produkte/Attapulgit/Attapulgit-Ultra8.md"
-linkbeschriftung = "zum Produkt"
-[[produkte]]
 beschreibung = "<p>Futterzusatzstoff für Pferde</p>"
 bezeichnung = "EQUIMONT®"
 link = "produkte/Bentonit/EQUIMONT.md"
@@ -43,19 +33,19 @@ bezeichnung = "MYCOEX®"
 link = "produkte/Bentonit/MycoEX_Basic.md"
 linkbeschriftung = "zum Produkt"
 [[produkte]]
-beschreibung = "<p>Spezielle Mykotoxinbinder gegen Pilzgifte im Futter als Futterzusatzstoffe und Vormischungen</p>"
-bezeichnung = "MYCOEX®_PLUS"
-link = "produkte/Bentonit/MycoEX_Plus.md"
-linkbeschriftung = "zum Produkt"
-[[produkte]]
-beschreibung = "<p>Spezielle Mykotoxinbinder gegen Pilzgifte im Futter als Futterzusatzstoffe und Vormischungen</p>"
-bezeichnung = "MYCOEX®_PREMIUM"
-link = "produkte/Bentonit/MycoEX_Premium.md"
-linkbeschriftung = "zum Produkt"
-[[produkte]]
 beschreibung = "<p>Breitband Mykotoxinadsorber als Futterzusatzstoff</p>"
 bezeichnung = "TOXISORB® PREMIUM"
 link = "produkte/Bentonit/TOXISORB-Premium.md"
+linkbeschriftung = "zum Produkt"
+[[produkte]]
+beschreibung = "<p>Futterzusatz Zeolith 1g568, hohes selektives Bindevermögen für Ammoniak- und Ammoniumverbindungen</p>"
+bezeichnung = "ZEOBEST Futterzusatzstoff"
+link = "produkte/Zeolith/ZEOBEST-1g568-Futterzsatz.md"
+linkbeschriftung = "zum Produkt"
+[[produkte]]
+beschreibung = "<p>Mineralfuttermittel mit sehr guten Mykotoxinadsorptionseigenschaften</p>"
+bezeichnung = "ATTAPULGIT"
+link = "produkte/Attapulgit/Attapulgit-Ultra8.md"
 linkbeschriftung = "zum Produkt"
 [[produkte]]
 beschreibung = "<p>Futterzusatzstoff Sepiolith E562, Binde-, Press- und Fließhilfsmittel, zur Stallluftverbesserung</p>"
