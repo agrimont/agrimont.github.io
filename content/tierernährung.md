@@ -8,6 +8,11 @@ title = "Tierernährung"
 [menu.anwendungsbereiche]
 weight = 2
 [[produkte]]
+beschreibung = "<p>Produktreihe: Multifunktionale Futterzusatzstoffe mit physikalischen Wirkungen auf die Gülle und physiologischen Effekten beim Tier</p>"
+bezeichnung = "BENTOFEED®"
+link = "produkte/Bentonit/BENTOFEED_SE.md"
+linkbeschriftung = "zum Produkt"
+[[produkte]]
 beschreibung = "<p>Einzelfuttermittel, schnell fließende Mineralstoffquelle und idealer Pansenpuffer für Wiederkäuer</p>"
 bezeichnung = "ALGOFEED®"
 link = "produkte/Algenkalk/ALGOFEED.md"
@@ -21,11 +26,6 @@ linkbeschriftung = "zum Produkt"
 beschreibung = "<p>Mineralfuttermittel mit sehr guten Mykotoxinadsorptionseigenschaften</p>"
 bezeichnung = "Attapulgit Ultra8"
 link = "produkte/Attapulgit/Attapulgit-Ultra8.md"
-linkbeschriftung = "zum Produkt"
-[[produkte]]
-beschreibung = "<p>Produktreihe: Multifunktionale Futterzusatzstoffe mit physikalischen Wirkungen auf die Gülle und physiologischen Effekten beim Tier</p>"
-bezeichnung = "BENTOFEED®_SE"
-link = "produkte/Bentonit/BENTOFEED_SE.md"
 linkbeschriftung = "zum Produkt"
 [[produkte]]
 beschreibung = "<p>Produktreihe: Multifunktionale Futterzusatzstoffe mit physikalischen Wirkungen auf die Gülle und physiologischen Effekten beim Tier</p>"
