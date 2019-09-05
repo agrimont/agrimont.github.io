@@ -1,7 +1,7 @@
 +++
 content_oben = "<h1>StabiSil-FG7 und StabiSil-P7:</h1><h2>Zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit</h2><p>StabiSil, ein Bentonit-Montmorillonit fördert die Mikroorganismentätigkeit und stabilisiert die Prozessabläufe in Biogasanlagen.</p><hr><h1>StabiSil-P10:</h1><h2>Biogasadditiv</h2><h3>Zur Stabilisierung von Prozessabläufen in Biogasanlagen und zur Verbesserung der Homogenisierbarkeit des Fermenters</h3><p>Der Einsatz des Biogasadditivs <strong>StabiSil P10 </strong>ist wegen seines hohen Puffervermögens und seiner ausgeprägt thixotropen Eigenschaften bei folgenden Fermenterproblemen besonders angezeigt:</p><ul><li><p><strong>Bekämpfung von Fermenter-Azidosen</strong></p></li><li><p><strong>Auflösung von Schwimmdecken und Sinkschichten und Verringerung des Rühraufwands durch fließfähigeren Reaktorinhalt</strong></p></li></ul>"
-seo_description = "Die StabiSil- Produktreihe: Bentonit-Montmorillonite zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit"
-title = "StabiSil-FG7"
+seo_description = "Die StabiSil- Produktreihe: Bentonit-Montmorillonite zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit."
+title = "StabiSil"
 [bilder]
 gallerie = ["/uploads/2019/09/05/stabisil.JPG", "/uploads/2019/09/05/stabisil2.JPG"]
 [menu.ab_landwirtschaft]
