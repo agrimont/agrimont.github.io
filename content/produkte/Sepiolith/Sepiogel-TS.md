@@ -14,7 +14,7 @@ link = "technische-anwendungen.md"
 content = "<p><img src=\"/uploads/2019/09/05/sepiogel_tx.JPG\"></p>"
 titel = "Sepiogel TX: Datenblatt"
 [[sections]]
-content = ""
+content = "<p><img src=\"/uploads/2019/09/05/sepiogel_ts.JPG\"></p>"
 titel = "Sepiogel TS: Datenblatt"
 
 +++
