@@ -23,7 +23,7 @@ content = "<h2><strong>Wirkungsspektrum beim Schwein </strong></h2><ul><li><p><s
 titel = "Einsatz beim Schwein"
 [[sections]]
 content = "<p>Technisches Datenblatt Pulver:</p><h2><strong>ALGOFEED®_315, Pulver </strong></h2><h3><strong>100% Kohlensaurer Kalk aus Meeresalgen (Maerl), Einzelfuttermittel</strong></h3><p><img src=\"/uploads/2019/08/17/algofeed.JPG\"></p>"
-titel = "Datenblätter"
+titel = "Datenblatt"
 [[sections]]
 content = "<p>Datenblatt</p><p>Flyer</p>"
 titel = "Downloads"
