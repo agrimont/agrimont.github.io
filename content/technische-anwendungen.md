@@ -25,16 +25,6 @@ bezeichnung = "STABISIL FG 7"
 link = "produkte/Bentonit/StabiSil-FG7.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
-beschreibung = "<p>Zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit, fördert die Mikroorganismentätigkeit und stabilisiert die Prozessabläufe</p>"
-bezeichnung = "STABISIL P7"
-link = "produkte/Bentonit/StabiSil-P7.md"
-linkbeschriftung = "ZUM PRODUKT"
-[[produkte]]
-beschreibung = "<p>Zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit,fördert</p><p>die Mikroorganismentätigkeit und stabilisiert die Prozessabläufe</p>"
-bezeichnung = "STABISIL P10"
-link = "produkte/Bentonit/StabiSil-P10.md"
-linkbeschriftung = "ZUM PRODUKT"
-[[produkte]]
 beschreibung = "<p>Hochquellfähiger Aktiv-Bentonit für alle Anwendungen, die gute Quell-, Sorptions-, Haft- und Dichtwirkungen erfordern, insbesondere für mineralische Bodenabdichtungen. Als Pulver , ultrafeines Pulver und in unterschiedliche Granulat Körnungen verfügbar.</p>"
 bezeichnung = "BENTOSIL_M75"
 link = "produkte/Bentonit/BENTOSIL_M75.md"
