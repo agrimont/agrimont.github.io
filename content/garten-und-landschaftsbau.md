@@ -20,10 +20,10 @@ bezeichnung = "ZEOBEST Bodenhilfsstoff"
 link = "produkte/Zeolith/ZEOBEST-technische-Qualität.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
-beschreibung = ""
+beschreibung = "<p>Erhöht das Nährstoffspeichervermögen des Bodens, verbessert das Luftporenvolumen bei schweren Böden, wirkt pflanzenstärkend durch hohen Silizium-Gehalt, in mikronisierter Form zur Blattdüngung geeignet</p>"
 bezeichnung = "ZEOBEST Blattdüngung und Pflanzenschutz"
 link = "produkte/Zeolith/liste.md"
-linkbeschriftung = ""
+linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>natürliches Calcium-Bentonit</p><p>Bodenhilfsstoff zur Verbesserung der Substrat- und Bodeneigenschaften, sowie des Ertrags, Erhöht die Wasserhaltekapazität und die Nährstoffspeicherung leichter Böden.</p><p>In Granulatform staubarme Ausbringung mit dem Düngerstreuer</p>"
 bezeichnung = "EDASIL®"
