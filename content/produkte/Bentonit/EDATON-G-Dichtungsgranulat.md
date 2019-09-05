@@ -8,5 +8,8 @@ weight = 23
 [[links_mit_icons_oben]]
 icon = "/uploads/icon_technik.png"
 link = "technische-anwendungen.md"
+[[sections]]
+content = "<p><img src=\"/uploads/2019/09/05/edaton_fg.JPG\"></p>"
+titel = "EDATON® FG: Datenblatt"
 
 +++
