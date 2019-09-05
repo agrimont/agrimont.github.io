@@ -17,7 +17,7 @@ weight = 5
 titel = "TERRANA®"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/TI_Terrana_agrimont.pdf"
-name = "TERRANA®: Datenblatt"
+name = "TERRANA® naturaktiv: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/TERRANA_Bentonit_macht_Wasser_klar_agrimont.pdf"
 name = "TERRANA®: Bentonit macht Wasser klar"
