@@ -12,6 +12,9 @@ weight = 2
 parent = "Bentonit"
 weight = 15
 [[links_mit_icons_oben]]
+icon = "/uploads/Icon_landwirtschaft.png"
+link = "landwirtschaft.md"
+[[links_mit_icons_oben]]
 icon = "/uploads/icon_garten.png"
 link = "garten-und-landschaftsbau.md"
 [[sections]]
