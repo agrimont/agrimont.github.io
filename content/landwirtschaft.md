@@ -36,7 +36,7 @@ link = "produkte/Bentonit/EDATON.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>Zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit,fördert die Mikroorganismentätigkeit und stabilisiert die Prozessabläufe</p>"
-bezeichnung = "STABISIL FG 7"
+bezeichnung = "STABISIL"
 link = "produkte/Bentonit/StabiSil-FG7.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
