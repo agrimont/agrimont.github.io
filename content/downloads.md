@@ -49,6 +49,9 @@ name = "StabiSil: Bentonit bei anaeroben Prozessen"
 [[bereiche]]
 titel = "ZEOBEST"
 [[bereiche.dateien]]
+datei = "/uploads/2019/09/05/ZEOBEST_85_2019.pdf"
+name = "ZEOBEST_technische Anwendung: Datenblatt"
+[[bereiche.dateien]]
 datei = "/uploads/2019/09/04/ZEOBEST_4A_Zeolith_Bodenhilfsstoff_2019.pdf"
 name = "ZEOBEST_Bodenhilfsstoff: Datenblatt"
 [[bereiche.dateien]]
