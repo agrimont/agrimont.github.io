@@ -16,6 +16,9 @@ weight = 5
 [[bereiche]]
 titel = "TERRANA®"
 [[bereiche.dateien]]
+datei = "/uploads/2019/09/05/TERRANA_P61_Datenblatt.pdf"
+name = "TERRANA®_P61: Datenblatt"
+[[bereiche.dateien]]
 datei = "/uploads/2019/09/04/TI_Terrana_agrimont.pdf"
 name = "TERRANA® naturaktiv: Datenblatt"
 [[bereiche.dateien]]
