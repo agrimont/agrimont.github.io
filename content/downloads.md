@@ -16,6 +16,9 @@ weight = 5
 [[bereiche]]
 titel = "Sepiogel"
 [[bereiche.dateien]]
+datei = ""
+name = ""
+[[bereiche.dateien]]
 datei = "/uploads/2019/09/05/Sepiogel_TX_data_sheet_engl._2019.pdf"
 name = "Sepiogel TX: Datenblatt"
 [[bereiche.dateien]]
