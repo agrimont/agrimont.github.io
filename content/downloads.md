@@ -186,7 +186,7 @@ name = "ALGOFEED 315 Pulver Einzelfuttermittel Datenblatt"
 datei = "/uploads/2019/06/07/ALGOFEED_Einsatz_beim_Schwein_2019.pdf"
 name = " ALGOFEED Einsatz beim Schwein"
 [[bereiche]]
-titel = "ALGOSIL"
+titel = "ALGOSIL®"
 [[bereiche.dateien]]
 datei = "/uploads/2019/06/07/ALGOSIL_Pulver_160_Datenbaltt_02.2019.pdf"
 name = "ALGOSIL® : Datenblatt"
