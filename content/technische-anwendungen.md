@@ -1,6 +1,6 @@
 +++
 bild_header = "/uploads/technik.jpg"
-content = "<p>Die Anwendungsschwerpunkte unserer technischen Bentonite liegen bei: Abdichtungsmaßnahmen, Horizontalbohrungen, Rohrbettungen, Ringraum- und Bohrlochverfüllungen, Flüssigboden, Abwasserreinigung:</p>"
+content = "<p>Die Anwendungsschwerpunkte unserer technischen Bentonite liegen bei: Abdichtungsmaßnahmen, Horizontalbohrungen, Rohrbettungen, Flüssigboden, Ringraum- und Bohrlochverfüllungen, Abwasserreinigung:</p>"
 date = "2019-04-13T11:57:18+02:00"
 icon = "/uploads/icon_technik.png"
 layout = "anwendungsbereich"
