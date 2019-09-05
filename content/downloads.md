@@ -183,6 +183,9 @@ titel = "ALGOFEED®"
 datei = "/uploads/2019/06/07/ALGOFEED_315_Pulver_Einzelfuttermittel_Datenblatt_2019.pdf"
 name = "ALGOFEED®: Datenblatt"
 [[bereiche.dateien]]
+datei = "/uploads/2019/09/03/Flyer_Algenkalk_deutsch_2017.pdf"
+name = "ALGOFEED®: Flyer"
+[[bereiche.dateien]]
 datei = "/uploads/2019/06/07/ALGOFEED_Einsatz_beim_Schwein_2019.pdf"
 name = "ALGOFEED®: Einsatz beim Schwein"
 [[bereiche]]
