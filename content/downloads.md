@@ -14,6 +14,11 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "Attapulgit"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Produktdatenblatt_Attapulgit_Ultra8_04.2019.pdf"
+name = "Attapulgit Ultra 8: Datenblatt"
+[[bereiche]]
 titel = "Sepiogel"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/05/Sepiogel_TX_in_suspension_fertilizers_2019.pdf"
@@ -60,6 +65,17 @@ name = "TERRANA® naturaktiv: Bentonit macht Wasser klar"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/Terrana_Versuch_agrimont.pdf"
 name = "TERRANA® naturaktiv: Einsatz zur Schlammbeschwerung auf einer Kläranlage"
+[[bereiche]]
+titel = "ALGOFEED®"
+[[bereiche.dateien]]
+datei = "/uploads/2019/06/07/ALGOFEED_315_Pulver_Einzelfuttermittel_Datenblatt_2019.pdf"
+name = "ALGOFEED®: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/03/Flyer_Algenkalk_deutsch_2017.pdf"
+name = "ALGOFEED®: Flyer"
+[[bereiche.dateien]]
+datei = "/uploads/2019/06/07/ALGOFEED_Einsatz_beim_Schwein_2019.pdf"
+name = "ALGOFEED®: Einsatz beim Schwein"
 [[bereiche]]
 titel = "Wissenswertes"
 [[bereiche.dateien]]
@@ -164,11 +180,6 @@ name = "FENA®-MIN: Datenblatt"
 datei = "/uploads/2019/09/04/FENAMIN_Flyer_2017.pdf"
 name = "FENA®-MIN: Flyer"
 [[bereiche]]
-titel = "Attapulgit"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Produktdatenblatt_Attapulgit_Ultra8_04.2019.pdf"
-name = "Attapulgit Ultra 8: Datenblatt"
-[[bereiche]]
 titel = "AQUA-SIL"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/Aquasil_Datenblatt_2019.pdf"
@@ -219,17 +230,6 @@ name = "EQUIMONT®: Weidekrankheit (Reiter Revue)"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/Heuqualität_VFD_Vereinigung_Freizeitreiter.pdf"
 name = "EQUIMONT®: Heuqualität (Vereinigung Freizeitreiter)"
-[[bereiche]]
-titel = "ALGOFEED®"
-[[bereiche.dateien]]
-datei = "/uploads/2019/06/07/ALGOFEED_315_Pulver_Einzelfuttermittel_Datenblatt_2019.pdf"
-name = "ALGOFEED®: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/03/Flyer_Algenkalk_deutsch_2017.pdf"
-name = "ALGOFEED®: Flyer"
-[[bereiche.dateien]]
-datei = "/uploads/2019/06/07/ALGOFEED_Einsatz_beim_Schwein_2019.pdf"
-name = "ALGOFEED®: Einsatz beim Schwein"
 [[bereiche]]
 titel = "ALGOSIL®"
 [[bereiche.dateien]]
