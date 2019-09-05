@@ -40,16 +40,6 @@ bezeichnung = "STABISIL FG 7"
 link = "produkte/Bentonit/StabiSil-FG7.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
-beschreibung = "<p>Zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit,fördert die Mikroorganismentätigkeit und stabilisiert die Prozessabläufe</p>"
-bezeichnung = "STABISIL P7"
-link = "produkte/Bentonit/StabiSil-P7.md"
-linkbeschriftung = "ZUM PRODUKT"
-[[produkte]]
-beschreibung = "<p>Zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit,fördert die Mikroorganismentätigkeit und stabilisiert die Prozessabläufe</p>"
-bezeichnung = "STABISIL P10"
-link = "produkte/Bentonit/StabiSil-P10.md"
-linkbeschriftung = "ZUM PRODUKT"
-[[produkte]]
 beschreibung = "<p>wirkt pflanzenstärkend durch hohen Silizium-Gehalt, in mikronisierter Form zur Blattdüngung geeignet</p>"
 bezeichnung = "SEPIOLITH TX"
 link = "produkte/Sepiolith/Sepiogel-TX.md"
