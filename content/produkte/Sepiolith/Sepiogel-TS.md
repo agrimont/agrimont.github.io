@@ -11,6 +11,9 @@ weight = 1
 icon = "/uploads/icon_technik.png"
 link = "technische-anwendungen.md"
 [[sections]]
+content = "<h3><strong>Sepiogel TX/TS</strong> zum Einsatz in Düngersuspensionen</h3><p class=\"MsoNormal\"><strong>Sepiogel TX/TS</strong> sind staubarme Zusatzstoffe, die entwickelt wurden, um hochwirksame Suspensionseigenschaften zu erzielen. Diese Produkt weisen einige innovative Unterschiede zu klassischen Schichtsilikaten auf, die in diesem Bereich verwendet werden. </p><p class=\"MsoNormal\"><strong>Sepiogel TX </strong>ist ein selbstdispergierendes Additiv, das bereits bei geringen Konzentrationen an Kationen, bevorzugt Ca2+ und K+ Ionen, die in der Düngemittelsuspension gelöst sind, aktiviert werden.</p><h5>Zusammenfassung:</h5><p class=\"MsoNormal\">- Kleine Mengen an gelösten Kationen reichen aus, um den Aufbau einer stabilen Gelstruktur mit <strong>SEPIOGEL TX</strong> zu fördern. Vor allem Kalium und Kalzium sind als Aktivatoren sehr effektiv.</p><p class=\"MsoNormal\">- <strong>SEPIOGEL TX</strong> zeigte eine sehr gute Stabilität in verschiedenen NPK-Formulierungstests.</p><p class=\"MsoNormal\">- Im Vergleich zu dem Standardadditiv <strong>Sepiogel TS</strong> zeigt <strong>Sepiogel TX</strong> eine hohe Stabilität bei Einsatz nur der halben Aufwandmenge.</p>"
+titel = "Einsatz in Düngersuspensionen, Anwendungsbeispiel"
+[[sections]]
 content = "<p><img src=\"/uploads/2019/09/05/sepiogel_tx.JPG\"></p>"
 titel = "Sepiogel TX: Datenblatt"
 [[sections]]
