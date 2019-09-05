@@ -189,7 +189,7 @@ name = " ALGOFEED Einsatz beim Schwein"
 titel = "ALGOSIL"
 [[bereiche.dateien]]
 datei = "/uploads/2019/06/07/ALGOSIL_Pulver_160_Datenbaltt_02.2019.pdf"
-name = "ALOGIL PULVER 160 Datenbaltt"
+name = "ALGOSIL® : Datenblatt"
 [[bereiche]]
 titel = "BENTOFEED®"
 [[bereiche.dateien]]
