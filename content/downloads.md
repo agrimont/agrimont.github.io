@@ -53,19 +53,22 @@ datei = "/uploads/2019/09/04/ZEOBEST_4A_Zeolith_Bodenhilfsstoff_2019.pdf"
 name = "ZEOBEST_Bodenhilfsstoff: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/ZEOBEST_4A_Zeolith_2µm_technische_Qualität_2019.pdf"
-name = "ZEOBEST_4A mikronisiert 2µm: Datenblatt"
+name = "Pharmazie: ZEOBEST_4A mikronisiert 2µm: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/ZEOBEST_4A_Zeolith_6µm_technische_Qualität_2019.pdf"
-name = "ZEOBEST_4A mikronisiert 6µm: Datenblatt"
+name = "Pharmazie: ZEOBEST_4A mikronisiert 6µm: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/ZEOBEST_20_Mikronisiertes Pulver_2019.pdf"
-name = "ZEOBEST_20 mikronisiert: Datenblatt"
+name = "Blattdüngung und Pflazenschutz: ZEOBEST_20 mikronisiert: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/ZEOBEST_50_Mikronisiertes Pulver_2019.pdf"
-name = "ZEOBEST_50 mikronisiert: Datenblatt"
+name = "Blattdüngung und Pflazenschutz: ZEOBEST_50 mikronisiert: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/Einsatz von ZEOBEST im Pflanzenschutz.pdf"
-name = "ZEOBEST_20/ ZEOBEST_50, mikronisiert: Einsatz im Pflanzenschutz"
+name = "Blattdüngung und Pflazenschutz: ZEOBEST_20/ ZEOBEST_50, mikronisiert: Einsatz im Pflanzenschutz"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/ZEOBEST_85_Futterzusatzstoff_2019.pdf"
+name = "ZEOBEST_Futterzusatzstoff: Datenblatt"
 [[bereiche]]
 titel = " EDATON®"
 [[bereiche.dateien]]
