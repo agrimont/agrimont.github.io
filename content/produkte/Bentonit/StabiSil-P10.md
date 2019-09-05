@@ -14,7 +14,7 @@ weight = 25
 icon = "/uploads/icon_technik.png"
 link = "technische-anwendungen.md"
 [[sections]]
-content = ""
+content = "<p><img src=\"/uploads/2019/09/05/Stabisil_g10.JPG\"></p>"
 titel = "Datenblatt"
 
 +++
