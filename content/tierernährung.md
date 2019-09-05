@@ -13,11 +13,6 @@ bezeichnung = "BENTOFEED®"
 link = "produkte/Bentonit/BENTOFEED_SE.md"
 linkbeschriftung = "zum Produkt"
 [[produkte]]
-beschreibung = "<p>Einzelfuttermittel, schnell fließende Mineralstoffquelle und idealer Pansenpuffer für Wiederkäuer</p>"
-bezeichnung = "ALGOFEED®"
-link = "produkte/Algenkalk/ALGOFEED.md"
-linkbeschriftung = "zum Produkt"
-[[produkte]]
 beschreibung = "<p>Futterzusatzstoff für Pferde</p>"
 bezeichnung = "EQUIMONT®"
 link = "produkte/Bentonit/EQUIMONT.md"
@@ -36,6 +31,11 @@ linkbeschriftung = "zum Produkt"
 beschreibung = "<p>Breitband Mykotoxinadsorber als Futterzusatzstoff</p>"
 bezeichnung = "TOXISORB® PREMIUM"
 link = "produkte/Bentonit/TOXISORB-Premium.md"
+linkbeschriftung = "zum Produkt"
+[[produkte]]
+beschreibung = "<p>Einzelfuttermittel, schnell fließende Mineralstoffquelle und idealer Pansenpuffer für Wiederkäuer</p>"
+bezeichnung = "ALGOFEED®"
+link = "produkte/Algenkalk/ALGOFEED.md"
 linkbeschriftung = "zum Produkt"
 [[produkte]]
 beschreibung = "<p>Futterzusatz Zeolith 1g568, hohes selektives Bindevermögen für Ammoniak- und Ammoniumverbindungen</p>"
