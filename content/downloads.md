@@ -178,13 +178,13 @@ name = "EQUIMONT®: Weidekrankheit (Reiter Revue)"
 datei = "/uploads/2019/09/04/Heuqualität_VFD_Vereinigung_Freizeitreiter.pdf"
 name = "EQUIMONT®: Heuqualität (Vereinigung Freizeitreiter)"
 [[bereiche]]
-titel = "ALGOFEED"
+titel = "ALGOFEED®"
 [[bereiche.dateien]]
 datei = "/uploads/2019/06/07/ALGOFEED_315_Pulver_Einzelfuttermittel_Datenblatt_2019.pdf"
-name = "ALGOFEED 315 Pulver Einzelfuttermittel Datenblatt"
+name = "ALGOFEED®: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/06/07/ALGOFEED_Einsatz_beim_Schwein_2019.pdf"
-name = " ALGOFEED Einsatz beim Schwein"
+name = "ALGOFEED®: Einsatz beim Schwein"
 [[bereiche]]
 titel = "ALGOSIL®"
 [[bereiche.dateien]]
