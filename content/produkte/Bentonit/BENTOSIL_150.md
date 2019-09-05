@@ -13,13 +13,15 @@ icon = "/uploads/icon_technik.png"
 link = "technische-anwendungen.md"
 [[sections]]
 content = "<p><img src=\"/uploads/2019/09/05/bentosil_M75.JPG\"></p>"
-titel = "BENTOSIL_M75"
+titel = "BENTOSIL_M75: Datenblatt"
 [[sections]]
-content = ""
+content = "<p><img src=\"/uploads/2019/09/05/Bentosil_FG.JPG\"></p>"
+titel = "BENTOSIL_FG: Datenblatt"
 [[sections]]
-content = ""
+content = "<p><img src=\"/uploads/2019/09/05/Bentosil_G.JPG\"></p>"
+titel = "BENTOSIL_G: Datenblatt"
 [[sections]]
-content = ""
-titel = "BENTOSIL-UF (ultrafein): Datenblatt"
+content = "<p><img src=\"/uploads/2019/09/05/Bentosil_UF.JPG\"></p>"
+titel = "BENTOSIL_UF: Datenblatt"
 
 +++
