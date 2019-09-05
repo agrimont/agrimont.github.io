@@ -2,6 +2,9 @@
 content_oben = "<h2>EDASIL® – Bodenhilfsstoff für Gartenbau und Landwirtschaft</h2><p class=\"MsoNormal\">Eine optimale Ausnutzung von Dünger und Wasser bedeutet: <strong>Geld gespart –Erfolg gesichert!</strong></p><p class=\"MsoNormal\"><strong>EDASIL®</strong> ist ein natürIicher Kalzium-Bentonit, der Wasser und Nährstoffe speichert und das Bodenleben fördert.</p><p class=\"MsoNormal\">Eigenschaften: </p><ul><li><p class=\"MsoNormal\">natürliches Tonmineral zur Verbesserung leichter und sandiger Böden</p></li><li><p class=\"MsoNormal\">hohes Wasserrückhaltevermögen verbessert den Wasserhaushalt des Bodens und schützt die Pflanze vor vorzeitigem Austrocknen</p></li><li><p class=\"MsoNormal\">hohes Nährstoffspeichervermögen verbessert die Wirkung von Düngemitteln, d.h. es wird ein Depoteffekt erzielt.</p></li><li><p class=\"MsoNormal\">fördert die nachhaltige Bodenfruchtbarkeit durch die Bildung von stabilen Ton-Humus-Komplexen.</p></li></ul><p><img src=\"/uploads/2019/09/03/edasil.jpg\"></p><ul><li><p>ideale Kompostierungshilfe durch Förderung der Mikroorganismen</p></li><li><p class=\"MsoNormal\">verhindert Fäulnis und lästige Gerüche.</p></li></ul><p class=\"MsoNormal\">Grund für diese Eigenschaften ist die Plättchenstruktur von <strong>EDASIL®</strong> und dessen große Oberfläche von 600 – 800m2/g. Die Silikat-Schichtpakete weiten sich durch das Wasser, können Nährstoffionen puffern und dienen Mikroorganismen als wichtige Trägersubstanz.</p>"
 seo_description = "EDASIL® – der Bodenhilfsstoff für eine optimale Ausnutzung von Dünger und Wasser. Das bedeutet: Geld gespart –Erfolg gesichert!"
 title = "EDASIL®"
+[bilder]
+gallerie = ["/uploads/2019/09/05/Fotolia_49661317_XXL.jpg"]
+header = "/uploads/garten.jpg"
 [menu.produkte]
 parent = "Bentonit"
 weight = 2
