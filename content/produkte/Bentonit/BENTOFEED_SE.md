@@ -38,7 +38,7 @@ titel = "Keine Bindung von Spurenelementen und Vitaminen in der Futterration"
 content = "<p>Technisches Datenblatt BENTOFEED®_SE:</p><p><img src=\"/uploads/2019/08/17/Bentofeed_SE.JPG\">Technisches Datenblatt BENTOFEED®_FG:</p><p><img src=\"/uploads/2019/08/18/Bentofeed_FG-1.JPG\"></p>"
 titel = "Datenblätter SE und FG"
 [[sections]]
-content = "<p>Flyer</p><p>keine Bindung von Vitaminen</p><p>Datenblatt</p>"
+content = "<p><a href=\"/landwirtschaft\" title=\"\">&gt;&gt;</a> Alle wichtigen Informationen stehen für Sie auch im <a href=\"/downloads\" title=\"\">Download </a>bereit! Flyer</p><p>keine Bindung von Vitaminen</p><p>Datenblatt</p>"
 titel = "Downloads"
 
 +++
