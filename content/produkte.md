@@ -16,9 +16,9 @@ content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinad
 icon = "/uploads/icon_tiere.png"
 titel = "Tierernährung"
 [[produktgruppen.anwendungsbereiche.bereiche]]
-content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\"> &gt;&gt; weiterlesen</a></p>"
-icon = "/uploads/icon_tiere.png"
-titel = "Tierernährung"
+content = "<p>Abdichtungen, Horizontalbohrungen, Rohrbettungen, Ringraum- / Bohrlochverfüllungen, Flüssigboden, Abwasserreinigung</p><p><a href=\"/tierernährung\" title=\"\">&gt;&gt; weiterlesen</a></p>"
+icon = "/uploads/icon_technik.png"
+titel = "Technische Anwendungen"
 [produktgruppen.beschreibung]
 beschriftung = "Was ist Bentonit?"
 content = "<p>PLATZHALTERTEXT Am puleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve, Am \t\tpuleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve,</p>"
