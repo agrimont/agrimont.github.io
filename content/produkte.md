@@ -12,6 +12,10 @@ produktgruppe = "Bentonit"
 [produktgruppen.anwendungsbereiche]
 beschriftung = "Anwendungsbereiche"
 [[produktgruppen.anwendungsbereiche.bereiche]]
+content = "<p>Pharmazeutische Hilfsstoffe</p><p><a href=\"/pharmazie/\" title=\"\">&gt;&gt; weiterlesen</a></p>"
+icon = "/uploads/icon_pharmazie.png"
+titel = "Pharmazie"
+[[produktgruppen.anwendungsbereiche.bereiche]]
 content = "<p>Substratzuschlagsstoffe, Kompostierung, Bodenverbesserung, Düngung</p><p><a href=\"/garten-und-landschaftsbau/\" title=\"\">&gt;&gt; weiterlesen</a></p>"
 icon = "/uploads/icon_garten.png"
 titel = "Garten- und Landschftsbau"
