@@ -28,41 +28,20 @@ beschriftung = "Produkte"
 link = "produkte/Bentonit/AQUASIL-Aktivbentonit.md"
 produktname = "AQUASIL Aktivbentonit"
 [[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/BENTOFEED_FG.md"
-produktname = "BENTOFEED®_FG"
-[[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/BENTOFEED_SE.md"
 produktname = "BENTOFEED®_SE"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/BENTOSIL_150.md"
 produktname = "BENTOSIL_150"
 [[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/BENTOSIL_FG.md"
-produktname = "BENTOSIL_FG"
-[[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/BENTOSIL_M75.md"
-produktname = "BENTOSIL_M75"
-[[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/BENTOSIL_UF.md"
-produktname = "BENTOSIL_UF"
-[[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/EDASIL-FG.md"
 produktname = "EDASIL® FG"
-[[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/EDASIL-G.md"
-produktname = "EDASIL® G"
-[[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/EDATON-FG-Dichtungsgranulat.md"
-produktname = "EDATON® FG Dichtungsgranulat"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/EDATON-G-Dichtungsgranulat.md"
 produktname = "EDATON® G Dichtungsgranulat"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/EDATON.md"
 produktname = "EDATON®"
-[[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/EDATON-Pulver.md"
-produktname = "EDATON® Pulver"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/EQUIMONT.md"
 produktname = "EQUIMONT®"
@@ -73,23 +52,8 @@ produktname = "FENA®-MIN"
 link = "produkte/Bentonit/MycoEX_Basic.md"
 produktname = "MycoEX®_Basic"
 [[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/MycoEX_Plus.md"
-produktname = "MycoEX®_Plus"
-[[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/MycoEX_Premium.md"
-produktname = "MycoEX®_Premium"
-[[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/StabiSil-FG7.md"
 produktname = "StabiSil FG7"
-[[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/StabiSil-P10.md"
-produktname = "StabiSil P10"
-[[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/StabiSil-P7.md"
-produktname = "StabiSil P7"
-[[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/TERRANA-naturaktiv.md"
-produktname = "TERRANA® naturaktiv"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/TERRANA_P61.md"
 produktname = "TERRANA®_P61"
@@ -165,9 +129,6 @@ produktname = "SEPIOBEST_100P"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Sepiolith/Sepiogel-TS.md"
 produktname = "Sepiogel TS"
-[[produktgruppen.produktliste.produktlink]]
-link = "produkte/Sepiolith/Sepiogel-TX.md"
-produktname = "Sepiogel TX"
 [[produktgruppen]]
 produktgruppe = "Zeolith"
 [produktgruppen.anwendungsbereiche]
