@@ -1,5 +1,5 @@
 +++
-content = "<p>Alles über uns und unsere Produkte finden Sie hier nochmal ganz kompakt zum Durchblättern. Sie haben das Passende nicht gefunden? Sprechen Sie uns einfach an, wir sind Ihnen gerne behilflich.</p>"
+content = "<p>Alles über uns und unsere Produkte finden Sie hier nochmal ganz kompakt zum Durchblättern. Sie haben das Passende nicht gefunden? Sprechen Sie uns einfach an, wir sind Ihnen gerne behilflich</p>"
 date = "2019-04-13T08:06:07+02:00"
 layout = "downloads"
 seo_description = "Datenblätter und Zertifikate rund um unsere Produkte"
