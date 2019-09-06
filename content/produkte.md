@@ -16,21 +16,21 @@ content = "<p>Güllebehandlung, Bodenverbesserung, Unterstützungsmittel für Bi
 icon = "/uploads/Icon_landwirtschaft.png"
 titel = "Landwirtschaft"
 [[produktgruppen.anwendungsbereiche.bereiche]]
-content = "<p>Pharmazeutische Hilfsstoffe</p><p><a href=\"/pharmazie/\" title=\"\">&gt;&gt; weiterlesen</a></p>"
-icon = "/uploads/icon_pharmazie.png"
-titel = "Pharmazie"
+content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\">&gt;&gt; weiterlesen</a></p>"
+icon = "/uploads/icon_tiere.png"
+titel = "Tierernährung"
 [[produktgruppen.anwendungsbereiche.bereiche]]
 content = "<p>Substratzuschlagsstoffe, Kompostierung, Bodenverbesserung, Düngung</p><p><a href=\"/garten-und-landschaftsbau/\" title=\"\">&gt;&gt; weiterlesen</a></p>"
 icon = "/uploads/icon_garten.png"
 titel = "Garten- und Landschftsbau"
 [[produktgruppen.anwendungsbereiche.bereiche]]
-content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\">&gt;&gt; weiterlesen</a></p>"
-icon = "/uploads/icon_tiere.png"
-titel = "Tierernährung"
-[[produktgruppen.anwendungsbereiche.bereiche]]
 content = "<p>Abdichtungen, Horizontalbohrungen, Rohrbettungen, Ringraum- / Bohrlochverfüllungen, Flüssigboden, Abwasserreinigung</p><p><a href=\"/technische-anwendungen\" title=\"\">&gt;&gt; weiterlesen</a></p>"
 icon = "/uploads/icon_technik.png"
 titel = "Technische Anwendungen"
+[[produktgruppen.anwendungsbereiche.bereiche]]
+content = "<p>Pharmazeutische Hilfsstoffe</p><p><a href=\"/pharmazie/\" title=\"\">&gt;&gt; weiterlesen</a></p>"
+icon = "/uploads/icon_pharmazie.png"
+titel = "Pharmazie"
 [produktgruppen.beschreibung]
 beschriftung = "Was ist Bentonit?"
 content = "<p>PLATZHALTERTEXT Am puleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve, Am \t\tpuleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve,</p>"
