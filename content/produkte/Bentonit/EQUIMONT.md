@@ -38,7 +38,7 @@ titel = "Natürlicher Schutzschild gegen unerwünschte Stoffe im Futter"
 content = "<p>Technisches Datenblatt:</p><p><img src=\"/uploads/2019/08/18/equimont1.JPG\"></p><p><img src=\"/uploads/2019/08/18/equimont2.JPG\"></p>"
 titel = "Datenblatt"
 [[sections]]
-content = "<p><a href=\"\" title=\"\">Natürlicher Schutzschild</a></p><p>Giftgehalte in Futtergräsern</p><p>Heuqualität Freizeitreiter</p><p><a href=\"Mauke_beim_Kaltblut.pdf\" title=\"\">Mauke beim Kaltblut</a></p><p><a href=\"Weidekrankheit_Reiter_Revue.pdf\" title=\"Weidekrankheiten Reiter Revue\">Weidekrankheiten Reiterrevue</a></p><p>Equimont AID Adsorption</p><p>Equimont Datenblatt 2019</p><p></p>"
+content = "<p><strong>&gt;&gt; Alle wichtigen Informationen stehen für Sie auch im </strong><a href=\"/downloads\" title=\"\"><strong>Download </strong></a><strong>bereit!</strong></p><p></p>"
 titel = "Downloads"
 
 +++
