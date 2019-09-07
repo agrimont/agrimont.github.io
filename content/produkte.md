@@ -64,6 +64,9 @@ produktname = "FENA®-MIN"
 link = "produkte/Bentonit/MycoEX_Basic.md"
 produktname = "MycoEX®"
 [[produktgruppen.produktliste.produktlink]]
+link = "produkte/Bentonit/PHARMABENT.md"
+produktname = "PHARMABENT®"
+[[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/StabiSil-FG7.md"
 produktname = "StabiSil"
 [[produktgruppen.produktliste.produktlink]]
