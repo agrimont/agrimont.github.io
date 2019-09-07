@@ -29,7 +29,7 @@ titel = "Datenblatt MycoEX®_Plus"
 content = "<p>Technisches Datenblatt MycoEX®_Premium:</p><p><img src=\"/uploads/2019/08/18/MycoEX_Premium1.JPG\"><img src=\"/uploads/2019/08/18/MycoEX_Premium2.JPG\"></p>"
 titel = "Datenblatt MycoEX®_Premium"
 [[sections]]
-content = "<p><a href=\"\" title=\"\">Datenblatt Premium</a></p><p>Datenblatt Plus</p><p>Datenblatt Classic</p><p>Datenblatt Basic</p><p>Fyler Basic</p>"
+content = "<p><strong>&gt;&gt; Alle wichtigen Informationen stehen für Sie auch im </strong><a href=\"/downloads\" title=\"\"><strong>Download </strong></a><strong>bereit!</strong></p><p><a href=\"/downloads\" title=\"\">&gt;&gt;&gt; Zum <strong>Downloadbereich</strong></a></p>"
 titel = "Downloads"
 
 +++
