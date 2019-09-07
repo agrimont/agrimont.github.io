@@ -31,6 +31,21 @@ jobs:
                     git add .
                     git commit --allow-empty -m "Trigger deployment"
                     git push -q git@github.com:agrimont/agrimont.github.io.git master
+    ftp:
+        machine:
+            image: circleci/classic:latest
+        branches:
+          only: master
+        steps:
+        - run:
+            name: Install LFTP
+            command: |
+                sudo apt-get update;
+                sudo apt-get install lftp;
+        - checkout
+        - run:
+            name: Send Via SFTP
+            command: lftp sftp://${username}:${password}@${hostname} -e "mirror -v -R --exclude .git/ --exclude .circleci/ ./ testtrans; quit"
 
 workflows:
   version: 2
