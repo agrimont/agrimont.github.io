@@ -21,7 +21,7 @@ titel = "Einsatzbereiche"
 content = "<p>Technisches Datenblatt EDASIL<strong>® </strong>FG:</p><p><img src=\"/uploads/2019/09/03/edasil_fg.JPG\"></p><p>Technisches Datenblatt EDASIL<strong>® </strong>G:</p><p><img src=\"/uploads/2019/09/03/edasil_g.JPG\"></p>"
 titel = "Datenblätter"
 [[sections]]
-content = "<p>F EDASIL_FG_Datenblatt_2019 PDF </p><p>EDASIL_G_Datenblatt_2019 PDF </p><p>Wirkung_von_Tonmineralen_in_sandigen_Böden PDF </p><p>EDASIL_Tonminerale_und Bodenfruchtbarkeit PDF </p><p>EDASIL_Bodenverbesserung</p>"
+content = "<p><strong>&gt;&gt; Alle wichtigen Informationen stehen für Sie auch im </strong><a href=\"/downloads\" title=\"\"><strong>Download </strong></a><strong>bereit!</strong></p>"
 titel = "Downloads"
 
 +++
