@@ -19,5 +19,8 @@ titel = "Sepiogel TX: Datenblatt"
 [[sections]]
 content = "<p><img src=\"/uploads/2019/09/05/sepiogel_ts.JPG\"></p>"
 titel = "Sepiogel TS: Datenblatt"
+[[sections]]
+content = "<p><strong>&gt;&gt; Alle wichtigen Informationen stehen für Sie auch im </strong><a href=\"/downloads\" title=\"\"><strong>Download </strong></a><strong>bereit!</strong></p><p><a href=\"/downloads\" title=\"\">&gt;&gt;&gt; Zum <strong>Downloadbereich</strong></a></p>"
+titel = "Downloads"
 
 +++
