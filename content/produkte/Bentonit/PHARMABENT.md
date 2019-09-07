@@ -1,5 +1,6 @@
 +++
 content_oben = "<p>Konform mit dem Europäischen Arzneibuch (Pharmacopoea Europaea, Ph. Eur.) und British Pharmacopoeia (BP)</p><p>Momographie: Bentonit - Pharma-Qualität | Synonym: Bentonitum Ph.Eur., Bentonite INCI</p><p>Der Bentonit PHARMABENT® ist der geeignete pharmazeutische Hilfsstoff um:</p><ul><li><p>auch bei geringen Einsatzmengen Emulsionen zu stabilisieren. Dabei bleibt die Viskosität der durch die kolloidale Struktur von PHARMABENT® stabilisierten Systeme auch bei höheren Temperaturen erhalten.</p></li><li><p>die Suspendierung von feinen Partikeln in wässrigen Systemen zu verbessern. Mit PHARMABENT® werden optimale Suspensionen erreicht, ohne die Fließfähigkeit zu verlieren.</p></li></ul><p>Aufgrund der sorgfältigen Rohbentonitauswahl verfügt PHARMABENT® über maßgeschneiderte rheologische, chemische und kolloidale Eigenschaften für den Einsatz im pharmazeutischen Bereich.</p>"
+dateien = []
 title = "PHARMABENT®"
 [bilder]
 gallerie = ["/uploads/2019/05/24/pharmabent_website8.jpg", "/uploads/2019/05/24/pharmabent_website9.jpg", "/uploads/2019/05/24/pharmabent_website3.jpg"]
@@ -10,9 +11,6 @@ weight = 1
 [menu.produkte]
 parent = "Bentonit"
 weight = 21
-[[dateien]]
-datei = "/uploads/2019/05/24/demo.pdf"
-titel = "Datenblatt"
 [[links_mit_icons_oben]]
 icon = "/uploads/icon_pharmazie.png"
 link = "pharmazie.md"
