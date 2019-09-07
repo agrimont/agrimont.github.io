@@ -107,11 +107,7 @@ produktgruppe = "Attapulgit"
 [produktgruppen.anwendungsbereiche]
 beschriftung = "Anwendungsbereiche"
 [[produktgruppen.anwendungsbereiche.bereiche]]
-content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\"> &gt;&gt; weiterlesen</a></p>"
-icon = "/uploads/icon_tiere.png"
-titel = "Tierernährung"
-[[produktgruppen.anwendungsbereiche.bereiche]]
-content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\"> &gt;&gt; weiterlesen</a></p>"
+content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\">&gt;&gt; weiterlesen</a></p>"
 icon = "/uploads/icon_tiere.png"
 titel = "Tierernährung"
 [produktgruppen.beschreibung]
