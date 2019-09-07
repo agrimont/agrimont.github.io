@@ -183,7 +183,7 @@ produktname = "ZEOBEST Blattdüngung und Pflanzenschutz"
 link = "produkte/Zeolith/ZEOBEST-mikronisiert.md"
 produktname = "ZEOBEST_4A mikronisiert"
 [[produktgruppen.produktliste.produktlink]]
-link = "produkte/Zeolith/ZEOBEST-technische-Qualität.md"
+link = "produkte/Zeolith/zeobest-technisch.md"
 produktname = "ZEOBEST technische Qualität"
 [[produktgruppen]]
 produktgruppe = "Pharmabent"
