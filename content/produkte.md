@@ -147,6 +147,14 @@ produktgruppe = "Zeolith"
 beschriftung = "Anwendungsbereiche"
 [[produktgruppen.anwendungsbereiche.bereiche]]
 content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\">&gt;&gt; weiterlesen</a></p>"
+icon = ""
+titel = "Landwirtschaft"
+[[produktgruppen.anwendungsbereiche.bereiche]]
+content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\">&gt;&gt; weiterlesen</a></p>"
+icon = "/uploads/icon_garten.png"
+titel = "Garten- und Landschaftsbau"
+[[produktgruppen.anwendungsbereiche.bereiche]]
+content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\">&gt;&gt; weiterlesen</a></p>"
 icon = "/uploads/icon_tiere.png"
 titel = "Tierernährung"
 [[produktgruppen.anwendungsbereiche.bereiche]]
