@@ -34,5 +34,8 @@ titel = "Prüfung auf Identität, Reinheit und funktionalitätsbezogene Eigensch
 [[sections]]
 content = "<p>Äusserlich in Pudern, Pasten und Verbänden bei Hauterkrankungen</p><p>Innerlich ähnlich wie Aktivkohle als altes Hausmittel bei Magen-Darm-Beschwerden. PHARMABENT® stabilisiert den Schleimfilm auf der Schleimhaut im Verdauungstrakt und adsorbiert krankheitsauslösende Stoffe (z.B. Schwermetalle, Mykotoxine etc.) und Keime, die dann aus dem Körper ausgeleitet werden</p>"
 titel = "Konformität mit der Europäischen Pharmakopöe (Arzneibuch), Monographie Bentonit"
+[[sections]]
+content = "<p><strong>&gt;&gt; Alle wichtigen Informationen stehen für Sie auch im </strong><a href=\"/downloads\" title=\"\"><strong>Download </strong></a><strong>bereit!</strong></p><p><a href=\"/downloads\" title=\"\">&gt;&gt;&gt; Zum <strong>Downloadbereich</strong></a></p>"
+titel = "Downloads"
 
 +++
