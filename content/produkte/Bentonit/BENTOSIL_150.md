@@ -26,5 +26,8 @@ titel = "BENTOSIL_G: Datenblatt"
 [[sections]]
 content = "<p><img src=\"/uploads/2019/09/05/Bentosil_UF.JPG\"></p>"
 titel = "BENTOSIL_UF: Datenblatt"
+[[sections]]
+content = "<p><strong>&gt;&gt; Alle wichtigen Informationen stehen für Sie auch im </strong><a href=\"/downloads\" title=\"\"><strong>Download </strong></a><strong>bereit!</strong></p>"
+titel = "Downloads"
 
 +++
