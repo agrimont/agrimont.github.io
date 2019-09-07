@@ -44,16 +44,16 @@ link = "produkte/Bentonit/BENTOFEED_SE.md"
 produktname = "BENTOFEED®"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/BENTOSIL_150.md"
-produktname = "BENTOSIL_150"
+produktname = "BENTOSIL"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/EDASIL-FG.md"
-produktname = "EDASIL® FG"
-[[produktgruppen.produktliste.produktlink]]
-link = "produkte/Bentonit/EDATON-G-Dichtungsgranulat.md"
-produktname = "EDATON® G Dichtungsgranulat"
+produktname = "EDASIL® "
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/EDATON.md"
 produktname = "EDATON®"
+[[produktgruppen.produktliste.produktlink]]
+link = "produkte/Bentonit/EDATON-G-Dichtungsgranulat.md"
+produktname = "EDATON® Dichtungsgranulat"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/EQUIMONT.md"
 produktname = "EQUIMONT®"
@@ -62,13 +62,13 @@ link = "produkte/Bentonit/FENA-MIN.md"
 produktname = "FENA®-MIN"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/MycoEX_Basic.md"
-produktname = "MycoEX®_Basic"
+produktname = "MycoEX®"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/StabiSil-FG7.md"
-produktname = "StabiSil FG7"
+produktname = "StabiSil"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/TERRANA_P61.md"
-produktname = "TERRANA®_P61"
+produktname = "TERRANA®"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/TOXISORB-Premium.md"
 produktname = "TOXISORB® Premium"
