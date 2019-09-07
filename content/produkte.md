@@ -97,9 +97,6 @@ content = "<p>PLATZHALTERTEXT Am puleserbi patus cupiena turnimiliis. Ovem, conl
 [produktgruppen.produktliste]
 beschriftung = "Produkte"
 [[produktgruppen.produktliste.produktlink]]
-link = "produkte/Algenkalk/Algenkalk-mikronisiert.md"
-produktname = "Algenkalk mikronisiert"
-[[produktgruppen.produktliste.produktlink]]
 link = "produkte/Algenkalk/ALGOFEED.md"
 produktname = "ALGOFEED®"
 [[produktgruppen.produktliste.produktlink]]
