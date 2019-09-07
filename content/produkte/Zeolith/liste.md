@@ -25,5 +25,8 @@ titel = "Datenblatt ZEOBEST_20"
 [[sections]]
 content = "<p><img src=\"/uploads/2019/09/04/zeobest50.JPG\"></p>"
 titel = "Datenblatt ZEOBEST_50"
+[[sections]]
+content = "<p><strong>&gt;&gt; Alle wichtigen Informationen stehen für Sie auch im </strong><a href=\"/downloads\" title=\"\"><strong>Download </strong></a><strong>bereit!</strong></p><p><a href=\"/downloads\" title=\"\">&gt;&gt;&gt; Zum <strong>Downloadbereich</strong></a></p>"
+titel = "Downloads"
 
 +++
