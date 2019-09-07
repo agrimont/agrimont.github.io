@@ -14,7 +14,7 @@ link = "tierernährung.md"
 content = "<p>Technisches Datenblatt TOXISORB® PREMIUM:</p><p><img src=\"/uploads/2019/08/18/toxisorb1.JPG\"><img src=\"/uploads/2019/08/18/toxisorb2.JPG\"></p>"
 titel = "Datenblatt"
 [[sections]]
-content = "<p>Datenblatt</p>"
+content = "<p><strong>&gt;&gt; Alle wichtigen Informationen stehen für Sie auch im </strong><a href=\"/downloads\" title=\"\"><strong>Download </strong></a><strong>bereit!</strong></p><p><a href=\"/downloads\" title=\"\">&gt;&gt;&gt; Zum <strong>Downloadbereich</strong></a></p>"
 titel = "Downloads"
 
 +++

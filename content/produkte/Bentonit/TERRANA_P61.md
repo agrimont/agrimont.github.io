@@ -21,5 +21,8 @@ titel = "TERRANA® naturaktiv: Datenblatt"
 [[sections]]
 content = "<p><img src=\"/uploads/2019/09/05/terrana_p61.JPG\"></p>"
 titel = "TERRANA®_P61: Datenblatt"
+[[sections]]
+content = "<p><strong>&gt;&gt; Alle wichtigen Informationen stehen für Sie auch im </strong><a href=\"/downloads\" title=\"\"><strong>Download </strong></a><strong>bereit!</strong></p><p><a href=\"/downloads\" title=\"\">&gt;&gt;&gt; Zum <strong>Downloadbereich</strong></a></p>"
+titel = "Downloads"
 
 +++
