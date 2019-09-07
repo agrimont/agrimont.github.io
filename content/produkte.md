@@ -174,8 +174,11 @@ beschriftung = "Produkte"
 link = "produkte/Zeolith/ZEOBEST-1g568-Futterzsatz.md"
 produktname = "ZEOBEST 1g568 Futterzsatz"
 [[produktgruppen.produktliste.produktlink]]
+link = "produkte/Zeolith/liste.md"
+produktname = "ZEOBEST Blattdüngung und Pflanzenschutz"
+[[produktgruppen.produktliste.produktlink]]
 link = "produkte/Zeolith/ZEOBEST-mikronisiert.md"
-produktname = "ZEOBEST mikronisiert"
+produktname = "ZEOBEST_4A mikronisiert"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Zeolith/ZEOBEST-technische-Qualität.md"
 produktname = "ZEOBEST technische Qualität"
