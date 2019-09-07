@@ -29,7 +29,7 @@ titel = "ALGOSIL® Pulver: Datenblatt"
 content = "<p><img src=\"/uploads/2019/09/05/Algosil_UF.JPG\"></p>"
 titel = "ALGOSIL®_UF mikronisiert: Datenblatt"
 [[sections]]
-content = "<p>Datenblatt</p><p>Buchsbaum</p>"
+content = "<p><strong>&gt;&gt; Alle wichtigen Informationen stehen für Sie auch im </strong><a href=\"/downloads\" title=\"\"><strong>Download </strong></a><strong>bereit!</strong></p>"
 titel = "Downloads"
 
 +++
