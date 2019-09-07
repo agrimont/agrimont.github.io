@@ -176,7 +176,7 @@ produktgruppe = "Pharmabent"
 [produktgruppen.anwendungsbereiche]
 beschriftung = "Anwendungsbereiche"
 [[produktgruppen.anwendungsbereiche.bereiche]]
-content = "<p>Pharmazeutische Hilfsstoffe</p>"
+content = "<p>Pharmazeutische Hilfsstoffe</p><p><a href=\"/pharmazie\" title=\"\">&gt;&gt; weiterlesen</a></p>"
 icon = "/uploads/icon_pharmazie.png"
 titel = "Pharmazie"
 [produktgruppen.beschreibung]
