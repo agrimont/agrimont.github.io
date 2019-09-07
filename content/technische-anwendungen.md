@@ -32,7 +32,7 @@ linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>Selektiver Adsorber für Filterschüttungen im feuchten und gasförmigen Milieu</p>"
 bezeichnung = "ZEOBEST GRANULATE"
-link = "produkte/Zeolith/zeobest-technische-qualität.md"
+link = "produkte/Zeolith/zeobest-technisch.md"
 linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>SEPIOGEL-Produktreihe: Rheologische Additive für wässrige Systeme auf Sepiolith-Basis.</p>"
