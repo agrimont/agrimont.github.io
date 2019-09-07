@@ -20,5 +20,8 @@ titel = "Datenblatt: ZEOBEST_4A mikronisiert 2µm"
 [[sections]]
 content = "<p><img src=\"/uploads/2019/09/04/zeobest_4A_mikronisiert_6.JPG\"></p>"
 titel = "Datenblatt: ZEOBEST_4A mikronisiert 6µm"
+[[sections]]
+content = "<p><strong>&gt;&gt; Alle wichtigen Informationen stehen für Sie auch im </strong><a href=\"/downloads\" title=\"\"><strong>Download </strong></a><strong>bereit!</strong></p><p><a href=\"/downloads\" title=\"\">&gt;&gt;&gt; Zum <strong>Downloadbereich</strong></a></p>"
+titel = "Downloads"
 
 +++
