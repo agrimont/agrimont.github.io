@@ -112,7 +112,7 @@ icon = "/uploads/icon_tiere.png"
 titel = "Tierernährung"
 [produktgruppen.beschreibung]
 beschriftung = "Was ist Attapulgit?"
-content = "<p>PLATZHALTERTEXT Am puleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve, Am \t\tpuleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve,</p>"
+content = "<p><strong>Attapulgit </strong>ist ein hydratisiertes Magnesiumaluminiumsilikat, das in der Natur als fibrilläres Silikat-Tonmineral mit reaktiven OH-Gruppen auf der Oberfläche vorkommt.  </p><p><strong>Attapulgit</strong> hat einige besondere physikalische Eigenschaften, wie hohe Viskosität, große spezifische Oberfläche, Kationen-Austauschfähigkeit und großes Adsorptionsvermögen. Als Futterzusatzstoff wird Attapulgit eingesetzt, um das Wachstum und die Gesundheit von Nutztieren, insbesondere von Schweinen und Broilern zu fördern, wegen seiner Fähigkeit, Toxine zu binden und Durchfällen vorzubeugen. Neben diesen physiologischen Effekten verbessert Attapulgit als technologischer Zusatzstoff die Futterpelletqualität (PAPPAS et al., 2010).   </p><p><strong>Attpulgit-Ultra8</strong> ist ein mit Magnesiumoxid angereichertes Mineralfuttermittel, das als mikrofein vermahlenes Pulver vorliegt.  Aufgrund seiner spezifischen mechanischen Oberflächenmodifikation werden optimale Bindungswirkungen auf bakterientoxinogene Stämme von E. coli und durch Clostridium perfringens erzielt und schützen auf diese Weise tierische Darmepithelzellen und -angebote eine verstärkte Verdauungssicherheit und ein fortschrittlicher Gesundheitszustand und eine verbesserte Wachstumsleistung.</p>"
 [produktgruppen.produktliste]
 beschriftung = "Produkte"
 [[produktgruppen.produktliste.produktlink]]
