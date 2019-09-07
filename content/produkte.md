@@ -146,13 +146,17 @@ produktgruppe = "Zeolith"
 [produktgruppen.anwendungsbereiche]
 beschriftung = "Anwendungsbereiche"
 [[produktgruppen.anwendungsbereiche.bereiche]]
-content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\"> &gt;&gt; weiterlesen</a></p>"
+content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\">&gt;&gt; weiterlesen</a></p>"
 icon = "/uploads/icon_tiere.png"
 titel = "Tierernährung"
 [[produktgruppen.anwendungsbereiche.bereiche]]
-content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p><p><a href=\"/tierernährung\" title=\"\"> &gt;&gt; weiterlesen</a></p>"
-icon = "/uploads/icon_tiere.png"
-titel = "Tierernährung"
+content = "<p>Pharmazeutische Hilfsstoffe</p><p><a href=\"/pharmazie\" title=\"\">&gt;&gt; weiterlesen</a></p>"
+icon = "/uploads/icon_pharmazie.png"
+titel = "Pharmazie"
+[[produktgruppen.anwendungsbereiche.bereiche]]
+content = "<p>Abdichtungen, Horizontalbohrungen, Rohrbettungen, Ringraum- / Bohrlochverfüllungen, Flüssigboden, Abwasserreinigung</p><p><a href=\"/technische-anwendungen\" title=\"\">&gt;&gt; weiterlesen</a></p>"
+icon = "/uploads/icon_technik.png"
+titel = "Technische Anwendungen"
 [produktgruppen.beschreibung]
 beschriftung = "Was ist Zeolith?"
 content = "<p>PLATZHALTERTEXT Am puleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve, Am \t\tpuleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve,</p>"
