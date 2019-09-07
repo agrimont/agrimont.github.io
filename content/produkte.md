@@ -140,7 +140,7 @@ link = "produkte/Sepiolith/SEPIOBEST_100P.md"
 produktname = "SEPIOBEST_100P"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Sepiolith/Sepiogel-TS.md"
-produktname = "Sepiogel TS"
+produktname = "Sepiogel"
 [[produktgruppen]]
 produktgruppe = "Zeolith"
 [produktgruppen.anwendungsbereiche]
