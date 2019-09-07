@@ -41,7 +41,7 @@ link = "produkte/Bentonit/AQUASIL-Aktivbentonit.md"
 produktname = "AQUASIL Aktivbentonit"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/BENTOFEED_SE.md"
-produktname = "BENTOFEED®_SE"
+produktname = "BENTOFEED®"
 [[produktgruppen.produktliste.produktlink]]
 link = "produkte/Bentonit/BENTOSIL_150.md"
 produktname = "BENTOSIL_150"
