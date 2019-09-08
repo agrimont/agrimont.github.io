@@ -31,9 +31,10 @@ jobs:
                     git add .
                     git commit --allow-empty -m "Trigger deployment"
                     git push -q git@github.com:agrimont/agrimont.github.io.git master
+                    ls -al
                     apk add lftp
                     echo $USER
-                    lftp ftp://$USER:$PASS@agrimont.de -e "set ssl:verify-certificate false; mirror -v -R -n --exclude .git/ --exclude .circleci/ --parallel=10 ./ agrimont2019; quit"
+                    lftp ftp://$USER:$PASS@agrimont.de -e "set ssl:verify-certificate false; mirror -v -R -n --exclude .git/ --exclude .circleci/ --parallel=20 ./ agrimont2019; quit"
     ftp:
         machine:
             image: circleci/classic:latest
