@@ -45,7 +45,7 @@ jobs:
         - checkout
         - run:
             name: Send Via SFTP
-            command: lftp sftp://${username}:${password}@${hostname} -e "mirror -v -R --exclude .git/ --exclude .circleci/ ./ testtrans; quit"
+            command: lftp sftp://${username}:${password}@agrimont.de -e "mirror -v -R --exclude .git/ --exclude .circleci/ ./ testtrans; quit"
 
 workflows:
   version: 2
