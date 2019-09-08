@@ -31,6 +31,12 @@ jobs:
                     git add .
                     git commit --allow-empty -m "Trigger deployment"
                     git push -q git@github.com:agrimont/agrimont.github.io.git master
+            - deploy_ftp:
+                name: Deploy to FTP
+                working_directory: ~/public
+                command: |
+                    apk add lftp
+                    lftp sftp://${username}:${password}@agrimont.de -e "mirror -v -R --exclude .git/ --exclude .circleci/ ./ testtrans; quit"
     ftp:
         machine:
             image: circleci/classic:latest
@@ -53,9 +59,3 @@ workflows:
         filters:
           branches:
             only: source
-  deployftp:
-    jobs:
-    - ftp:
-        filters:
-          branches:
-            only: master
