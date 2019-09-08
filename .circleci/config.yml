@@ -15,12 +15,6 @@ jobs:
                 working_directory: ~/
                 command: | 
                     git clone -b master git@github.com:agrimont/agrimont.github.io.git public
-                    cd public
-                    git ls-tree -r --name-only HEAD | while read filename; do 
-                        unixtime=$(git log -1 --format="%at" -- $filename)
-                        touchtime=$(date -d $unixtime +'%Y%m%d%H%M.%S')
-                        touch -t $touchtime $filename
-                    done
             - run:
                 name: Generate site
                 working_directory: ~/agrimont.github.io
