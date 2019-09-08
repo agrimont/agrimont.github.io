@@ -34,6 +34,9 @@ jobs:
     ftp:
         machine:
             image: circleci/classic:latest
+        environment:
+            username: username
+            password: password
         steps:
         - run:
             name: Install LFTP
