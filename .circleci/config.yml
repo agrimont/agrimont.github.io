@@ -34,8 +34,6 @@ jobs:
     ftp:
         machine:
             image: circleci/classic:latest
-        branches:
-          only: master
         steps:
         - run:
             name: Install LFTP
@@ -55,3 +53,7 @@ workflows:
         filters:
           branches:
             only: source
+    - ftp:
+        filters:
+          branches:
+            only: master
