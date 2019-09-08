@@ -24,6 +24,9 @@ jobs:
             - deploy:
                 name: Deploy to Github Pages & FTP
                 working_directory: ~/public
+                environment:
+                    username: username
+                    password: password
                 command: |
                     git config credential.helper 'cache --timeout=120'
                     git config user.email "k@b-coding.de"
