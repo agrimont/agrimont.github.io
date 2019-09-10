@@ -132,7 +132,7 @@ icon = "/uploads/icon_technik.png"
 titel = "Technische Anwendungen"
 [produktgruppen.beschreibung]
 beschriftung = "Was ist Sepiolith?"
-content = "<p>PLATZHALTERTEXT Am puleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve, Am \t\tpuleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve,</p>"
+content = "<p>Sepiolith ist ein Schichtsilikat mit hohem Magnesiumanteil. </p>"
 [produktgruppen.produktliste]
 beschriftung = "Produkte"
 [[produktgruppen.produktliste.produktlink]]
