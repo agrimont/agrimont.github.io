@@ -93,7 +93,7 @@ icon = "/uploads/icon_garten.png"
 titel = "Garten- und Landschaftsbau"
 [produktgruppen.beschreibung]
 beschriftung = "Was ist Algenkalk?"
-content = "<p>PLATZHALTERTEXT Am puleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve, Am \t\tpuleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve,</p>"
+content = "<p>Algenkalk ist kohlensaurer Kalk aus Meeresalgen, geeignet als Einzelfutter und Düngemittel. Er zeichnet sich aus durch eine hohe Bio-Verfügbarkeit der Inhaltsstoffe Calcium- und Magnesium und ist reich an Spurenelementen.</p><p>Lieferformen: Granulat, Pulver, mikronisiertes Pulver</p>"
 [produktgruppen.produktliste]
 beschriftung = "Produkte"
 [[produktgruppen.produktliste.produktlink]]
