@@ -167,7 +167,7 @@ icon = "/uploads/icon_pharmazie.png"
 titel = "Pharmazie"
 [produktgruppen.beschreibung]
 beschriftung = "Was ist Zeolith?"
-content = "<p>PLATZHALTERTEXT Am puleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve, Am \t\tpuleserbi patus cupiena turnimiliis. Ovem, conlost? Opiocci enatiss imoruntebut noximis ponve,</p>"
+content = "<p>Zeoloith ist ein kristallines Vulkangestein mit überwiegendem Anteil an dem wertgebenden Mineral Klinoptilolith. Kennzeichnend ist die starre Gerüststruktur mit hoher Porosität und selektiver Kationenaustauschkapazität.</p><p>Lieferformen: Granulat, Pulver, mikronisiertes Pulver</p>"
 [produktgruppen.produktliste]
 beschriftung = "Produkte"
 [[produktgruppen.produktliste.produktlink]]
