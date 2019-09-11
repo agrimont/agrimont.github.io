@@ -998,6 +998,10 @@ footer .footermenu a:last-child {
   align-items: flex-start;
   padding: 4rem;
 }
+.subpage.ab .phc .content .cw {
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.7);
+}
 .subpage.ab .phc .content h2 {
   margin: 0!important;
   text-transform: uppercase;

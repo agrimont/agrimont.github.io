@@ -1,5 +1,19 @@
 {{ define "main" }} {{ $currentPage := . }}
-<div class="subpage ab" style="padding-top:2rem;">
+<div class="subpage ab">
+  <div class="ui container standard">
+    <div class="phc" style="background:url({{partial "imgUrl" (dict "img" .Params.bild_header "params" "c_scale,w_1200,q_90,f_auto" )}}) center center no-repeat;">
+      <div class="content" >
+        <div class="cw">
+        <h2>
+            Anwendungsbereich
+        </h2>
+        <h1>
+          {{.Params.title}}
+        </h1>
+      </div>
+      </div>
+    </div>
+  </div>
   <div class="ui container">
     <div id="titlesec">
       <div>
