@@ -3,7 +3,7 @@ content_oben = "<h2>TERRANA® naturaktiv</h2><p><strong>TERRANA® naturaktiv</st
 seo_description = "TERRANA®- Produktreihe: Spezialbentonite zur Abwasserbehandlung."
 title = "TERRANA®"
 [bilder]
-gallerie = ["/uploads/2019/09/05/terrana.jpg"]
+gallerie = []
 [menu.ab_technische_anwendungen]
 weight = 10
 [menu.produkte]
