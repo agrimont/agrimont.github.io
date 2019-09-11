@@ -35,7 +35,7 @@ jobs:
                     ls -al
                     apk add lftp
                     echo $USER
-                    lftp ftp://$USER:$PASS@agrimont.de -e "set ssl:verify-certificate false; mirror -v -R -n --exclude .git/ --exclude .circleci/ --ignore-time --parallel=20 ./ agrimont2019; quit"
+                    lftp ftp://$USER:$PASS@agrimont.de -e "set ssl:verify-certificate false; mirror -v -R -n --exclude .git/ --exclude .circleci/ --ignore-time --parallel=10 ./ agrimont2019; quit"
     ftp:
         machine:
             image: circleci/classic:latest
