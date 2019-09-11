@@ -14,29 +14,72 @@ weight = 6
 [menu.mobil]
 weight = 5
 [[bereiche]]
+titel = "ALGOFEED®"
+[[bereiche.dateien]]
+datei = "/uploads/2019/06/07/ALGOFEED_315_Pulver_Einzelfuttermittel_Datenblatt_2019.pdf"
+name = "ALGOFEED®: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/03/Flyer_Algenkalk_deutsch_2017.pdf"
+name = "ALGOFEED®: Flyer"
+[[bereiche.dateien]]
+datei = "/uploads/2019/06/07/ALGOFEED_Einsatz_beim_Schwein_2019.pdf"
+name = "ALGOFEED®: Einsatz beim Schwein"
+[[bereiche]]
+titel = "ALGOSIL®"
+[[bereiche.dateien]]
+datei = "/uploads/2019/06/07/ALGOSIL_Pulver_160_Datenbaltt_02.2019.pdf"
+name = "ALGOSIL® Pulver: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/ALGOSIL_UF_Datenblatt_deutsch_2019_20kg.pdf"
+name = "ALGOSIL®_UF mikronisiert: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/03/Flyer_Algenkalk_deutsch_2017.pdf"
+name = "ALGOSIL®: Flyer"
+[[bereiche.dateien]]
+datei = "/uploads/2019/06/07/Prüfung_der_Wirksamkeit_ von_ ALGOSIL_ Algenkalkpulver_ gegen_den_Buchsbaumzünsler.pdf"
+name = "ALGOSIL®: Algenkalk gegen Buchsbaumzünsler"
+[[bereiche]]
+titel = "AQUA-SIL"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Aquasil_Datenblatt_2019.pdf"
+name = "AQUA-SIL: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/AQUASIL_Durchlässigkeit_2019.pdf"
+name = "AQUA-SIL: Durchlässigkeit"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/AQUASIL_Funktionsweise_2019.pdf"
+name = "AQUA-SIL: Funktionsweise"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/AQUASIL_Einbau_2019.pdf"
+name = "AQUA-SIL: Einbau"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Uferrandausbildung_Aqua-Sil_Bild_2019.pdf"
+name = "AQUA-SIL: Uferrandausbildung"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Mistlager.pdf"
+name = "AQUA-SIL - Erfahrungsbericht: Unterflursicherung von Stallmistzwischenlagern mit Bentonit (T. Dewes, A. Petersen, L. Schmitt, 1996)"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Artikel Ruck.pdf"
+name = "AQUA-SIL - Erfahrungsbericht: Erfahrungen bei Abdichtungen von Klärteichen in Lockergesteinen in Norddeutschland (K.-W. Ruck, 1985)"
+[[bereiche]]
 titel = "Attapulgit"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/Produktdatenblatt_Attapulgit_Ultra8_04.2019.pdf"
 name = "Attapulgit Ultra 8: Datenblatt"
 [[bereiche]]
-titel = "Sepiogel"
+titel = "BENTOFEED®"
 [[bereiche.dateien]]
-datei = "/uploads/2019/09/05/Sepiogel_TX_in_suspension_fertilizers_2019.pdf"
-name = "Sepiogel TX/TS: Anwendungsbeispiel"
+datei = "/uploads/2019/09/04/BENTOFEED_SE_Pulver_Datenblatt_2019.pdf"
+name = "BENTOFEED®_SE: Datenblatt"
 [[bereiche.dateien]]
-datei = "/uploads/2019/09/05/Sepiogel_TX_data_sheet_engl._2019.pdf"
-name = "Sepiogel TX: Datenblatt"
+datei = "/uploads/2019/09/04/Datenblatt_Bentofeed_FG_2019.pdf"
+name = "BENTOFEED®_FG: Datenblatt"
 [[bereiche.dateien]]
-datei = "/uploads/2019/09/05/Sepiogel_TS_data_sheet_engl._2019.pdf"
-name = "Sepiogel TS: Datenblatt"
-[[bereiche]]
-titel = "EDATON® Dichtungsgranulate"
+datei = "/uploads/2019/09/04/BENTOFEED_Keine_Bindung _von_Vitaminen.pdf"
+name = "BENTOFEED®: Keine Bindung von Vitaminen im Futter"
 [[bereiche.dateien]]
-datei = "/uploads/2019/09/05/EDATON_G_Dichtungs_Granulat_2019.pdf"
-name = "EDATON® G: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/05/EDATON_FG_Dichtungs_Granulat_2019.pdf"
-name = "EDATON® FG: Datenblatt"
+datei = "/uploads/2019/09/04/Bentofeed_Flyer_Einzelblätter.pdf"
+name = "BENTOFEED®: Flyer"
 [[bereiche]]
 titel = "BENTOSIL"
 [[bereiche.dateien]]
@@ -52,38 +95,102 @@ name = "BENTOSIL_G: Datenblatt"
 datei = "/uploads/2019/09/05/BENTOSIL_UF_2019.pdf"
 name = "BENTOSIL_UF: Datenblatt"
 [[bereiche]]
-titel = "TERRANA®"
+titel = "EDASIL®"
 [[bereiche.dateien]]
-datei = "/uploads/2019/09/05/TERRANA_P61_Datenblatt.pdf"
-name = "TERRANA®_P61: Datenblatt"
+datei = "/uploads/2019/09/04/EDASIL_FG_Datenblatt_2019 (2).pdf"
+name = "EDASIL®_FG: Datenblatt"
 [[bereiche.dateien]]
-datei = "/uploads/2019/09/04/TI_Terrana_agrimont.pdf"
-name = "TERRANA® naturaktiv: Datenblatt"
+datei = "/uploads/2019/09/04/EDASIL_G_Datenblatt_2019 (1).pdf"
+name = "EDASIL®_G: Datenblatt"
 [[bereiche.dateien]]
-datei = "/uploads/2019/09/04/TERRANA_Bentonit_macht_Wasser_klar_agrimont.pdf"
-name = "TERRANA® naturaktiv: Bentonit macht Wasser klar"
+datei = "/uploads/2019/09/04/EDASIL_Bodenverbesserung.pdf"
+name = "EDASIL®: Bodenverbesserung"
 [[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Terrana_Versuch_agrimont.pdf"
-name = "TERRANA® naturaktiv: Einsatz zur Schlammbeschwerung auf einer Kläranlage"
+datei = "/uploads/2019/09/04/EDASIL_Tonminerale_und Bodenfruchtbarkeit.pdf"
+name = "EDASIL®: Tonminerale und Bodenfruchtbarkeit"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Wirkung_von_Tonmineralen_in_sandigen_Böden.pdf"
+name = "EDASIL®: Wirkung von Tonmineralen in sandigen Böden"
 [[bereiche]]
-titel = "ALGOFEED®"
+titel = " EDATON®"
 [[bereiche.dateien]]
-datei = "/uploads/2019/06/07/ALGOFEED_315_Pulver_Einzelfuttermittel_Datenblatt_2019.pdf"
-name = "ALGOFEED®: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/03/Flyer_Algenkalk_deutsch_2017.pdf"
-name = "ALGOFEED®: Flyer"
-[[bereiche.dateien]]
-datei = "/uploads/2019/06/07/ALGOFEED_Einsatz_beim_Schwein_2019.pdf"
-name = "ALGOFEED®: Einsatz beim Schwein"
+datei = "/uploads/2019/09/04/EDATON_M75_Datenblatt_2019.pdf"
+name = " EDATON®: Datenblatt"
 [[bereiche]]
-titel = "Wissenswertes"
+titel = "EDATON® Dichtungsgranulate"
 [[bereiche.dateien]]
-datei = "/uploads/2019/06/07/Prüfung_der_Wirksamkeit_ von_ ALGOSIL_ Algenkalkpulver_ gegen_den_Buchsbaumzünsler.pdf"
-name = "Artikel: Die Wirksamkeit von ALGOSIL® gegen den Buchsbaumzünsler"
+datei = "/uploads/2019/09/05/EDATON_G_Dichtungs_Granulat_2019.pdf"
+name = "EDATON® G: Datenblatt"
 [[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Bentonit zur Bindung von Cäsium nach radioaktivem Fallout_Langfassung-1.pdf"
-name = "Artikel: Bentonit zur Bindung von Cäsium nach radioaktivem Fallout"
+datei = "/uploads/2019/09/05/EDATON_FG_Dichtungs_Granulat_2019.pdf"
+name = "EDATON® FG: Datenblatt"
+[[bereiche]]
+titel = "EQUIMONT®"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/EQUIMONT_Datenblatt_2019.pdf"
+name = "EQUIMONT®: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/EQUIMONT_Natürlicher Schutzschild.pdf"
+name = "EQUIMONT®: Natürlicher Schutzschild"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Equimont_AID_Adsorptionsvermögen_Bentonit.pdf"
+name = "EQUIMONT®: Adsorptionsvermögen"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Mauke_beim_Kaltblut.pdf"
+name = "EQUIMONT®: Mauke bei Kaltblütern"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Giftgehalte_in_Futtergräsern_2014.pdf"
+name = "EQUIMONT®: Giftgehalte in Futtergräsern"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Weidekrankheit_Reiter_Revue.pdf"
+name = "EQUIMONT®: Weidekrankheit (Reiter Revue)"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Heuqualität_VFD_Vereinigung_Freizeitreiter.pdf"
+name = "EQUIMONT®: Heuqualität (Vereinigung Freizeitreiter)"
+[[bereiche]]
+titel = "FENA®-MIN"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/FENA-MIN_Datenblatt_Futterzusatz_1m558i_2019.pdf"
+name = "FENA®-MIN: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/FENAMIN_Flyer_2017.pdf"
+name = "FENA®-MIN: Flyer"
+[[bereiche]]
+titel = "MycoEX®"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Übersicht der Mykotoxin-Bindungseffizienz der MycoEX_Produktreihe_08.2019.pdf"
+name = "MycoEX®: Übersicht der Produktreihe"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/MycoEx_Basic_deutsch.pdf"
+name = "MycoEX®_Basic: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Flyer_MycoEx_Basic_deutsch (2).pdf"
+name = "MycoEX®_Basic: Flyer"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/MycoEx_Classic_deutsch_2019.pdf"
+name = "MycoEX®_Classic: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/MycoEx_Plus_deutsch_2019.pdf"
+name = "MycoEX®_Plus: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/MycoEx_Premium_Datenblatt_deutsch_2019.pdf"
+name = "MycoEX®_Premium: Datenblatt"
+[[bereiche]]
+titel = "SEPIOBEST"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/SEPIOBEST_100P_E562_Binder_Datenblatt.pdf"
+name = "SEPIOBEST_100P_E562: Datenblatt"
+[[bereiche]]
+titel = "Sepiogel"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/Sepiogel_TX_in_suspension_fertilizers_2019.pdf"
+name = "Sepiogel TX/TS: Anwendungsbeispiel"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/Sepiogel_TX_data_sheet_engl._2019.pdf"
+name = "Sepiogel TX: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/Sepiogel_TS_data_sheet_engl._2019.pdf"
+name = "Sepiogel TS: Datenblatt"
 [[bereiche]]
 titel = "StabiSil"
 [[bereiche.dateien]]
@@ -98,6 +205,33 @@ name = "StabiSil_P10: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/04/BENTONIT BEI ANAEROBEN PROZESSEN.pdf"
 name = "StabiSil: Bentonit bei anaeroben Prozessen"
+[[bereiche]]
+titel = "TERRANA®"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/05/TERRANA_P61_Datenblatt.pdf"
+name = "TERRANA®_P61: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/TI_Terrana_agrimont.pdf"
+name = "TERRANA® naturaktiv: Datenblatt"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/TERRANA_Bentonit_macht_Wasser_klar_agrimont.pdf"
+name = "TERRANA® naturaktiv: Bentonit macht Wasser klar"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Terrana_Versuch_agrimont.pdf"
+name = "TERRANA® naturaktiv: Einsatz zur Schlammbeschwerung auf einer Kläranlage"
+[[bereiche]]
+titel = "TOXISORB® PREMIUM"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/TOXISORB_Premium_Datenblatt_2019.pdf"
+name = "TOXISORB® PREMIUM: Datenblatt"
+[[bereiche]]
+titel = "Wissenswertes"
+[[bereiche.dateien]]
+datei = "/uploads/2019/06/07/Prüfung_der_Wirksamkeit_ von_ ALGOSIL_ Algenkalkpulver_ gegen_den_Buchsbaumzünsler.pdf"
+name = "Artikel: Die Wirksamkeit von ALGOSIL® gegen den Buchsbaumzünsler"
+[[bereiche.dateien]]
+datei = "/uploads/2019/09/04/Bentonit zur Bindung von Cäsium nach radioaktivem Fallout_Langfassung-1.pdf"
+name = "Artikel: Bentonit zur Bindung von Cäsium nach radioaktivem Fallout"
 [[bereiche]]
 titel = "ZEOBEST"
 [[bereiche.dateien]]
@@ -124,140 +258,6 @@ name = "Pharmazie: ZEOBEST_4A mikronisiert 6µm: Datenblatt"
 [[bereiche.dateien]]
 datei = "/uploads/2019/09/05/ZEOBEST_85_2019.pdf"
 name = "ZEOBEST_technische Anwendung: Datenblatt"
-[[bereiche]]
-titel = " EDATON®"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/EDATON_M75_Datenblatt_2019.pdf"
-name = " EDATON®: Datenblatt"
-[[bereiche]]
-titel = "EDASIL®"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/EDASIL_FG_Datenblatt_2019 (2).pdf"
-name = "EDASIL®_FG: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/EDASIL_G_Datenblatt_2019 (1).pdf"
-name = "EDASIL®_G: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/EDASIL_Bodenverbesserung.pdf"
-name = "EDASIL®: Bodenverbesserung"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/EDASIL_Tonminerale_und Bodenfruchtbarkeit.pdf"
-name = "EDASIL®: Tonminerale und Bodenfruchtbarkeit"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Wirkung_von_Tonmineralen_in_sandigen_Böden.pdf"
-name = "EDASIL®: Wirkung von Tonmineralen in sandigen Böden"
-[[bereiche]]
-titel = "TOXISORB® PREMIUM"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/TOXISORB_Premium_Datenblatt_2019.pdf"
-name = "TOXISORB® PREMIUM: Datenblatt"
-[[bereiche]]
-titel = "MycoEX®"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Übersicht der Mykotoxin-Bindungseffizienz der MycoEX_Produktreihe_08.2019.pdf"
-name = "MycoEX®: Übersicht der Produktreihe"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/MycoEx_Basic_deutsch.pdf"
-name = "MycoEX®_Basic: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Flyer_MycoEx_Basic_deutsch (2).pdf"
-name = "MycoEX®_Basic: Flyer"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/MycoEx_Classic_deutsch_2019.pdf"
-name = "MycoEX®_Classic: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/MycoEx_Plus_deutsch_2019.pdf"
-name = "MycoEX®_Plus: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/MycoEx_Premium_Datenblatt_deutsch_2019.pdf"
-name = "MycoEX®_Premium: Datenblatt"
-[[bereiche]]
-titel = "FENA®-MIN"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/FENA-MIN_Datenblatt_Futterzusatz_1m558i_2019.pdf"
-name = "FENA®-MIN: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/FENAMIN_Flyer_2017.pdf"
-name = "FENA®-MIN: Flyer"
-[[bereiche]]
-titel = "AQUA-SIL"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Aquasil_Datenblatt_2019.pdf"
-name = "AQUA-SIL: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/AQUASIL_Durchlässigkeit_2019.pdf"
-name = "AQUA-SIL: Durchlässigkeit"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/AQUASIL_Funktionsweise_2019.pdf"
-name = "AQUA-SIL: Funktionsweise"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/AQUASIL_Einbau_2019.pdf"
-name = "AQUA-SIL: Einbau"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Uferrandausbildung_Aqua-Sil_Bild_2019.pdf"
-name = "AQUA-SIL: Uferrandausbildung"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Mistlager.pdf"
-name = "AQUA-SIL - Erfahrungsbericht: Unterflursicherung von Stallmistzwischenlagern mit Bentonit (T. Dewes, A. Petersen, L. Schmitt, 1996)"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Artikel Ruck.pdf"
-name = "AQUA-SIL - Erfahrungsbericht: Erfahrungen bei Abdichtungen von Klärteichen in Lockergesteinen in Norddeutschland (K.-W. Ruck, 1985)"
-[[bereiche]]
-titel = "SEPIOBEST"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/SEPIOBEST_100P_E562_Binder_Datenblatt.pdf"
-name = "SEPIOBEST_100P_E562: Datenblatt"
-[[bereiche]]
-titel = "EQUIMONT®"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/EQUIMONT_Datenblatt_2019.pdf"
-name = "EQUIMONT®: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/EQUIMONT_Natürlicher Schutzschild.pdf"
-name = "EQUIMONT®: Natürlicher Schutzschild"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Equimont_AID_Adsorptionsvermögen_Bentonit.pdf"
-name = "EQUIMONT®: Adsorptionsvermögen"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Mauke_beim_Kaltblut.pdf"
-name = "EQUIMONT®: Mauke bei Kaltblütern"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Giftgehalte_in_Futtergräsern_2014.pdf"
-name = "EQUIMONT®: Giftgehalte in Futtergräsern"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Weidekrankheit_Reiter_Revue.pdf"
-name = "EQUIMONT®: Weidekrankheit (Reiter Revue)"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Heuqualität_VFD_Vereinigung_Freizeitreiter.pdf"
-name = "EQUIMONT®: Heuqualität (Vereinigung Freizeitreiter)"
-[[bereiche]]
-titel = "ALGOSIL®"
-[[bereiche.dateien]]
-datei = "/uploads/2019/06/07/ALGOSIL_Pulver_160_Datenbaltt_02.2019.pdf"
-name = "ALGOSIL® Pulver: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/05/ALGOSIL_UF_Datenblatt_deutsch_2019_20kg.pdf"
-name = "ALGOSIL®_UF mikronisiert: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/03/Flyer_Algenkalk_deutsch_2017.pdf"
-name = "ALGOSIL®: Flyer"
-[[bereiche.dateien]]
-datei = "/uploads/2019/06/07/Prüfung_der_Wirksamkeit_ von_ ALGOSIL_ Algenkalkpulver_ gegen_den_Buchsbaumzünsler.pdf"
-name = "ALGOSIL®: Algenkalk gegen Buchsbaumzünsler"
-[[bereiche]]
-titel = "BENTOFEED®"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/BENTOFEED_SE_Pulver_Datenblatt_2019.pdf"
-name = "BENTOFEED®_SE: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Datenblatt_Bentofeed_FG_2019.pdf"
-name = "BENTOFEED®_FG: Datenblatt"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/BENTOFEED_Keine_Bindung _von_Vitaminen.pdf"
-name = "BENTOFEED®: Keine Bindung von Vitaminen im Futter"
-[[bereiche.dateien]]
-datei = "/uploads/2019/09/04/Bentofeed_Flyer_Einzelblätter.pdf"
-name = "BENTOFEED®: Flyer"
 [[bereiche]]
 titel = "Zertifikate"
 [[bereiche.dateien]]
