@@ -13,7 +13,7 @@
     <div id="pgroups">
       {{range .Params.produktgruppen}}
         <div class="pgroup">
-          <h2>{{.produktgruppe}}</h2>
+          <h2 id="{{.produktgruppe}}">{{.produktgruppe}}</h2>
           <div class="sections">
             {{with .beschreibung}}
               <div class="sec closed">

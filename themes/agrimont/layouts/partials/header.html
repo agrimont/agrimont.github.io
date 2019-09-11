@@ -118,7 +118,7 @@
                         <div class="cols">
                             {{ range $site.Menus.produkte }}
                             <div class="sub-menu-item {{ if $currentPage.IsMenuCurrent "produkte" . }}active{{ end }}">
-                                <a href="{{ .URL }}" title="{{ .Title }}">{{replaceRE "\\[.+\\]" "" .Name}}</a>
+                                <a href="/produkte#{{ .Title }}" title="{{ .Title }}">{{replaceRE "\\[.+\\]" "" .Name}}</a>
                                 {{ if .HasChildren }}
                                     {{ range .Children }}
                                         <div class="sub-sub-menu-item {{ if $currentPage.IsMenuCurrent "produkte" . }}active{{ end }}">
