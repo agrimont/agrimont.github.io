@@ -1,17 +1,6 @@
 {{ define "main" }} {{ $currentPage := . }}
 <div class="subpage product">
-  <div class="phc" style="background:url({{partial "imgUrl" (dict "img" .Params.bilder.header "params" "c_scale,w_2500,q_90,f_auto" )}}) center center no-repeat;">
-    <div class="ui container standard">
-      <div class="content" >
-        <h3>
-            Produkte
-        </h3>
-        <h2>
-            {{replaceRE "\\[.+\\]" "" .Params.menu.produkte.parent}} >> {{replaceRE "\\[.+\\]" "" .Params.title}}
-        </h2>
-      </div>
-    </div>
-  </div>
+  
   <div class="ui container">
     <div id="imggal">
       {{range $idx,$img := $currentPage.Params.bilder.gallerie}}
