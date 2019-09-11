@@ -54,7 +54,7 @@ titel = "Industrieminerale"
 untertitel = "Produkte"
 [[produkte.links]]
 icon = "/uploads/2019/06/24/attapulgit.png"
-link = "produkte/Attapulgit/liste.md"
+link = "produkte/Attapulgit/Attapulgit-Ultra8.md"
 titel = "Attapulgit"
 [[produkte.links]]
 icon = "/uploads/2019/06/24/algenkalk.png"
