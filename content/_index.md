@@ -58,7 +58,7 @@ link = "produkte/Attapulgit/liste.md"
 titel = "Attapulgit"
 [[produkte.links]]
 icon = "/uploads/2019/06/24/algenkalk.png"
-link = "produkte/Algenkalk/Algenkalk-mikronisiert.md"
+link = "produkte/Algenkalk/liste.md"
 titel = "Algenkalk"
 [[produkte.links]]
 icon = "/uploads/2019/06/24/bentonit.png"
