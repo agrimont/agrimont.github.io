@@ -23,7 +23,7 @@ linkbeschriftung = "ZUM PRODUKT"
 beschreibung = "<p>Als naturaktives Tonmineral und als saueraktivierte Bleicherde zur Abwasserbehandlung verfügbar.</p><p>*Terrana: eine Marke der Clariant International Ltd.</p>"
 bezeichnung = "TERRANA®"
 link = "produkte/Bentonit/TERRANA_P61.md"
-linkbeschriftung = "o\tTERRANA®"
+linkbeschriftung = "ZUM PRODUKT"
 [[produkte]]
 beschreibung = "<p>Zur Steigerung der Effizienz von Biogasanlagen und Erhöhung der Betriebssicherheit,fördert die Mikroorganismentätigkeit und stabilisiert die Prozessabläufe</p>"
 bezeichnung = "STABISIL"
