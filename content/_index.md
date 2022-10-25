@@ -9,7 +9,7 @@ untertitel = "Bentonit, Algenkalk, Attapulgit, Zeolith, Sepiolith, Pharmabent"
 bild = "/uploads/tiere.jpg"
 content = "<p>Futterzusatzstoffe, Vormischungen, Einzelfuttermittel, Mykotoxinadsorber</p>"
 icon = "/uploads/icon_tiere.png"
-link = "Tierernährung.md"
+link = "tierernährung.md"
 linkbeschriftung = "zu den Produkten"
 titel = "Tierernährung"
 [[anwendungsbereiche.bereiche]]
