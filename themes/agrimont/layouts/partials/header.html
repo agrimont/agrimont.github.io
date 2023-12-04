@@ -115,17 +115,24 @@
                   {{if eq .Title "Produkte"}}
                     <div class="sub-menu">
                       <div class="ui container" style="position:relative;">
+                        asdasdasdasds
                         <div class="cols">
                             {{ range $site.Menus.produkte }}
                             <div class="sub-menu-item {{ if $currentPage.IsMenuCurrent "produkte" . }}active{{ end }}">
-                                <a href="/produkte#{{ .Title }}" title="{{ .Title }}">{{replaceRE "\\[.+\\]" "" .Name}}</a>
+                              
+                              <a href="/produkte#{{ .Title }}" title="{{ .Title }}">{{replaceRE "\\[.+\\]" "" .Name}}</a>
                                 {{ if .HasChildren }}
                                     {{ range .Children }}
                                         <div class="sub-sub-menu-item {{ if $currentPage.IsMenuCurrent "produkte" . }}active{{ end }}">
+                                          {{if eq .Name "PHARMABENT®"}}
+                              <a href="https://pharmabent.com/" title="{{ .Title }}">{{replaceRE "\\[.+\\]" "" .Name}}</a>
+                              {{else}}
                                             <a href="{{ .URL }}" title="{{ .Title }}">{{replaceRE "\\[.+\\]" "" .Name}}</a>
+                                            {{end}}
                                         </div>
                                     {{ end }}
                                   {{end}}
+                             
                             </div>
                         {{ end }}
                         </div>
