@@ -40,7 +40,11 @@
           <div>
               {{.beschreibung|safeHTML}}
           </div>
+          {{if eq .bezeichnung "PHARMABENT"}}
+                              <a href="https://pharmabent.com/">
+                              {{else}}
           <a href="{{ref $currentPage .link }}">
+            {{end}}
           <div class="agributton">
               <div class="iconw">
                   <i class="icon chevron right"></i>

@@ -33,7 +33,11 @@
                 <div class="secc">
                   <ul>
                     {{range .produktlink}}
+                    {{if eq .produktname "Pharmabent"}}
+                    <li><a href="https://pharmabent.com/" title="{{.produktname}}">{{.produktname}}</a></li>
+                              {{else}}
                       <li><a href="{{relref $currentPage .link}}">{{.produktname}}</a></li>
+                      {{end}}
                     {{end}}
                   </ul>
                 </div>
